@@ -4,7 +4,7 @@
 
 ## Getting started
 
-* [What is Specify](<README (1).md>)
+* [What is Specify](<getting-started/what-is-specify.md>)
 * [Concepts](getting-started/concepts.md)
 * [Getting started](getting-started/getting-started.md)
 
