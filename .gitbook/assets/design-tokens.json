@@ -1,0 +1,5185 @@
+[
+  {
+    "id": "3960a017-f2b6-4562-913a-2db497cd7233",
+    "createdAt": "2022-10-12T09:24:55.052Z",
+    "updatedAt": "2022-12-20T14:50:49.082Z",
+    "name": "adjustments",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/da1d2f00-de5d-4210-8109-5557f465ae36",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "adjustments",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:750-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "35b64188-92f3-41f2-a224-dbf5a6e397d6",
+    "createdAt": "2022-10-12T09:24:54.998Z",
+    "updatedAt": "2022-12-20T14:50:48.982Z",
+    "name": "archive",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f5f18463-49ec-4010-bdc4-e665b24e9ada",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "archive",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:674-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c16b7c5e-81f1-4f95-9c88-325c1b6456f7",
+    "createdAt": "2022-10-12T09:24:54.962Z",
+    "updatedAt": "2022-12-20T14:50:48.916Z",
+    "name": "arrow-circle-down / Outline",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2d8450fb-7e8e-491c-af06-08324b4f9295",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "arrow-circle-down / Outline",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "arrow-circle-down"
+    },
+    "type": "vector",
+    "originId": "31:1127-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c9630f11-c5bd-4eea-8958-df8794dbf3bc",
+    "createdAt": "2022-10-12T09:24:54.963Z",
+    "updatedAt": "2022-12-20T14:50:48.925Z",
+    "name": "arrow-circle-down / Solid",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c1abbb23-8d4b-4a42-a62d-76186c07dc7a",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "arrow-circle-down / Solid",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "arrow-circle-down"
+    },
+    "type": "vector",
+    "originId": "31:1147-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e47e4d2b-3774-459d-a711-dc4517efc404",
+    "createdAt": "2022-10-12T09:24:54.966Z",
+    "updatedAt": "2022-12-20T14:50:48.929Z",
+    "name": "arrow-circle-left / Outline",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c748ff8b-cefc-4583-8176-7f742f9aeadd",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "arrow-circle-left / Outline",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "arrow-circle-left"
+    },
+    "type": "vector",
+    "originId": "31:1129-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c0268c76-45e5-4f70-9c7d-6d88e75aafa1",
+    "createdAt": "2022-10-12T09:24:54.966Z",
+    "updatedAt": "2022-12-20T14:50:48.929Z",
+    "name": "arrow-circle-left / Solid",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9561f4f8-6e13-489b-bf71-2002741ae562",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "arrow-circle-left / Solid",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "arrow-circle-left"
+    },
+    "type": "vector",
+    "originId": "31:1149-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "cc0ad1be-f982-4460-9f09-93203c7ff1e0",
+    "createdAt": "2022-10-12T09:24:54.944Z",
+    "updatedAt": "2022-12-20T14:50:48.899Z",
+    "name": "arrow-circle-right / Outline",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/59120027-2a0a-42fa-ad6e-c182339a6c66",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "arrow-circle-right / Outline",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "arrow-circle-right"
+    },
+    "type": "vector",
+    "originId": "31:1123-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e4dc3c86-c975-4320-8637-1a6bfc637fc5",
+    "createdAt": "2022-10-12T09:24:54.955Z",
+    "updatedAt": "2022-12-20T14:50:48.913Z",
+    "name": "arrow-circle-right / Solid",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6bbf396d-f20a-47be-a916-d519e3b000a8",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "arrow-circle-right / Solid",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "arrow-circle-right"
+    },
+    "type": "vector",
+    "originId": "31:1143-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "3560fb65-b781-4efb-aca7-3b76a4ca7838",
+    "createdAt": "2022-10-12T09:24:54.966Z",
+    "updatedAt": "2022-12-20T14:50:48.932Z",
+    "name": "arrow-circle-up / Outline",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c46e7c99-263a-4921-a3af-b873293415b0",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "arrow-circle-up / Outline",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "arrow-circle-up"
+    },
+    "type": "vector",
+    "originId": "31:1131-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "2290a308-d009-4535-bc7a-52b7cacc6260",
+    "createdAt": "2022-10-12T09:24:54.966Z",
+    "updatedAt": "2022-12-20T14:50:48.935Z",
+    "name": "arrow-circle-up / Solid",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a9cebd23-9c26-41d9-b033-f39c0e84544f",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "arrow-circle-up / Solid",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "arrow-circle-up"
+    },
+    "type": "vector",
+    "originId": "31:1151-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "92e7f88f-8e0d-489d-a46e-9a4a66e4ecec",
+    "createdAt": "2022-10-12T09:35:42.695Z",
+    "updatedAt": "2022-12-22T13:53:49.840Z",
+    "name": "Base/Black",
+    "value": {
+      "a": 1,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:2117",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "This is a black color.",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "9b573bbb-e548-40f3-830a-54877d70b6f8",
+    "createdAt": "2022-10-12T09:37:01.213Z",
+    "updatedAt": "2022-10-12T09:37:01.213Z",
+    "name": "base-space-1",
+    "value": {
+      "unit": "px",
+      "measure": 4
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "14:419",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "988265e8-5ab2-4598-8ab3-f398923aa323",
+    "createdAt": "2022-10-12T09:37:01.248Z",
+    "updatedAt": "2022-10-12T09:37:01.248Z",
+    "name": "base-space-10",
+    "value": {
+      "unit": "px",
+      "measure": 56
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "14:426",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "7430ad7b-d63d-4d82-93c7-c12029d662c3",
+    "createdAt": "2022-10-12T09:37:01.220Z",
+    "updatedAt": "2022-10-27T09:24:13.681Z",
+    "name": "base-space-11",
+    "value": {
+      "unit": "px",
+      "measure": 265
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "14:428",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "f01bc0bb-b8ea-40d4-a528-2e1b82a8e3ec",
+    "createdAt": "2022-10-12T09:37:01.229Z",
+    "updatedAt": "2022-10-12T09:37:01.229Z",
+    "name": "base-space-12",
+    "value": {
+      "unit": "px",
+      "measure": 80
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "14:485",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "6f70caea-d051-4978-bb40-bae44266e0e8",
+    "createdAt": "2022-10-12T09:37:01.242Z",
+    "updatedAt": "2022-10-12T09:37:01.242Z",
+    "name": "base-space-2",
+    "value": {
+      "unit": "px",
+      "measure": 8
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "96:661",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "63a911d8-1139-433e-b4ca-d12b6faa2a0c",
+    "createdAt": "2022-10-12T09:37:01.239Z",
+    "updatedAt": "2022-10-12T09:37:01.239Z",
+    "name": "base-space-3",
+    "value": {
+      "unit": "px",
+      "measure": 12
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "96:662",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "0f27f726-514c-403b-bc7b-78c3e9488f3c",
+    "createdAt": "2022-10-12T09:37:01.233Z",
+    "updatedAt": "2022-10-12T09:37:01.233Z",
+    "name": "base-space-4",
+    "value": {
+      "unit": "px",
+      "measure": 16
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "96:663",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "ad818ecd-2295-483b-8418-d5526fad45c8",
+    "createdAt": "2022-10-12T09:37:01.229Z",
+    "updatedAt": "2022-10-12T09:37:01.229Z",
+    "name": "base-space-5",
+    "value": {
+      "unit": "px",
+      "measure": 20
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "14:422",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "a48226cd-93e7-4aed-a724-bc27c9914f17",
+    "createdAt": "2022-10-12T09:37:01.226Z",
+    "updatedAt": "2022-10-12T09:37:01.226Z",
+    "name": "base-space-6",
+    "value": {
+      "unit": "px",
+      "measure": 24
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "14:440",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "f4a8e211-594a-4f01-8a43-aa3d1fb6dbdf",
+    "createdAt": "2022-10-12T09:37:01.232Z",
+    "updatedAt": "2022-10-12T09:37:01.232Z",
+    "name": "base-space-7",
+    "value": {
+      "unit": "px",
+      "measure": 32
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "14:441",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "0473f681-f18d-4fc1-823c-650d5c1dabdb",
+    "createdAt": "2022-10-12T09:37:01.238Z",
+    "updatedAt": "2022-10-12T09:37:01.238Z",
+    "name": "base-space-8",
+    "value": {
+      "unit": "px",
+      "measure": 40
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "14:442",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c0e8c06a-9386-4cb2-ae22-eec79c689a49",
+    "createdAt": "2022-10-12T09:37:01.238Z",
+    "updatedAt": "2022-10-12T09:37:01.238Z",
+    "name": "base-space-9",
+    "value": {
+      "unit": "px",
+      "measure": 48
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Measurements"
+    },
+    "type": "measurement",
+    "originId": "14:425",
+    "sourceId": "c197f0a4-455e-4d37-a55f-0f39eb1e1d1a",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "29efe8e9-649f-4a72-93b6-91794098cf4e",
+    "createdAt": "2022-10-12T09:35:42.638Z",
+    "updatedAt": "2022-11-15T15:39:23.056Z",
+    "name": "Base/White",
+    "value": {
+      "a": 1,
+      "b": 255,
+      "g": 255,
+      "r": 255
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:2118",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "7d75b8a4-a548-4632-aaf8-f18b70b12f4f",
+    "createdAt": "2022-10-12T09:24:54.981Z",
+    "updatedAt": "2022-12-20T14:50:48.947Z",
+    "name": "bell",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0d26d979-d7da-491c-95a3-4b02c848744c",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "bell",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:668-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "8079ead0-28bb-482d-856f-22d2abc42ef2",
+    "createdAt": "2022-10-12T09:41:29.052Z",
+    "updatedAt": "2022-12-15T07:29:52.383Z",
+    "name": "bitmap-01",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f27c1f62-44b5-40cf-af7b-1dc3af719737",
+      "format": "jpg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "bitmap-01",
+      "format": "jpg",
+      "dimension": 1,
+      "parentFrame": "Bitmaps"
+    },
+    "type": "bitmap",
+    "originId": "16:2147-jpg-1",
+    "sourceId": "fa5bed23-71f2-4f91-ab81-c7cbbe65c0cb",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "85bfd43c-e5d5-4d83-a4d4-856c41c99164",
+    "createdAt": "2022-10-12T09:41:29.052Z",
+    "updatedAt": "2022-12-15T07:29:52.378Z",
+    "name": "bitmap-02",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e247f325-7cda-4866-a07e-ea1a610d5bc6",
+      "format": "jpg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "bitmap-02",
+      "format": "jpg",
+      "dimension": 1,
+      "parentFrame": "Bitmaps"
+    },
+    "type": "bitmap",
+    "originId": "16:2146-jpg-1",
+    "sourceId": "fa5bed23-71f2-4f91-ab81-c7cbbe65c0cb",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "f1557abe-fa86-41aa-af6c-b8cfb9d4867b",
+    "createdAt": "2022-10-12T09:41:29.052Z",
+    "updatedAt": "2022-12-15T07:29:52.383Z",
+    "name": "bitmap-03",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/63e876f1-84fb-4327-bdf9-cbdeaac42f8a",
+      "format": "jpg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "bitmap-03",
+      "format": "jpg",
+      "dimension": 1,
+      "parentFrame": "Bitmaps"
+    },
+    "type": "bitmap",
+    "originId": "16:2145-jpg-1",
+    "sourceId": "fa5bed23-71f2-4f91-ab81-c7cbbe65c0cb",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "acf6e79e-17c9-4b00-8779-628438d1737b",
+    "createdAt": "2022-10-12T09:41:29.056Z",
+    "updatedAt": "2022-12-15T07:29:52.376Z",
+    "name": "bitmap-04",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/bb32837c-cad6-45eb-8e09-1eb9b65d6d25",
+      "format": "jpg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "bitmap-04",
+      "format": "jpg",
+      "dimension": 1,
+      "parentFrame": "Bitmaps"
+    },
+    "type": "bitmap",
+    "originId": "16:2148-jpg-1",
+    "sourceId": "fa5bed23-71f2-4f91-ab81-c7cbbe65c0cb",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "98d1be6a-789a-4a1a-93ef-be42d456bdb3",
+    "createdAt": "2022-10-12T09:41:29.052Z",
+    "updatedAt": "2022-12-15T07:29:52.379Z",
+    "name": "bitmap-05",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/98078155-f955-4c73-88ff-f72fc1ec80c7",
+      "format": "jpg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "bitmap-05",
+      "format": "jpg",
+      "dimension": 1,
+      "parentFrame": "Bitmaps"
+    },
+    "type": "bitmap",
+    "originId": "16:2144-jpg-1",
+    "sourceId": "fa5bed23-71f2-4f91-ab81-c7cbbe65c0cb",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "5547b059-0c45-4df8-b61c-aedaaf7f0bfb",
+    "createdAt": "2022-10-12T09:41:29.040Z",
+    "updatedAt": "2022-12-15T07:29:52.361Z",
+    "name": "bitmap-06",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5686bfbf-a1ab-4acb-998f-12f6c567a613",
+      "format": "jpg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "bitmap-06",
+      "format": "jpg",
+      "dimension": 1,
+      "parentFrame": "Bitmaps"
+    },
+    "type": "bitmap",
+    "originId": "16:2149-jpg-1",
+    "sourceId": "fa5bed23-71f2-4f91-ab81-c7cbbe65c0cb",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "6db6929a-9fbc-4074-921c-f365dfc5dd5c",
+    "createdAt": "2022-10-12T09:40:58.104Z",
+    "updatedAt": "2022-11-15T15:39:23.236Z",
+    "name": "Body L",
+    "value": {
+      "font": {
+        "id": "948ede7c-457a-4bc8-96fb-cb9779a4359f",
+        "createdAt": "2022-10-12T09:40:58.119Z",
+        "updatedAt": "2022-11-18T16:16:03.150Z",
+        "name": "Inter-SemiBold",
+        "value": {
+          "format": "ttf",
+          "isItalic": false,
+          "provider": "Google Fonts",
+          "fontFamily": "Inter",
+          "fontWeight": 600,
+          "fontFileMissing": false,
+          "fontPostScriptName": "Inter-SemiBold",
+          "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/1cecfde5-6b70-4a8e-9e51-e435b975fa4b/font/Inter-SemiBold/Inter-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOKQOLRVU6&Expires=1672252891&Signature=JyutQq2Vk26iFBkZrkvUoTKDE6w%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAAaCWV1LXdlc3QtMSJIMEYCIQCqDGFqxvOJ4XtjYSutTNJxicwjhaZEg6SwWkyS8jVWngIhAPyVpr8%2BEyyH%2Bt6%2FJ3LCKp0tTD2NMaNrZfXpFrhXDgpfKu8DCEkQAxoMNTc0MTAyNjQ0MTI0IgwV3TuO9Dsnj6VqlQEqzAOf11fB0sWUwlY0UK3z7pEwZYHut8CU8OYe%2FtzVmwsI7%2FRLkcJGf%2BgpRzAyaoEKPiShHj%2BuseNJQYbM%2BfYpgcU1N9GZ2xvZ%2FYS6pD1YqUcv%2BxPcF%2BeKAkBAneL1ycQR6WpkuwnFxNigXwOtvTSad99D71PUxIAL31f14Ifgj70ytcpsv1DhEP4Y0DcBGBeADVMeDtWL5icHgIhPl4LaKZqpvKp0IZn4ysQp4i8S2clyu7n7bkJBAIUINY9FkouycihtJ7mMDj1ubt8wDepK%2BkIHps7ccug%2BOyUoKIMM0nUfCRIEgiu3T%2FGER2Fv0byOxXC%2FYEfZUFEGPKOqrHwxxL8nuAr6RQvVR%2FJBFNmD7vkRpNHkaZiM7%2Fh2Y7JwbF8m6CORQHoQVYuNPgIF8HK3aXoG3MxIKoaGwD5qM50rCRrLXpxuPffyYlXXfDMi4wJAGyIM1qa7GuSRZwufMRApOifroEGhOfovzqHRHnrLh9iLnovCKgbSLoUaNt6n%2BrkLKUROWxr1tBs20UbuLs2K8SKTj3YMLPMct%2B9kNt8G8UQZKvj7w8diZHkIhqeRCgZg%2B9sci%2F7ppOg2DIlpnr521jXht7FLRwm%2FKCO0m8J6MJHBsZ0GOqQBWRh%2FfvqXbImRHmcrnMdEhUIb8ZAglenUlkQDgi0wsNQOPE1ZL6YfA5hO3SEFWCe7pmLxvZRiKlOnUBPlEy4gFDWfNlyAQMFf93yDOtsV1yrFbCTqHvP5sJmwqoN6RWa1nOwd7jARYIsBlZD1hMD0fF7MUaVa3qXJdqrcR708HK8eMcL8lJUY763ytWnw1oh%2FNLDgm7fhw%2FPpoxs9kuaz5R%2BHuFI%3D"
+        },
+        "meta": {
+          "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-SemiBold",
+        "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+        "description": null,
+        "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+      },
+      "fontSize": {
+        "value": {
+          "unit": "px",
+          "measure": 14
+        }
+      },
+      "textAlign": {
+        "vertical": "top",
+        "horizontal": "left"
+      },
+      "lineHeight": {
+        "value": {
+          "unit": "px",
+          "measure": 20
+        }
+      }
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "textStyle",
+    "originId": "5:311",
+    "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "ff881ff3-3289-4f06-9c1b-d2727fe980f2",
+    "createdAt": "2022-10-12T09:40:58.128Z",
+    "updatedAt": "2022-11-15T15:39:23.276Z",
+    "name": "Body M",
+    "value": {
+      "font": {
+        "id": "82cb1a85-fbbe-4bc9-90d2-e097a5667083",
+        "createdAt": "2022-10-12T09:40:58.142Z",
+        "updatedAt": "2022-11-18T16:16:03.150Z",
+        "name": "Inter-Medium",
+        "value": {
+          "format": "ttf",
+          "isItalic": false,
+          "provider": "Google Fonts",
+          "fontFamily": "Inter",
+          "fontWeight": 500,
+          "fontFileMissing": false,
+          "fontPostScriptName": "Inter-Medium",
+          "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/1cecfde5-6b70-4a8e-9e51-e435b975fa4b/font/Inter-Medium/Inter-Medium.ttf?AWSAccessKeyId=ASIAYLKZPEWOKQOLRVU6&Expires=1672252891&Signature=87R2GMOKi8k03z%2BRMjhmWvDCyzk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAAaCWV1LXdlc3QtMSJIMEYCIQCqDGFqxvOJ4XtjYSutTNJxicwjhaZEg6SwWkyS8jVWngIhAPyVpr8%2BEyyH%2Bt6%2FJ3LCKp0tTD2NMaNrZfXpFrhXDgpfKu8DCEkQAxoMNTc0MTAyNjQ0MTI0IgwV3TuO9Dsnj6VqlQEqzAOf11fB0sWUwlY0UK3z7pEwZYHut8CU8OYe%2FtzVmwsI7%2FRLkcJGf%2BgpRzAyaoEKPiShHj%2BuseNJQYbM%2BfYpgcU1N9GZ2xvZ%2FYS6pD1YqUcv%2BxPcF%2BeKAkBAneL1ycQR6WpkuwnFxNigXwOtvTSad99D71PUxIAL31f14Ifgj70ytcpsv1DhEP4Y0DcBGBeADVMeDtWL5icHgIhPl4LaKZqpvKp0IZn4ysQp4i8S2clyu7n7bkJBAIUINY9FkouycihtJ7mMDj1ubt8wDepK%2BkIHps7ccug%2BOyUoKIMM0nUfCRIEgiu3T%2FGER2Fv0byOxXC%2FYEfZUFEGPKOqrHwxxL8nuAr6RQvVR%2FJBFNmD7vkRpNHkaZiM7%2Fh2Y7JwbF8m6CORQHoQVYuNPgIF8HK3aXoG3MxIKoaGwD5qM50rCRrLXpxuPffyYlXXfDMi4wJAGyIM1qa7GuSRZwufMRApOifroEGhOfovzqHRHnrLh9iLnovCKgbSLoUaNt6n%2BrkLKUROWxr1tBs20UbuLs2K8SKTj3YMLPMct%2B9kNt8G8UQZKvj7w8diZHkIhqeRCgZg%2B9sci%2F7ppOg2DIlpnr521jXht7FLRwm%2FKCO0m8J6MJHBsZ0GOqQBWRh%2FfvqXbImRHmcrnMdEhUIb8ZAglenUlkQDgi0wsNQOPE1ZL6YfA5hO3SEFWCe7pmLxvZRiKlOnUBPlEy4gFDWfNlyAQMFf93yDOtsV1yrFbCTqHvP5sJmwqoN6RWa1nOwd7jARYIsBlZD1hMD0fF7MUaVa3qXJdqrcR708HK8eMcL8lJUY763ytWnw1oh%2FNLDgm7fhw%2FPpoxs9kuaz5R%2BHuFI%3D"
+        },
+        "meta": {
+          "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-Medium",
+        "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+        "description": null,
+        "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+      },
+      "fontSize": {
+        "value": {
+          "unit": "px",
+          "measure": 14
+        }
+      },
+      "textAlign": {
+        "vertical": "top",
+        "horizontal": "left"
+      },
+      "lineHeight": {
+        "value": {
+          "unit": "px",
+          "measure": 20
+        }
+      }
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "textStyle",
+    "originId": "5:312",
+    "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "4e4e3b6c-8e17-44e8-95f8-3d7fe9658471",
+    "createdAt": "2022-10-12T09:40:58.142Z",
+    "updatedAt": "2022-11-15T15:39:23.278Z",
+    "name": "Body S",
+    "value": {
+      "font": {
+        "id": "09d2eb54-9d22-4098-96f5-c616ba5a1a51",
+        "createdAt": "2022-10-12T09:40:58.146Z",
+        "updatedAt": "2022-11-18T16:16:03.150Z",
+        "name": "Inter-Regular",
+        "value": {
+          "format": "ttf",
+          "isItalic": false,
+          "provider": "Google Fonts",
+          "fontFamily": "Inter",
+          "fontWeight": 400,
+          "fontFileMissing": false,
+          "fontPostScriptName": "Inter-Regular",
+          "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/1cecfde5-6b70-4a8e-9e51-e435b975fa4b/font/Inter-Regular/Inter-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWOKQOLRVU6&Expires=1672252891&Signature=4aHV705av%2BjP2EVGTngnYl69S3w%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAAaCWV1LXdlc3QtMSJIMEYCIQCqDGFqxvOJ4XtjYSutTNJxicwjhaZEg6SwWkyS8jVWngIhAPyVpr8%2BEyyH%2Bt6%2FJ3LCKp0tTD2NMaNrZfXpFrhXDgpfKu8DCEkQAxoMNTc0MTAyNjQ0MTI0IgwV3TuO9Dsnj6VqlQEqzAOf11fB0sWUwlY0UK3z7pEwZYHut8CU8OYe%2FtzVmwsI7%2FRLkcJGf%2BgpRzAyaoEKPiShHj%2BuseNJQYbM%2BfYpgcU1N9GZ2xvZ%2FYS6pD1YqUcv%2BxPcF%2BeKAkBAneL1ycQR6WpkuwnFxNigXwOtvTSad99D71PUxIAL31f14Ifgj70ytcpsv1DhEP4Y0DcBGBeADVMeDtWL5icHgIhPl4LaKZqpvKp0IZn4ysQp4i8S2clyu7n7bkJBAIUINY9FkouycihtJ7mMDj1ubt8wDepK%2BkIHps7ccug%2BOyUoKIMM0nUfCRIEgiu3T%2FGER2Fv0byOxXC%2FYEfZUFEGPKOqrHwxxL8nuAr6RQvVR%2FJBFNmD7vkRpNHkaZiM7%2Fh2Y7JwbF8m6CORQHoQVYuNPgIF8HK3aXoG3MxIKoaGwD5qM50rCRrLXpxuPffyYlXXfDMi4wJAGyIM1qa7GuSRZwufMRApOifroEGhOfovzqHRHnrLh9iLnovCKgbSLoUaNt6n%2BrkLKUROWxr1tBs20UbuLs2K8SKTj3YMLPMct%2B9kNt8G8UQZKvj7w8diZHkIhqeRCgZg%2B9sci%2F7ppOg2DIlpnr521jXht7FLRwm%2FKCO0m8J6MJHBsZ0GOqQBWRh%2FfvqXbImRHmcrnMdEhUIb8ZAglenUlkQDgi0wsNQOPE1ZL6YfA5hO3SEFWCe7pmLxvZRiKlOnUBPlEy4gFDWfNlyAQMFf93yDOtsV1yrFbCTqHvP5sJmwqoN6RWa1nOwd7jARYIsBlZD1hMD0fF7MUaVa3qXJdqrcR708HK8eMcL8lJUY763ytWnw1oh%2FNLDgm7fhw%2FPpoxs9kuaz5R%2BHuFI%3D"
+        },
+        "meta": {
+          "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-Regular",
+        "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+        "description": null,
+        "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+      },
+      "fontSize": {
+        "value": {
+          "unit": "px",
+          "measure": 14
+        }
+      },
+      "textAlign": {
+        "vertical": "top",
+        "horizontal": "left"
+      },
+      "lineHeight": {
+        "value": {
+          "unit": "px",
+          "measure": 20
+        }
+      }
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "textStyle",
+    "originId": "5:313",
+    "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "d2d5e3ca-405c-4b07-a018-490c00e6f1af",
+    "createdAt": "2022-10-12T09:24:55.053Z",
+    "updatedAt": "2022-12-20T14:50:49.084Z",
+    "name": "bookmark",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/142d72eb-6a28-4eb0-b068-bb2dab6120d7",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "bookmark",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:754-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "6870e791-977c-44a7-8639-b16e4e751406",
+    "createdAt": "2022-10-12T09:40:00.639Z",
+    "updatedAt": "2022-10-12T09:40:00.639Z",
+    "name": "border-dashed",
+    "value": {
+      "type": "dashed",
+      "color": {
+        "value": {
+          "a": 1,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        }
+      },
+      "width": {
+        "value": {
+          "unit": "px",
+          "measure": 1
+        }
+      },
+      "dashes": [
+        {
+          "value": {
+            "unit": "px",
+            "measure": 2
+          }
+        },
+        {
+          "value": {
+            "unit": "px",
+            "measure": 2
+          }
+        }
+      ]
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Borders"
+    },
+    "type": "border",
+    "originId": "18:174",
+    "sourceId": "ebb35945-569e-49bd-b1fd-e6e085794d78",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "7f88b896-bf3f-4db1-aff7-c64654c54b53",
+    "createdAt": "2022-10-12T09:40:00.630Z",
+    "updatedAt": "2022-10-12T09:40:00.630Z",
+    "name": "border-gradient",
+    "value": {
+      "type": "solid",
+      "width": {
+        "value": {
+          "unit": "px",
+          "measure": 1
+        }
+      },
+      "gradient": {
+        "value": {
+          "gradients": [
+            {
+              "angle": "135deg",
+              "colors": [
+                {
+                  "type": "color",
+                  "color": {
+                    "value": {
+                      "a": 1,
+                      "b": 105,
+                      "g": 153,
+                      "r": 254
+                    }
+                  },
+                  "position": 0
+                },
+                {
+                  "type": "color",
+                  "color": {
+                    "value": {
+                      "a": 1,
+                      "b": 246,
+                      "g": 84,
+                      "r": 138
+                    }
+                  },
+                  "position": 50
+                },
+                {
+                  "type": "color",
+                  "color": {
+                    "value": {
+                      "a": 1,
+                      "b": 100,
+                      "g": 95,
+                      "r": 255
+                    }
+                  },
+                  "position": 100
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Borders"
+    },
+    "type": "border",
+    "originId": "18:149",
+    "sourceId": "ebb35945-569e-49bd-b1fd-e6e085794d78",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "509f5fdf-3b97-43f9-b511-aeff085cedcf",
+    "createdAt": "2022-10-12T09:40:00.639Z",
+    "updatedAt": "2022-10-12T09:40:00.639Z",
+    "name": "border-solid",
+    "value": {
+      "type": "solid",
+      "color": {
+        "value": {
+          "a": 1,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        }
+      },
+      "width": {
+        "value": {
+          "unit": "px",
+          "measure": 1
+        }
+      }
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Borders"
+    },
+    "type": "border",
+    "originId": "18:173",
+    "sourceId": "ebb35945-569e-49bd-b1fd-e6e085794d78",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c6740e42-cd7a-430a-a6e4-7f7030837f27",
+    "createdAt": "2022-10-12T09:24:54.997Z",
+    "updatedAt": "2022-12-20T14:50:48.977Z",
+    "name": "briefcase",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3eccba43-5599-47f5-9edb-c89ee64f021e",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "briefcase",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:704-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e50ff5cf-b6d1-4576-a406-ad959cbcfddd",
+    "createdAt": "2022-10-12T09:24:55.055Z",
+    "updatedAt": "2022-12-20T14:50:49.088Z",
+    "name": "calendar",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3e1a3cfe-4b4c-4664-a922-bfca9d51fc97",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "calendar",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:760-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "af7c9239-d685-454f-88e4-1eaad7233ee1",
+    "createdAt": "2022-10-12T09:24:54.980Z",
+    "updatedAt": "2022-12-20T14:50:48.946Z",
+    "name": "camera",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a09584b5-d86c-4d7e-9316-cf63180810f9",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "camera",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:666-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "3b069b91-2221-4851-8527-3571667e9923",
+    "createdAt": "2022-10-12T09:24:55.053Z",
+    "updatedAt": "2022-12-20T14:50:49.082Z",
+    "name": "cash",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b2178578-b161-4b78-833f-dbb0546655fc",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "cash",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:752-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "f49e282e-5983-4941-ac9d-1718a8173eb2",
+    "createdAt": "2022-10-12T09:24:55.012Z",
+    "updatedAt": "2022-12-20T14:50:49.006Z",
+    "name": "chart-pie",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ccaf66f1-27f4-4f21-8f99-4a7af0378396",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "chart-pie",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:720-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "3fc96a25-64a7-4a09-a39d-710ea349d2a8",
+    "createdAt": "2022-10-12T09:24:54.967Z",
+    "updatedAt": "2022-12-20T14:50:48.936Z",
+    "name": "chat-alt / Outline",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cb43e4b1-bef5-4a14-b09d-c350ca1dadec",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "chat-alt / Outline",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "chat-alt"
+    },
+    "type": "vector",
+    "originId": "55:158-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "91526515-dbe5-4738-99ff-674c3b34bd4f",
+    "createdAt": "2022-10-12T09:24:54.967Z",
+    "updatedAt": "2022-12-20T14:50:48.937Z",
+    "name": "chat-alt / Solid",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/05899dae-0006-4993-bbca-143b12920c4e",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "chat-alt / Solid",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "chat-alt"
+    },
+    "type": "vector",
+    "originId": "55:160-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "f92241d0-639a-4965-8300-fd97a8e39dbe",
+    "createdAt": "2022-10-12T09:24:55.035Z",
+    "updatedAt": "2022-12-20T14:50:49.058Z",
+    "name": "check",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/80fdb1ad-2cec-4e9a-a0a4-5eb170b28a0c",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "check",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:718-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "ed4d6da5-2a06-42a1-b0b0-ddec8fa99e66",
+    "createdAt": "2022-10-12T09:24:54.950Z",
+    "updatedAt": "2022-12-20T14:50:48.899Z",
+    "name": "check-circle / Outline",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ec08f352-bac6-42fd-9179-b2fd818db88d",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "check-circle / Outline",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "check-circle"
+    },
+    "type": "vector",
+    "originId": "52:150-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "8901b861-72df-47e7-afd6-6569fa754b8d",
+    "createdAt": "2022-10-12T09:24:54.938Z",
+    "updatedAt": "2022-12-20T14:50:48.906Z",
+    "name": "check-circle / Solid",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e6be1b37-9fd5-41cb-a683-748258154af6",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "check-circle / Solid",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "check-circle"
+    },
+    "type": "vector",
+    "originId": "52:152-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "5556411e-586e-4f22-ab89-445cf13cefe2",
+    "createdAt": "2022-10-12T09:24:55.007Z",
+    "updatedAt": "2022-12-20T14:50:49.000Z",
+    "name": "clock",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5800a6ef-2523-4b2a-ab07-e1834c8e6533",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "clock",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:714-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "1e40cdca-ecda-4bc3-a0f8-9b4e819dd1db",
+    "createdAt": "2022-10-12T09:24:55.057Z",
+    "updatedAt": "2022-12-20T14:50:49.093Z",
+    "name": "cloud-download",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3b32b122-4b53-4b80-bfb0-8bb3d6d2ce5c",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "cloud-download",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:766-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "303c7443-bd4d-439e-8152-5a7b0b620111",
+    "createdAt": "2022-10-12T09:24:55.057Z",
+    "updatedAt": "2022-12-20T14:50:49.093Z",
+    "name": "cloud-upload",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/39463ca1-648d-4e69-9ea8-7b08186c40b4",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "cloud-upload",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:764-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "ce375ede-3cd0-4bd6-ad1f-2042d4c4fdd1",
+    "createdAt": "2022-10-12T09:24:55.026Z",
+    "updatedAt": "2022-12-20T14:50:49.031Z",
+    "name": "cog",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/18d03638-2191-4ce9-b7bd-2f6bd0c52905",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "cog",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:678-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "29c05dc4-9673-4d44-924f-f609e9a2f999",
+    "createdAt": "2022-10-12T09:24:54.973Z",
+    "updatedAt": "2022-12-20T14:50:48.940Z",
+    "name": "color-swatch",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ecb50c70-c70d-4545-a88a-574b39110475",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "color-swatch",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:662-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "14c4e614-0ad9-466b-9189-4279d24348d2",
+    "createdAt": "2022-10-12T09:35:42.556Z",
+    "updatedAt": "2022-11-15T15:39:22.924Z",
+    "name": "Danger/100",
+    "value": {
+      "a": 1,
+      "b": 226,
+      "g": 226,
+      "r": 254
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:341",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "d5427f9e-bfeb-4125-b0e6-e7941b67c685",
+    "createdAt": "2022-10-12T09:35:42.556Z",
+    "updatedAt": "2022-11-15T15:39:22.976Z",
+    "name": "Danger/200",
+    "value": {
+      "a": 1,
+      "b": 202,
+      "g": 202,
+      "r": 254
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:342",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "d4a48f08-073c-4c43-9a9c-469bb80a0aa8",
+    "createdAt": "2022-10-12T09:35:42.551Z",
+    "updatedAt": "2022-11-15T15:39:22.961Z",
+    "name": "Danger/300",
+    "value": {
+      "a": 1,
+      "b": 165,
+      "g": 165,
+      "r": 252
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:343",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "08f7a86e-99f9-4f38-9e6d-93c69484e9d6",
+    "createdAt": "2022-10-12T09:35:42.629Z",
+    "updatedAt": "2022-11-15T15:39:22.993Z",
+    "name": "Danger/400",
+    "value": {
+      "a": 1,
+      "b": 113,
+      "g": 113,
+      "r": 248
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:344",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "9c672a8f-b743-4375-8193-e2cce206d646",
+    "createdAt": "2022-10-12T09:35:42.556Z",
+    "updatedAt": "2022-11-15T15:39:22.956Z",
+    "name": "Danger/50",
+    "value": {
+      "a": 1,
+      "b": 242,
+      "g": 242,
+      "r": 254
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:340",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "54811d4b-c00f-4530-b6ac-adb9181d022a",
+    "createdAt": "2022-10-12T09:35:42.616Z",
+    "updatedAt": "2022-11-15T15:39:22.981Z",
+    "name": "Danger/500",
+    "value": {
+      "a": 1,
+      "b": 68,
+      "g": 68,
+      "r": 239
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:345",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "3283eafe-efeb-4a94-804f-e5711995d1b1",
+    "createdAt": "2022-10-12T09:35:42.626Z",
+    "updatedAt": "2022-11-15T15:39:22.987Z",
+    "name": "Danger/600",
+    "value": {
+      "a": 1,
+      "b": 38,
+      "g": 38,
+      "r": 220
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:346",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "307b0e56-bd10-4fc7-ad29-4ef43a016ce8",
+    "createdAt": "2022-10-12T09:35:42.629Z",
+    "updatedAt": "2022-11-15T15:39:23.001Z",
+    "name": "Danger/700",
+    "value": {
+      "a": 1,
+      "b": 28,
+      "g": 28,
+      "r": 185
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:347",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "2ccbaa4e-b10b-4230-977d-2b0d57031659",
+    "createdAt": "2022-10-12T09:35:42.624Z",
+    "updatedAt": "2022-11-15T15:39:22.989Z",
+    "name": "Danger/800",
+    "value": {
+      "a": 1,
+      "b": 27,
+      "g": 27,
+      "r": 153
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:348",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "9c7e3460-5e1d-4527-89d1-fe4eae3fded5",
+    "createdAt": "2022-10-12T09:35:42.698Z",
+    "updatedAt": "2022-11-15T15:39:23.052Z",
+    "name": "Danger/900",
+    "value": {
+      "a": 1,
+      "b": 29,
+      "g": 29,
+      "r": 127
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:349",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "31c8e0e5-e58a-4fee-a5d9-1e0fd4d739e9",
+    "createdAt": "2022-10-12T09:24:55.027Z",
+    "updatedAt": "2022-12-20T14:50:49.030Z",
+    "name": "document",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3be29f71-30db-4abd-95e7-20e5549d6076",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "document",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:734-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "1b2d008c-af43-4cd5-bfa9-67c9325511f4",
+    "createdAt": "2022-10-12T09:24:55.041Z",
+    "updatedAt": "2022-12-20T14:50:49.073Z",
+    "name": "document-add",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/56407150-2843-4168-98a4-b11a1ba52ec8",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "document-add",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:732-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e3d0b197-535f-4cb6-9af2-80b4170a21c8",
+    "createdAt": "2022-10-12T09:24:55.032Z",
+    "updatedAt": "2022-12-20T14:50:49.055Z",
+    "name": "document-download",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/47f79e84-3d88-426b-82c2-488329bbe163",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "document-download",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:712-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "00aa0c01-3c64-4e1b-86c2-b5bdbb2ffd1b",
+    "createdAt": "2022-10-12T09:24:55.049Z",
+    "updatedAt": "2022-12-20T14:50:49.081Z",
+    "name": "document-remove",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/12e2a7f4-61b5-42af-a4f4-42a838e39fd3",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "document-remove",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:748-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e3892a1f-de35-46b4-9aab-888e38be3a02",
+    "createdAt": "2022-10-12T09:24:54.995Z",
+    "updatedAt": "2022-12-20T14:50:48.963Z",
+    "name": "duplicate",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b3be9e46-ad5f-42ad-9342-fd71790487bd",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "duplicate",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:702-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "a8d3b6ca-6ccb-46f8-b586-f8ff1efcaee8",
+    "createdAt": "2022-10-12T09:38:01.920Z",
+    "updatedAt": "2022-10-12T09:38:01.920Z",
+    "name": "duration-fast",
+    "value": {
+      "unit": "ms",
+      "duration": 400
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Durations"
+    },
+    "type": "duration",
+    "originId": "14:561",
+    "sourceId": "762fe870-ff3d-4462-9802-dc4ca4f2075c",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "b773c693-d1b2-4748-b32f-ddcb11d35e5a",
+    "createdAt": "2022-10-12T09:38:01.899Z",
+    "updatedAt": "2022-10-12T09:38:01.899Z",
+    "name": "duration-faster",
+    "value": {
+      "unit": "ms",
+      "duration": 200
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Durations"
+    },
+    "type": "duration",
+    "originId": "14:560",
+    "sourceId": "762fe870-ff3d-4462-9802-dc4ca4f2075c",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "5f52d2fb-6b18-4681-92e5-b7aac8d7173e",
+    "createdAt": "2022-10-12T09:38:01.877Z",
+    "updatedAt": "2022-10-12T09:38:01.877Z",
+    "name": "duration-fastest",
+    "value": {
+      "unit": "ms",
+      "duration": 100
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Durations"
+    },
+    "type": "duration",
+    "originId": "14:559",
+    "sourceId": "762fe870-ff3d-4462-9802-dc4ca4f2075c",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "005ba9dd-ee86-4f9f-8dda-1de6fc818056",
+    "createdAt": "2022-10-12T09:38:01.917Z",
+    "updatedAt": "2022-10-12T09:38:01.917Z",
+    "name": "duration-slow",
+    "value": {
+      "unit": "ms",
+      "duration": 600
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Durations"
+    },
+    "type": "duration",
+    "originId": "96:503",
+    "sourceId": "762fe870-ff3d-4462-9802-dc4ca4f2075c",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "6591a8e0-7616-40ca-a329-01d5e8843d87",
+    "createdAt": "2022-10-12T09:38:01.920Z",
+    "updatedAt": "2022-10-12T09:38:01.920Z",
+    "name": "duration-slower",
+    "value": {
+      "unit": "ms",
+      "duration": 800
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Durations"
+    },
+    "type": "duration",
+    "originId": "96:504",
+    "sourceId": "762fe870-ff3d-4462-9802-dc4ca4f2075c",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "59b8fb21-179f-4e5f-accc-cad37e8f5554",
+    "createdAt": "2022-10-12T09:38:01.916Z",
+    "updatedAt": "2022-10-12T09:38:01.916Z",
+    "name": "duration-slowest",
+    "value": {
+      "unit": "s",
+      "duration": 1
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Durations"
+    },
+    "type": "duration",
+    "originId": "96:505",
+    "sourceId": "762fe870-ff3d-4462-9802-dc4ca4f2075c",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "f8baa4f6-113b-4fc3-8ade-bb73dd538bd7",
+    "createdAt": "2022-10-12T09:24:54.985Z",
+    "updatedAt": "2022-12-20T14:50:48.955Z",
+    "name": "exclamation",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d6f83027-aaa4-44da-a62f-6e74d22c5642",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "exclamation",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:672-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "ea890803-0c29-4f41-8d5b-664816ab36cb",
+    "createdAt": "2022-10-12T09:24:54.950Z",
+    "updatedAt": "2022-12-20T14:50:48.913Z",
+    "name": "exclamation-circle / Outline",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f3f0a1c2-9118-4beb-9f89-a2a94129e301",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "exclamation-circle / Outline",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "exclamation-circle"
+    },
+    "type": "vector",
+    "originId": "31:1119-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "73619408-d915-400c-9076-1d9bc9979525",
+    "createdAt": "2022-10-12T09:24:54.951Z",
+    "updatedAt": "2022-12-20T14:50:48.914Z",
+    "name": "exclamation-circle / Solid",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1d1c7a9a-01af-4978-9a98-745f3cbeaf68",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "exclamation-circle / Solid",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "exclamation-circle"
+    },
+    "type": "vector",
+    "originId": "31:1139-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "3214ace7-e579-49a8-92ca-ea619ea8624c",
+    "createdAt": "2022-10-12T09:24:55.042Z",
+    "updatedAt": "2022-12-20T14:50:49.074Z",
+    "name": "eye",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/374e55e9-48e2-4d4f-88fb-740900cb0b0e",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "eye",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:742-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "3325e543-84ba-43e6-86f7-c2bcd59e48b8",
+    "createdAt": "2022-10-12T09:24:55.026Z",
+    "updatedAt": "2022-12-20T14:50:49.030Z",
+    "name": "globe",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d17ea55e-a570-4c58-977b-71c8a8698f87",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "globe",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:740-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "bf8c09a3-bd89-4815-8030-0829d203629c",
+    "createdAt": "2022-10-12T09:24:54.986Z",
+    "updatedAt": "2022-12-20T14:50:48.958Z",
+    "name": "globe-alt",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b427ed26-e563-4d68-a032-8823f014885c",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "globe-alt",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:680-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "f386e92a-3513-4752-86f5-7017d26a944d",
+    "createdAt": "2022-10-12T09:40:34.933Z",
+    "updatedAt": "2022-10-12T09:40:34.933Z",
+    "name": "Gradient/Lime",
+    "value": {
+      "gradients": [
+        {
+          "angle": "45deg",
+          "colors": [
+            {
+              "type": "color",
+              "color": {
+                "value": {
+                  "a": 1,
+                  "b": 231,
+                  "g": 245,
+                  "r": 12
+                }
+              },
+              "position": 0
+            },
+            {
+              "type": "color",
+              "color": {
+                "value": {
+                  "a": 1,
+                  "b": 83,
+                  "g": 247,
+                  "r": 224
+                }
+              },
+              "position": 47.92
+            },
+            {
+              "type": "color",
+              "color": {
+                "value": {
+                  "a": 1,
+                  "b": 91,
+                  "g": 250,
+                  "r": 161
+                }
+              },
+              "position": 100
+            }
+          ]
+        }
+      ]
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "gradient",
+    "originId": "8516:338",
+    "sourceId": "5b118f33-d6da-4104-9de4-8fa4b28f94db",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "cb4253b0-cfd4-4736-8759-cd115e295202",
+    "createdAt": "2022-10-12T09:40:34.941Z",
+    "updatedAt": "2022-10-12T09:40:34.941Z",
+    "name": "Gradient/Sunset",
+    "value": {
+      "gradients": [
+        {
+          "angle": "45deg",
+          "colors": [
+            {
+              "type": "color",
+              "color": {
+                "value": {
+                  "a": 1,
+                  "b": 102,
+                  "g": 153,
+                  "r": 255
+                }
+              },
+              "position": 0
+            },
+            {
+              "type": "color",
+              "color": {
+                "value": {
+                  "a": 1,
+                  "b": 247,
+                  "g": 83,
+                  "r": 136
+                }
+              },
+              "position": 47.92
+            },
+            {
+              "type": "color",
+              "color": {
+                "value": {
+                  "a": 1,
+                  "b": 98,
+                  "g": 94,
+                  "r": 255
+                }
+              },
+              "position": 100
+            }
+          ]
+        }
+      ]
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "gradient",
+    "originId": "8516:339",
+    "sourceId": "5b118f33-d6da-4104-9de4-8fa4b28f94db",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "86000595-72fa-4d1d-abbd-3cfbe7d6ee8c",
+    "createdAt": "2022-10-12T09:40:58.124Z",
+    "updatedAt": "2022-11-15T15:39:23.273Z",
+    "name": "Heading 1",
+    "value": {
+      "font": {
+        "id": "948ede7c-457a-4bc8-96fb-cb9779a4359f",
+        "createdAt": "2022-10-12T09:40:58.119Z",
+        "updatedAt": "2022-11-18T16:16:03.150Z",
+        "name": "Inter-SemiBold",
+        "value": {
+          "format": "ttf",
+          "isItalic": false,
+          "provider": "Google Fonts",
+          "fontFamily": "Inter",
+          "fontWeight": 600,
+          "fontFileMissing": false,
+          "fontPostScriptName": "Inter-SemiBold",
+          "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/1cecfde5-6b70-4a8e-9e51-e435b975fa4b/font/Inter-SemiBold/Inter-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOKQOLRVU6&Expires=1672252891&Signature=JyutQq2Vk26iFBkZrkvUoTKDE6w%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAAaCWV1LXdlc3QtMSJIMEYCIQCqDGFqxvOJ4XtjYSutTNJxicwjhaZEg6SwWkyS8jVWngIhAPyVpr8%2BEyyH%2Bt6%2FJ3LCKp0tTD2NMaNrZfXpFrhXDgpfKu8DCEkQAxoMNTc0MTAyNjQ0MTI0IgwV3TuO9Dsnj6VqlQEqzAOf11fB0sWUwlY0UK3z7pEwZYHut8CU8OYe%2FtzVmwsI7%2FRLkcJGf%2BgpRzAyaoEKPiShHj%2BuseNJQYbM%2BfYpgcU1N9GZ2xvZ%2FYS6pD1YqUcv%2BxPcF%2BeKAkBAneL1ycQR6WpkuwnFxNigXwOtvTSad99D71PUxIAL31f14Ifgj70ytcpsv1DhEP4Y0DcBGBeADVMeDtWL5icHgIhPl4LaKZqpvKp0IZn4ysQp4i8S2clyu7n7bkJBAIUINY9FkouycihtJ7mMDj1ubt8wDepK%2BkIHps7ccug%2BOyUoKIMM0nUfCRIEgiu3T%2FGER2Fv0byOxXC%2FYEfZUFEGPKOqrHwxxL8nuAr6RQvVR%2FJBFNmD7vkRpNHkaZiM7%2Fh2Y7JwbF8m6CORQHoQVYuNPgIF8HK3aXoG3MxIKoaGwD5qM50rCRrLXpxuPffyYlXXfDMi4wJAGyIM1qa7GuSRZwufMRApOifroEGhOfovzqHRHnrLh9iLnovCKgbSLoUaNt6n%2BrkLKUROWxr1tBs20UbuLs2K8SKTj3YMLPMct%2B9kNt8G8UQZKvj7w8diZHkIhqeRCgZg%2B9sci%2F7ppOg2DIlpnr521jXht7FLRwm%2FKCO0m8J6MJHBsZ0GOqQBWRh%2FfvqXbImRHmcrnMdEhUIb8ZAglenUlkQDgi0wsNQOPE1ZL6YfA5hO3SEFWCe7pmLxvZRiKlOnUBPlEy4gFDWfNlyAQMFf93yDOtsV1yrFbCTqHvP5sJmwqoN6RWa1nOwd7jARYIsBlZD1hMD0fF7MUaVa3qXJdqrcR708HK8eMcL8lJUY763ytWnw1oh%2FNLDgm7fhw%2FPpoxs9kuaz5R%2BHuFI%3D"
+        },
+        "meta": {
+          "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-SemiBold",
+        "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+        "description": null,
+        "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+      },
+      "fontSize": {
+        "value": {
+          "unit": "px",
+          "measure": 32
+        }
+      },
+      "textAlign": {
+        "vertical": "top",
+        "horizontal": "left"
+      },
+      "lineHeight": {
+        "value": {
+          "unit": "px",
+          "measure": 40
+        }
+      }
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "textStyle",
+    "originId": "5:308",
+    "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "9a04223f-076f-4ddc-bb71-17541dcb1f18",
+    "createdAt": "2022-10-12T09:40:58.137Z",
+    "updatedAt": "2022-11-15T15:39:23.273Z",
+    "name": "Heading 2",
+    "value": {
+      "font": {
+        "id": "948ede7c-457a-4bc8-96fb-cb9779a4359f",
+        "createdAt": "2022-10-12T09:40:58.119Z",
+        "updatedAt": "2022-11-18T16:16:03.150Z",
+        "name": "Inter-SemiBold",
+        "value": {
+          "format": "ttf",
+          "isItalic": false,
+          "provider": "Google Fonts",
+          "fontFamily": "Inter",
+          "fontWeight": 600,
+          "fontFileMissing": false,
+          "fontPostScriptName": "Inter-SemiBold",
+          "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/1cecfde5-6b70-4a8e-9e51-e435b975fa4b/font/Inter-SemiBold/Inter-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOKQOLRVU6&Expires=1672252891&Signature=JyutQq2Vk26iFBkZrkvUoTKDE6w%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAAaCWV1LXdlc3QtMSJIMEYCIQCqDGFqxvOJ4XtjYSutTNJxicwjhaZEg6SwWkyS8jVWngIhAPyVpr8%2BEyyH%2Bt6%2FJ3LCKp0tTD2NMaNrZfXpFrhXDgpfKu8DCEkQAxoMNTc0MTAyNjQ0MTI0IgwV3TuO9Dsnj6VqlQEqzAOf11fB0sWUwlY0UK3z7pEwZYHut8CU8OYe%2FtzVmwsI7%2FRLkcJGf%2BgpRzAyaoEKPiShHj%2BuseNJQYbM%2BfYpgcU1N9GZ2xvZ%2FYS6pD1YqUcv%2BxPcF%2BeKAkBAneL1ycQR6WpkuwnFxNigXwOtvTSad99D71PUxIAL31f14Ifgj70ytcpsv1DhEP4Y0DcBGBeADVMeDtWL5icHgIhPl4LaKZqpvKp0IZn4ysQp4i8S2clyu7n7bkJBAIUINY9FkouycihtJ7mMDj1ubt8wDepK%2BkIHps7ccug%2BOyUoKIMM0nUfCRIEgiu3T%2FGER2Fv0byOxXC%2FYEfZUFEGPKOqrHwxxL8nuAr6RQvVR%2FJBFNmD7vkRpNHkaZiM7%2Fh2Y7JwbF8m6CORQHoQVYuNPgIF8HK3aXoG3MxIKoaGwD5qM50rCRrLXpxuPffyYlXXfDMi4wJAGyIM1qa7GuSRZwufMRApOifroEGhOfovzqHRHnrLh9iLnovCKgbSLoUaNt6n%2BrkLKUROWxr1tBs20UbuLs2K8SKTj3YMLPMct%2B9kNt8G8UQZKvj7w8diZHkIhqeRCgZg%2B9sci%2F7ppOg2DIlpnr521jXht7FLRwm%2FKCO0m8J6MJHBsZ0GOqQBWRh%2FfvqXbImRHmcrnMdEhUIb8ZAglenUlkQDgi0wsNQOPE1ZL6YfA5hO3SEFWCe7pmLxvZRiKlOnUBPlEy4gFDWfNlyAQMFf93yDOtsV1yrFbCTqHvP5sJmwqoN6RWa1nOwd7jARYIsBlZD1hMD0fF7MUaVa3qXJdqrcR708HK8eMcL8lJUY763ytWnw1oh%2FNLDgm7fhw%2FPpoxs9kuaz5R%2BHuFI%3D"
+        },
+        "meta": {
+          "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-SemiBold",
+        "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+        "description": null,
+        "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+      },
+      "fontSize": {
+        "value": {
+          "unit": "px",
+          "measure": 24
+        }
+      },
+      "textAlign": {
+        "vertical": "top",
+        "horizontal": "left"
+      },
+      "lineHeight": {
+        "value": {
+          "unit": "px",
+          "measure": 32
+        }
+      }
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "textStyle",
+    "originId": "5:309",
+    "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "81de1ac1-5194-43e6-b574-84db24a4d1a7",
+    "createdAt": "2022-10-12T09:24:55.023Z",
+    "updatedAt": "2022-12-20T14:50:49.011Z",
+    "name": "heart",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/10a52e45-ae90-47a3-bd63-174509df145b",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "heart",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:724-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e868d1b5-5135-452d-a1d7-cb248fadb4d1",
+    "createdAt": "2022-10-12T09:24:54.986Z",
+    "updatedAt": "2022-12-20T14:50:48.958Z",
+    "name": "home",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/86f55b35-ffb8-491a-84c4-effed0056453",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "home",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:682-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "a6ba3a7a-cf51-4c49-a62e-64cca2e7bc8a",
+    "createdAt": "2022-10-12T09:24:54.983Z",
+    "updatedAt": "2022-12-20T14:50:48.949Z",
+    "name": "inbox",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/220c6b3d-bb30-4ab7-84c5-c115d0af4482",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "inbox",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:650-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "bd9f00a2-7eab-4c92-8a35-b710edb13fe4",
+    "createdAt": "2022-10-12T09:24:54.993Z",
+    "updatedAt": "2022-12-20T14:50:48.960Z",
+    "name": "inbox-in",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ef39fe19-78dc-43c3-9fe3-9eb9ab6f5b3e",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "inbox-in",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:694-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "a1eb94b9-2c8a-4623-9db7-0bd7ace743fb",
+    "createdAt": "2022-10-12T09:35:42.632Z",
+    "updatedAt": "2022-11-15T15:39:23.004Z",
+    "name": "Informative/100",
+    "value": {
+      "a": 1,
+      "b": 254,
+      "g": 234,
+      "r": 219
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:311",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c0b7af90-4e5b-4440-a82c-80d0962bc76e",
+    "createdAt": "2022-10-12T09:35:42.632Z",
+    "updatedAt": "2022-11-15T15:39:22.999Z",
+    "name": "Informative/200",
+    "value": {
+      "a": 1,
+      "b": 254,
+      "g": 219,
+      "r": 191
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:312",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "14096cc6-dd8a-46e6-a702-e3583d0d46f4",
+    "createdAt": "2022-10-12T09:35:42.630Z",
+    "updatedAt": "2022-11-15T15:39:22.998Z",
+    "name": "Informative/300",
+    "value": {
+      "a": 1,
+      "b": 253,
+      "g": 197,
+      "r": 147
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:313",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "898078d1-a30a-4a3a-bdbd-72ac24019a28",
+    "createdAt": "2022-10-12T09:35:42.580Z",
+    "updatedAt": "2022-11-15T15:39:22.925Z",
+    "name": "Informative/400",
+    "value": {
+      "a": 1,
+      "b": 250,
+      "g": 165,
+      "r": 96
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:314",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "2b339b7e-417d-49e8-8767-0f0432d6100f",
+    "createdAt": "2022-10-12T09:35:42.637Z",
+    "updatedAt": "2022-11-15T15:39:23.002Z",
+    "name": "Informative/50",
+    "value": {
+      "a": 1,
+      "b": 255,
+      "g": 246,
+      "r": 239
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:310",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "a7e460a3-f830-43dd-a025-1b83d1d3e82c",
+    "createdAt": "2022-10-12T09:35:42.628Z",
+    "updatedAt": "2022-11-15T15:39:22.992Z",
+    "name": "Informative/500",
+    "value": {
+      "a": 1,
+      "b": 246,
+      "g": 130,
+      "r": 59
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:315",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "73b81425-e1be-4d14-8e47-793c6b39ec2d",
+    "createdAt": "2022-10-12T09:35:42.611Z",
+    "updatedAt": "2022-11-15T15:39:22.974Z",
+    "name": "Informative/600",
+    "value": {
+      "a": 1,
+      "b": 235,
+      "g": 99,
+      "r": 37
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:316",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "3cc6dd43-15ca-459b-b56c-6889e01622b6",
+    "createdAt": "2022-10-12T09:35:42.622Z",
+    "updatedAt": "2022-11-15T15:39:22.986Z",
+    "name": "Informative/700",
+    "value": {
+      "a": 1,
+      "b": 216,
+      "g": 78,
+      "r": 29
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:317",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "bc8aa7b3-4c14-4ae9-b0eb-ce042ed3814f",
+    "createdAt": "2022-10-12T09:35:42.621Z",
+    "updatedAt": "2022-11-15T15:39:22.984Z",
+    "name": "Informative/800",
+    "value": {
+      "a": 1,
+      "b": 175,
+      "g": 64,
+      "r": 30
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:318",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "38ccb58f-c826-4457-8c02-bebdeb21790b",
+    "createdAt": "2022-10-12T09:35:42.615Z",
+    "updatedAt": "2022-11-15T15:39:22.982Z",
+    "name": "Informative/900",
+    "value": {
+      "a": 1,
+      "b": 138,
+      "g": 58,
+      "r": 30
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:319",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "82cb1a85-fbbe-4bc9-90d2-e097a5667083",
+    "createdAt": "2022-10-12T09:40:58.142Z",
+    "updatedAt": "2022-11-18T16:16:03.150Z",
+    "name": "Inter-Medium",
+    "value": {
+      "format": "ttf",
+      "isItalic": false,
+      "provider": "Google Fonts",
+      "fontFamily": "Inter",
+      "fontWeight": 500,
+      "fontFileMissing": false,
+      "fontPostScriptName": "Inter-Medium",
+      "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/1cecfde5-6b70-4a8e-9e51-e435b975fa4b/font/Inter-Medium/Inter-Medium.ttf?AWSAccessKeyId=ASIAYLKZPEWOKQOLRVU6&Expires=1672252891&Signature=87R2GMOKi8k03z%2BRMjhmWvDCyzk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAAaCWV1LXdlc3QtMSJIMEYCIQCqDGFqxvOJ4XtjYSutTNJxicwjhaZEg6SwWkyS8jVWngIhAPyVpr8%2BEyyH%2Bt6%2FJ3LCKp0tTD2NMaNrZfXpFrhXDgpfKu8DCEkQAxoMNTc0MTAyNjQ0MTI0IgwV3TuO9Dsnj6VqlQEqzAOf11fB0sWUwlY0UK3z7pEwZYHut8CU8OYe%2FtzVmwsI7%2FRLkcJGf%2BgpRzAyaoEKPiShHj%2BuseNJQYbM%2BfYpgcU1N9GZ2xvZ%2FYS6pD1YqUcv%2BxPcF%2BeKAkBAneL1ycQR6WpkuwnFxNigXwOtvTSad99D71PUxIAL31f14Ifgj70ytcpsv1DhEP4Y0DcBGBeADVMeDtWL5icHgIhPl4LaKZqpvKp0IZn4ysQp4i8S2clyu7n7bkJBAIUINY9FkouycihtJ7mMDj1ubt8wDepK%2BkIHps7ccug%2BOyUoKIMM0nUfCRIEgiu3T%2FGER2Fv0byOxXC%2FYEfZUFEGPKOqrHwxxL8nuAr6RQvVR%2FJBFNmD7vkRpNHkaZiM7%2Fh2Y7JwbF8m6CORQHoQVYuNPgIF8HK3aXoG3MxIKoaGwD5qM50rCRrLXpxuPffyYlXXfDMi4wJAGyIM1qa7GuSRZwufMRApOifroEGhOfovzqHRHnrLh9iLnovCKgbSLoUaNt6n%2BrkLKUROWxr1tBs20UbuLs2K8SKTj3YMLPMct%2B9kNt8G8UQZKvj7w8diZHkIhqeRCgZg%2B9sci%2F7ppOg2DIlpnr521jXht7FLRwm%2FKCO0m8J6MJHBsZ0GOqQBWRh%2FfvqXbImRHmcrnMdEhUIb8ZAglenUlkQDgi0wsNQOPE1ZL6YfA5hO3SEFWCe7pmLxvZRiKlOnUBPlEy4gFDWfNlyAQMFf93yDOtsV1yrFbCTqHvP5sJmwqoN6RWa1nOwd7jARYIsBlZD1hMD0fF7MUaVa3qXJdqrcR708HK8eMcL8lJUY763ytWnw1oh%2FNLDgm7fhw%2FPpoxs9kuaz5R%2BHuFI%3D"
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "font",
+    "originId": "Inter-Medium",
+    "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "09d2eb54-9d22-4098-96f5-c616ba5a1a51",
+    "createdAt": "2022-10-12T09:40:58.146Z",
+    "updatedAt": "2022-11-18T16:16:03.150Z",
+    "name": "Inter-Regular",
+    "value": {
+      "format": "ttf",
+      "isItalic": false,
+      "provider": "Google Fonts",
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontFileMissing": false,
+      "fontPostScriptName": "Inter-Regular",
+      "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/1cecfde5-6b70-4a8e-9e51-e435b975fa4b/font/Inter-Regular/Inter-Regular.ttf?AWSAccessKeyId=ASIAYLKZPEWOKQOLRVU6&Expires=1672252891&Signature=4aHV705av%2BjP2EVGTngnYl69S3w%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAAaCWV1LXdlc3QtMSJIMEYCIQCqDGFqxvOJ4XtjYSutTNJxicwjhaZEg6SwWkyS8jVWngIhAPyVpr8%2BEyyH%2Bt6%2FJ3LCKp0tTD2NMaNrZfXpFrhXDgpfKu8DCEkQAxoMNTc0MTAyNjQ0MTI0IgwV3TuO9Dsnj6VqlQEqzAOf11fB0sWUwlY0UK3z7pEwZYHut8CU8OYe%2FtzVmwsI7%2FRLkcJGf%2BgpRzAyaoEKPiShHj%2BuseNJQYbM%2BfYpgcU1N9GZ2xvZ%2FYS6pD1YqUcv%2BxPcF%2BeKAkBAneL1ycQR6WpkuwnFxNigXwOtvTSad99D71PUxIAL31f14Ifgj70ytcpsv1DhEP4Y0DcBGBeADVMeDtWL5icHgIhPl4LaKZqpvKp0IZn4ysQp4i8S2clyu7n7bkJBAIUINY9FkouycihtJ7mMDj1ubt8wDepK%2BkIHps7ccug%2BOyUoKIMM0nUfCRIEgiu3T%2FGER2Fv0byOxXC%2FYEfZUFEGPKOqrHwxxL8nuAr6RQvVR%2FJBFNmD7vkRpNHkaZiM7%2Fh2Y7JwbF8m6CORQHoQVYuNPgIF8HK3aXoG3MxIKoaGwD5qM50rCRrLXpxuPffyYlXXfDMi4wJAGyIM1qa7GuSRZwufMRApOifroEGhOfovzqHRHnrLh9iLnovCKgbSLoUaNt6n%2BrkLKUROWxr1tBs20UbuLs2K8SKTj3YMLPMct%2B9kNt8G8UQZKvj7w8diZHkIhqeRCgZg%2B9sci%2F7ppOg2DIlpnr521jXht7FLRwm%2FKCO0m8J6MJHBsZ0GOqQBWRh%2FfvqXbImRHmcrnMdEhUIb8ZAglenUlkQDgi0wsNQOPE1ZL6YfA5hO3SEFWCe7pmLxvZRiKlOnUBPlEy4gFDWfNlyAQMFf93yDOtsV1yrFbCTqHvP5sJmwqoN6RWa1nOwd7jARYIsBlZD1hMD0fF7MUaVa3qXJdqrcR708HK8eMcL8lJUY763ytWnw1oh%2FNLDgm7fhw%2FPpoxs9kuaz5R%2BHuFI%3D"
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "font",
+    "originId": "Inter-Regular",
+    "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "948ede7c-457a-4bc8-96fb-cb9779a4359f",
+    "createdAt": "2022-10-12T09:40:58.119Z",
+    "updatedAt": "2022-11-18T16:16:03.150Z",
+    "name": "Inter-SemiBold",
+    "value": {
+      "format": "ttf",
+      "isItalic": false,
+      "provider": "Google Fonts",
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontFileMissing": false,
+      "fontPostScriptName": "Inter-SemiBold",
+      "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/1cecfde5-6b70-4a8e-9e51-e435b975fa4b/font/Inter-SemiBold/Inter-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOKQOLRVU6&Expires=1672252891&Signature=JyutQq2Vk26iFBkZrkvUoTKDE6w%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAAaCWV1LXdlc3QtMSJIMEYCIQCqDGFqxvOJ4XtjYSutTNJxicwjhaZEg6SwWkyS8jVWngIhAPyVpr8%2BEyyH%2Bt6%2FJ3LCKp0tTD2NMaNrZfXpFrhXDgpfKu8DCEkQAxoMNTc0MTAyNjQ0MTI0IgwV3TuO9Dsnj6VqlQEqzAOf11fB0sWUwlY0UK3z7pEwZYHut8CU8OYe%2FtzVmwsI7%2FRLkcJGf%2BgpRzAyaoEKPiShHj%2BuseNJQYbM%2BfYpgcU1N9GZ2xvZ%2FYS6pD1YqUcv%2BxPcF%2BeKAkBAneL1ycQR6WpkuwnFxNigXwOtvTSad99D71PUxIAL31f14Ifgj70ytcpsv1DhEP4Y0DcBGBeADVMeDtWL5icHgIhPl4LaKZqpvKp0IZn4ysQp4i8S2clyu7n7bkJBAIUINY9FkouycihtJ7mMDj1ubt8wDepK%2BkIHps7ccug%2BOyUoKIMM0nUfCRIEgiu3T%2FGER2Fv0byOxXC%2FYEfZUFEGPKOqrHwxxL8nuAr6RQvVR%2FJBFNmD7vkRpNHkaZiM7%2Fh2Y7JwbF8m6CORQHoQVYuNPgIF8HK3aXoG3MxIKoaGwD5qM50rCRrLXpxuPffyYlXXfDMi4wJAGyIM1qa7GuSRZwufMRApOifroEGhOfovzqHRHnrLh9iLnovCKgbSLoUaNt6n%2BrkLKUROWxr1tBs20UbuLs2K8SKTj3YMLPMct%2B9kNt8G8UQZKvj7w8diZHkIhqeRCgZg%2B9sci%2F7ppOg2DIlpnr521jXht7FLRwm%2FKCO0m8J6MJHBsZ0GOqQBWRh%2FfvqXbImRHmcrnMdEhUIb8ZAglenUlkQDgi0wsNQOPE1ZL6YfA5hO3SEFWCe7pmLxvZRiKlOnUBPlEy4gFDWfNlyAQMFf93yDOtsV1yrFbCTqHvP5sJmwqoN6RWa1nOwd7jARYIsBlZD1hMD0fF7MUaVa3qXJdqrcR708HK8eMcL8lJUY763ytWnw1oh%2FNLDgm7fhw%2FPpoxs9kuaz5R%2BHuFI%3D"
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "font",
+    "originId": "Inter-SemiBold",
+    "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "81dd5b7b-dd79-45fc-8163-720691394777",
+    "createdAt": "2022-10-12T09:39:09.290Z",
+    "updatedAt": "2022-10-12T09:39:09.290Z",
+    "name": "level-1",
+    "value": {
+      "depth": 1
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Depths"
+    },
+    "type": "depth",
+    "originId": "96:400",
+    "sourceId": "b34a8f9e-944d-45fc-9a69-d10f880986b1",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "ef21852f-4b6d-419a-b27c-0098c1b3b2bd",
+    "createdAt": "2022-10-12T09:39:09.314Z",
+    "updatedAt": "2022-10-12T09:39:09.314Z",
+    "name": "level-10",
+    "value": {
+      "depth": 10
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Depths"
+    },
+    "type": "depth",
+    "originId": "96:409",
+    "sourceId": "b34a8f9e-944d-45fc-9a69-d10f880986b1",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c7159673-1a24-496f-9006-1b71f0173908",
+    "createdAt": "2022-10-12T09:39:09.306Z",
+    "updatedAt": "2022-10-12T09:39:09.306Z",
+    "name": "level-2",
+    "value": {
+      "depth": 2
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Depths"
+    },
+    "type": "depth",
+    "originId": "96:401",
+    "sourceId": "b34a8f9e-944d-45fc-9a69-d10f880986b1",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "9dd05888-9402-4106-b067-c7904eafcdaa",
+    "createdAt": "2022-10-12T09:39:09.313Z",
+    "updatedAt": "2022-10-12T09:39:09.313Z",
+    "name": "level-3",
+    "value": {
+      "depth": 3
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Depths"
+    },
+    "type": "depth",
+    "originId": "96:402",
+    "sourceId": "b34a8f9e-944d-45fc-9a69-d10f880986b1",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "5324d354-a265-4456-86fe-5694cd29debf",
+    "createdAt": "2022-10-12T09:39:09.306Z",
+    "updatedAt": "2022-10-12T09:39:09.306Z",
+    "name": "level-4",
+    "value": {
+      "depth": 4
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Depths"
+    },
+    "type": "depth",
+    "originId": "96:403",
+    "sourceId": "b34a8f9e-944d-45fc-9a69-d10f880986b1",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "36700b09-33f3-4cde-8143-3d06b76f2458",
+    "createdAt": "2022-10-12T09:39:09.313Z",
+    "updatedAt": "2022-10-12T09:39:09.313Z",
+    "name": "level-5",
+    "value": {
+      "depth": 5
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Depths"
+    },
+    "type": "depth",
+    "originId": "96:404",
+    "sourceId": "b34a8f9e-944d-45fc-9a69-d10f880986b1",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "68c280c9-6778-4745-8d6d-ce79c9ef4cc6",
+    "createdAt": "2022-10-12T09:39:09.319Z",
+    "updatedAt": "2022-10-12T09:39:09.319Z",
+    "name": "level-6",
+    "value": {
+      "depth": 6
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Depths"
+    },
+    "type": "depth",
+    "originId": "96:405",
+    "sourceId": "b34a8f9e-944d-45fc-9a69-d10f880986b1",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "9d4aca45-5269-4a8e-90f2-ba23c2e209bc",
+    "createdAt": "2022-10-12T09:39:09.317Z",
+    "updatedAt": "2022-10-12T09:39:09.317Z",
+    "name": "level-7",
+    "value": {
+      "depth": 7
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Depths"
+    },
+    "type": "depth",
+    "originId": "96:406",
+    "sourceId": "b34a8f9e-944d-45fc-9a69-d10f880986b1",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "8462e33b-f736-4577-beaf-e6ac36d3d759",
+    "createdAt": "2022-10-12T09:39:09.310Z",
+    "updatedAt": "2022-10-12T09:39:09.310Z",
+    "name": "level-8",
+    "value": {
+      "depth": 8
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Depths"
+    },
+    "type": "depth",
+    "originId": "96:407",
+    "sourceId": "b34a8f9e-944d-45fc-9a69-d10f880986b1",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "29bdd669-0e35-4471-b153-2be4d3e2c094",
+    "createdAt": "2022-10-12T09:39:09.313Z",
+    "updatedAt": "2022-10-12T09:39:09.313Z",
+    "name": "level-9",
+    "value": {
+      "depth": 9
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Depths"
+    },
+    "type": "depth",
+    "originId": "96:408",
+    "sourceId": "b34a8f9e-944d-45fc-9a69-d10f880986b1",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "01bfd3fb-9ad9-4476-b1a1-4246022c4373",
+    "createdAt": "2022-10-12T09:24:55.056Z",
+    "updatedAt": "2022-12-20T14:50:49.090Z",
+    "name": "link",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0d44c4fd-2c41-43ad-9020-729a0fd805c8",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "link",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:762-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "344ec1d6-4863-4667-9ee3-0ab04f616f4d",
+    "createdAt": "2022-10-12T09:24:54.967Z",
+    "updatedAt": "2022-12-20T14:50:48.940Z",
+    "name": "location-marker",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0b1047e6-c91c-46b7-9358-90dc7aed43e0",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "location-marker",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:736-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "240d1083-0268-4b69-94cc-bb45ceb16bfb",
+    "createdAt": "2022-10-12T09:24:54.967Z",
+    "updatedAt": "2022-12-20T14:50:48.938Z",
+    "name": "mail",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/038880b1-8f31-4cd2-a0ae-50c1bf27e40e",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "mail",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:676-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "9ca7eb48-3494-44cf-abde-99146cca79c5",
+    "createdAt": "2022-10-12T09:24:54.978Z",
+    "updatedAt": "2022-12-20T14:50:48.943Z",
+    "name": "menu",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ab569c4a-15a8-4923-940a-c98a64500762",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "menu",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:664-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "08a61579-2ba9-4074-adac-dde745abd99a",
+    "createdAt": "2022-10-12T09:24:54.985Z",
+    "updatedAt": "2022-12-20T14:50:48.952Z",
+    "name": "menu-alt-1",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/01af8d24-899a-400f-a1ef-e7ce07baf761",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "menu-alt-1",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:658-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "116bdd3a-0a80-49e0-b31e-a30f533a6c65",
+    "createdAt": "2022-10-12T09:24:54.993Z",
+    "updatedAt": "2022-12-20T14:50:48.961Z",
+    "name": "menu-alt-2",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/947cf3dd-b0c9-4411-9736-81cd1460c8d8",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "menu-alt-2",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:696-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "2c061685-9a1b-4c25-92b2-860ac2ba7c49",
+    "createdAt": "2022-10-12T09:24:54.998Z",
+    "updatedAt": "2022-12-20T14:50:48.978Z",
+    "name": "menu-alt-3",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0bfddcd9-6fd8-4955-81bd-fc2047c1b8f0",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "menu-alt-3",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:698-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "bea9d9c1-f7af-452c-a8fc-ff3200951cfb",
+    "createdAt": "2022-10-12T09:24:55.012Z",
+    "updatedAt": "2022-12-20T14:50:49.003Z",
+    "name": "menu-alt-4",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/35966b7c-ad97-4d7b-a9ba-aeafe563bb2e",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "menu-alt-4",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:716-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "4b9ac857-63b6-4b63-9734-b632c302404f",
+    "createdAt": "2022-10-12T09:24:54.956Z",
+    "updatedAt": "2022-12-20T14:50:48.913Z",
+    "name": "minus-circle / Outline",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8d248aa1-1141-40c0-a22d-9a8fb6071d09",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "minus-circle / Outline",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "minus-circle"
+    },
+    "type": "vector",
+    "originId": "31:1125-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "05b63cf2-a5b8-4284-ba58-860059799410",
+    "createdAt": "2022-10-12T09:24:54.950Z",
+    "updatedAt": "2022-12-20T14:50:48.913Z",
+    "name": "minus-circle / Solid",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/42dc324b-1d22-435a-8b7a-610d2c83d3fe",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "minus-circle / Solid",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "minus-circle"
+    },
+    "type": "vector",
+    "originId": "31:1145-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "2d3e4745-f05f-4848-b7e3-d891fea32c47",
+    "createdAt": "2022-10-12T09:35:42.689Z",
+    "updatedAt": "2022-11-15T15:39:23.050Z",
+    "name": "Neutral/100",
+    "value": {
+      "a": 1,
+      "b": 249,
+      "g": 245,
+      "r": 241
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:1459",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e7419470-fd1a-43e2-8f1a-5f61246ab31c",
+    "createdAt": "2022-10-12T09:35:42.683Z",
+    "updatedAt": "2022-11-15T15:39:23.043Z",
+    "name": "Neutral/200",
+    "value": {
+      "a": 1,
+      "b": 240,
+      "g": 232,
+      "r": 226
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:1460",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c900b23e-627a-43e2-9f60-8d0b1c5973fd",
+    "createdAt": "2022-10-12T09:35:42.667Z",
+    "updatedAt": "2022-11-15T15:39:23.021Z",
+    "name": "Neutral/300",
+    "value": {
+      "a": 1,
+      "b": 225,
+      "g": 213,
+      "r": 203
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:1461",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "da62593e-26b4-4259-9a4c-79330723a3b7",
+    "createdAt": "2022-10-12T09:35:42.667Z",
+    "updatedAt": "2022-11-15T15:39:23.038Z",
+    "name": "Neutral/400",
+    "value": {
+      "a": 1,
+      "b": 184,
+      "g": 163,
+      "r": 148
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:1462",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "2b7305a0-3fc3-4b3c-9dc5-82193a8d1c0e",
+    "createdAt": "2022-10-12T09:35:42.692Z",
+    "updatedAt": "2022-11-15T15:39:23.051Z",
+    "name": "Neutral/50",
+    "value": {
+      "a": 1,
+      "b": 252,
+      "g": 250,
+      "r": 248
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:1458",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "1ce8d66d-8598-4467-9d00-b803e46a883e",
+    "createdAt": "2022-10-12T09:35:42.657Z",
+    "updatedAt": "2022-11-15T15:39:23.020Z",
+    "name": "Neutral/500",
+    "value": {
+      "a": 1,
+      "b": 139,
+      "g": 116,
+      "r": 100
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:1463",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "d3b85fd0-1946-4ac6-ac5d-21486383f366",
+    "createdAt": "2022-10-12T09:35:42.683Z",
+    "updatedAt": "2022-11-15T15:39:23.044Z",
+    "name": "Neutral/600",
+    "value": {
+      "a": 1,
+      "b": 105,
+      "g": 85,
+      "r": 71
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:1464",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "166fd546-a716-46df-a13f-6b895faa7f29",
+    "createdAt": "2022-10-12T09:35:42.657Z",
+    "updatedAt": "2022-11-15T15:39:23.017Z",
+    "name": "Neutral/700",
+    "value": {
+      "a": 1,
+      "b": 85,
+      "g": 65,
+      "r": 51
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:1465",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "876f2528-3162-4854-bb28-db279ef36860",
+    "createdAt": "2022-10-12T09:35:42.646Z",
+    "updatedAt": "2022-11-15T15:39:23.016Z",
+    "name": "Neutral/800",
+    "value": {
+      "a": 1,
+      "b": 59,
+      "g": 41,
+      "r": 30
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:1466",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "6de3a63b-7951-411b-80d2-0b929f227cab",
+    "createdAt": "2022-10-12T09:35:42.645Z",
+    "updatedAt": "2022-11-15T15:39:23.009Z",
+    "name": "Neutral/900",
+    "value": {
+      "a": 1,
+      "b": 42,
+      "g": 23,
+      "r": 15
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "3:1467",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "eb7b3345-c87a-4d3b-850d-bd0f7cd53f0d",
+    "createdAt": "2022-10-12T09:24:55.007Z",
+    "updatedAt": "2022-12-20T14:50:48.995Z",
+    "name": "office-building",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1263183f-b1ee-4430-912c-105a63a75222",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "office-building",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:710-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "5a1877e2-75d5-4218-a598-4f698e4e9463",
+    "createdAt": "2022-10-12T09:38:36.563Z",
+    "updatedAt": "2022-10-12T09:38:36.563Z",
+    "name": "Opacity-10",
+    "value": {
+      "opacity": 10
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Opacities"
+    },
+    "type": "opacity",
+    "originId": "16:2166",
+    "sourceId": "0b289c8f-4449-4f12-bc80-09f2cc03ce02",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "ed16f7b3-67e8-4872-9d1a-2b8902451176",
+    "createdAt": "2022-10-12T09:38:36.587Z",
+    "updatedAt": "2022-10-12T09:38:36.587Z",
+    "name": "Opacity-20",
+    "value": {
+      "opacity": 20
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Opacities"
+    },
+    "type": "opacity",
+    "originId": "16:2167",
+    "sourceId": "0b289c8f-4449-4f12-bc80-09f2cc03ce02",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e0ec52a0-6774-4a11-9d21-93669b23bff9",
+    "createdAt": "2022-10-12T09:38:36.575Z",
+    "updatedAt": "2022-10-12T09:38:36.575Z",
+    "name": "Opacity-30",
+    "value": {
+      "opacity": 30
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Opacities"
+    },
+    "type": "opacity",
+    "originId": "16:2168",
+    "sourceId": "0b289c8f-4449-4f12-bc80-09f2cc03ce02",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "323f18a4-8102-4004-a8e2-2dc9c38b9e3d",
+    "createdAt": "2022-10-12T09:38:36.587Z",
+    "updatedAt": "2022-10-12T09:38:36.587Z",
+    "name": "Opacity-40",
+    "value": {
+      "opacity": 40
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Opacities"
+    },
+    "type": "opacity",
+    "originId": "16:2169",
+    "sourceId": "0b289c8f-4449-4f12-bc80-09f2cc03ce02",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "3ccd79a7-24ab-4ae6-8256-2e899f8afdd4",
+    "createdAt": "2022-10-12T09:38:36.586Z",
+    "updatedAt": "2022-10-12T09:38:36.586Z",
+    "name": "Opacity-50",
+    "value": {
+      "opacity": 50
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Opacities"
+    },
+    "type": "opacity",
+    "originId": "16:2170",
+    "sourceId": "0b289c8f-4449-4f12-bc80-09f2cc03ce02",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "88d8353b-0e4c-4843-a365-7a618cfbe66c",
+    "createdAt": "2022-10-12T09:38:36.582Z",
+    "updatedAt": "2022-10-12T09:38:36.582Z",
+    "name": "Opacity-60",
+    "value": {
+      "opacity": 60
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Opacities"
+    },
+    "type": "opacity",
+    "originId": "16:2171",
+    "sourceId": "0b289c8f-4449-4f12-bc80-09f2cc03ce02",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "dda935bf-3542-492d-bb7b-40ea5460cf20",
+    "createdAt": "2022-10-12T09:38:36.580Z",
+    "updatedAt": "2022-10-12T09:38:36.580Z",
+    "name": "Opacity-70",
+    "value": {
+      "opacity": 70
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Opacities"
+    },
+    "type": "opacity",
+    "originId": "16:2172",
+    "sourceId": "0b289c8f-4449-4f12-bc80-09f2cc03ce02",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "4fa34395-f451-4b35-8a2c-7babfab0f173",
+    "createdAt": "2022-10-12T09:38:36.584Z",
+    "updatedAt": "2022-10-12T09:38:36.584Z",
+    "name": "Opacity-80",
+    "value": {
+      "opacity": 80
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Opacities"
+    },
+    "type": "opacity",
+    "originId": "16:2214",
+    "sourceId": "0b289c8f-4449-4f12-bc80-09f2cc03ce02",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "01915f50-eb64-4abf-a333-0adfae9fea5e",
+    "createdAt": "2022-10-12T09:38:36.597Z",
+    "updatedAt": "2022-10-12T09:38:36.597Z",
+    "name": "Opacity-90",
+    "value": {
+      "opacity": 90
+    },
+    "meta": {
+      "source": "frames",
+      "sourceFile": "https://www.figma.com/file/T5dh52gI1pwmhjoVmjZkE5",
+      "originFrameName": "Opacities"
+    },
+    "type": "opacity",
+    "originId": "16:2217",
+    "sourceId": "0b289c8f-4449-4f12-bc80-09f2cc03ce02",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "1c8e118d-bfa3-46cb-aae9-a53abad505de",
+    "createdAt": "2022-10-12T09:24:55.035Z",
+    "updatedAt": "2022-12-20T14:50:49.064Z",
+    "name": "pencil",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d0b1c7d9-a2e1-42d9-84d4-e2c1c5234492",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "pencil",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:708-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "d9046f0f-7c52-4704-bb58-4dba8ec74e19",
+    "createdAt": "2022-10-12T09:24:55.027Z",
+    "updatedAt": "2022-12-20T14:50:49.034Z",
+    "name": "pencil-alt",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/311ff04a-3c52-4f7e-80c8-f66c84bcbe35",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "pencil-alt",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:738-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "49a3ed6d-bbcf-4227-b84d-df1b354c242a",
+    "createdAt": "2022-10-12T09:24:55.038Z",
+    "updatedAt": "2022-12-20T14:50:49.065Z",
+    "name": "phone",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/218d9c77-7511-4c8b-abbe-1bddeb2d0188",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "phone",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:726-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "0bd53c09-a785-4dc2-b729-c937fdeb6a30",
+    "createdAt": "2022-10-12T09:24:55.053Z",
+    "updatedAt": "2022-12-20T14:50:49.083Z",
+    "name": "phone-incoming",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a4410b60-b538-4218-8864-7da62f5dd451",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "phone-incoming",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:756-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "1204977d-da07-4cde-bb25-abba96fdb41a",
+    "createdAt": "2022-10-12T09:24:55.044Z",
+    "updatedAt": "2022-12-20T14:50:49.079Z",
+    "name": "phone-outgoing",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/bcb0170e-70bd-4489-8571-4c5cd67ab24d",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "phone-outgoing",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:744-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "805a92ac-823f-4e17-be41-9b8591404c6c",
+    "createdAt": "2022-10-12T09:24:55.024Z",
+    "updatedAt": "2022-12-20T14:50:49.013Z",
+    "name": "photograph",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e28f9028-e86b-4d2e-99ab-81964988c4fa",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "photograph",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:648-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "76f958f0-ff0b-4e1f-a939-c56808a9822b",
+    "createdAt": "2022-10-12T09:24:55.046Z",
+    "updatedAt": "2022-12-20T14:50:49.079Z",
+    "name": "plus",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3d23c9a6-7ba6-45b6-9273-3a66a94249d6",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "plus",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:746-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "478e88ff-1f16-477d-b615-78d6bbbd6954",
+    "createdAt": "2022-10-12T09:24:54.950Z",
+    "updatedAt": "2022-12-20T14:50:48.917Z",
+    "name": "plus-circle / Outline",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c9b15c64-34f7-4142-88d5-4ade59403591",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "plus-circle / Outline",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "plus-circle"
+    },
+    "type": "vector",
+    "originId": "31:1121-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "7899212f-8c4b-425b-8eef-e697b4f15e74",
+    "createdAt": "2022-10-12T09:24:54.951Z",
+    "updatedAt": "2022-12-20T14:50:48.913Z",
+    "name": "plus-circle / Solid",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/56c52002-17f1-4842-9bbf-41f884fd7892",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "plus-circle / Solid",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "plus-circle"
+    },
+    "type": "vector",
+    "originId": "31:1141-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "126f1855-9df3-464d-b107-c87240cc62d7",
+    "createdAt": "2022-10-12T09:35:42.682Z",
+    "updatedAt": "2022-11-15T15:39:23.022Z",
+    "name": "Primary/100",
+    "value": {
+      "a": 1,
+      "b": 254,
+      "g": 233,
+      "r": 237
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:301",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "0e2f8564-40c8-4be1-8105-40d4c53b88f0",
+    "createdAt": "2022-10-12T09:35:42.645Z",
+    "updatedAt": "2022-11-15T15:39:23.002Z",
+    "name": "Primary/200",
+    "value": {
+      "a": 1,
+      "b": 254,
+      "g": 214,
+      "r": 221
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:302",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "47ed928f-f868-4906-948d-41cf7eb83355",
+    "createdAt": "2022-10-12T09:35:42.657Z",
+    "updatedAt": "2022-11-15T15:39:23.015Z",
+    "name": "Primary/300",
+    "value": {
+      "a": 1,
+      "b": 253,
+      "g": 181,
+      "r": 196
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:303",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "1d1a5db2-ba8f-4e49-8082-95b0141b8a57",
+    "createdAt": "2022-10-12T09:35:42.646Z",
+    "updatedAt": "2022-11-15T15:39:23.012Z",
+    "name": "Primary/400",
+    "value": {
+      "a": 1,
+      "b": 250,
+      "g": 139,
+      "r": 167
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:304",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "40fbedb3-aab5-4d75-973d-c6877b717a3e",
+    "createdAt": "2022-10-12T09:35:42.659Z",
+    "updatedAt": "2022-11-15T15:39:23.023Z",
+    "name": "Primary/50",
+    "value": {
+      "a": 1,
+      "b": 255,
+      "g": 243,
+      "r": 245
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:300",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "4b1abe79-dcd8-4d46-b6ce-b732c74b82e8",
+    "createdAt": "2022-10-12T09:35:42.651Z",
+    "updatedAt": "2022-11-15T15:39:23.016Z",
+    "name": "Primary/500",
+    "value": {
+      "a": 1,
+      "b": 246,
+      "g": 92,
+      "r": 139
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:305",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "9a03b6db-42ec-4f13-9d72-7e27a7d180d2",
+    "createdAt": "2022-10-12T09:35:42.682Z",
+    "updatedAt": "2022-11-15T15:39:23.043Z",
+    "name": "Primary/600",
+    "value": {
+      "a": 1,
+      "b": 237,
+      "g": 58,
+      "r": 124
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:306",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "1bf8d120-6f50-4831-962b-c8a120a09b30",
+    "createdAt": "2022-10-12T09:35:42.645Z",
+    "updatedAt": "2022-11-15T15:39:23.003Z",
+    "name": "Primary/700",
+    "value": {
+      "a": 1,
+      "b": 217,
+      "g": 40,
+      "r": 109
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:307",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "f7990567-9ec9-43ac-8a49-a0d54dea2924",
+    "createdAt": "2022-10-12T09:35:42.644Z",
+    "updatedAt": "2022-11-15T15:39:23.002Z",
+    "name": "Primary/800",
+    "value": {
+      "a": 1,
+      "b": 182,
+      "g": 33,
+      "r": 91
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:308",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "fbd4d0a7-e9ca-49a9-81ed-f5b200e3b0f4",
+    "createdAt": "2022-10-12T09:35:42.681Z",
+    "updatedAt": "2022-11-15T15:39:23.039Z",
+    "name": "Primary/900",
+    "value": {
+      "a": 1,
+      "b": 149,
+      "g": 29,
+      "r": 76
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:309",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "da0b79dc-b7ab-4148-bfca-5d3d8dce8fd6",
+    "createdAt": "2022-10-12T09:24:54.980Z",
+    "updatedAt": "2022-12-20T14:50:48.943Z",
+    "name": "question-mark-circle",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/398dca67-71d4-4ec7-8ab7-38e43f53e65a",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "question-mark-circle",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:660-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "b2e56df7-a7b8-49d7-a01d-3161885519b3",
+    "createdAt": "2022-10-12T09:24:55.053Z",
+    "updatedAt": "2022-12-20T14:50:49.087Z",
+    "name": "refresh",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c9e57bb0-1def-4052-9257-3aa29949b1a4",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "refresh",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:758-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "b460c9ee-5130-42d4-afb5-b0693d91373e",
+    "createdAt": "2022-10-12T09:24:55.024Z",
+    "updatedAt": "2022-12-20T14:50:49.011Z",
+    "name": "scale",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/84d610a0-bdf4-42cc-8969-dc97bf687da7",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "scale",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:730-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "dc69fb10-bfc3-4529-8542-aae202c411d5",
+    "createdAt": "2022-10-12T09:40:58.127Z",
+    "updatedAt": "2022-11-15T15:39:23.274Z",
+    "name": "Section",
+    "value": {
+      "font": {
+        "id": "948ede7c-457a-4bc8-96fb-cb9779a4359f",
+        "createdAt": "2022-10-12T09:40:58.119Z",
+        "updatedAt": "2022-11-18T16:16:03.150Z",
+        "name": "Inter-SemiBold",
+        "value": {
+          "format": "ttf",
+          "isItalic": false,
+          "provider": "Google Fonts",
+          "fontFamily": "Inter",
+          "fontWeight": 600,
+          "fontFileMissing": false,
+          "fontPostScriptName": "Inter-SemiBold",
+          "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/1cecfde5-6b70-4a8e-9e51-e435b975fa4b/font/Inter-SemiBold/Inter-SemiBold.ttf?AWSAccessKeyId=ASIAYLKZPEWOKQOLRVU6&Expires=1672252891&Signature=JyutQq2Vk26iFBkZrkvUoTKDE6w%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAAaCWV1LXdlc3QtMSJIMEYCIQCqDGFqxvOJ4XtjYSutTNJxicwjhaZEg6SwWkyS8jVWngIhAPyVpr8%2BEyyH%2Bt6%2FJ3LCKp0tTD2NMaNrZfXpFrhXDgpfKu8DCEkQAxoMNTc0MTAyNjQ0MTI0IgwV3TuO9Dsnj6VqlQEqzAOf11fB0sWUwlY0UK3z7pEwZYHut8CU8OYe%2FtzVmwsI7%2FRLkcJGf%2BgpRzAyaoEKPiShHj%2BuseNJQYbM%2BfYpgcU1N9GZ2xvZ%2FYS6pD1YqUcv%2BxPcF%2BeKAkBAneL1ycQR6WpkuwnFxNigXwOtvTSad99D71PUxIAL31f14Ifgj70ytcpsv1DhEP4Y0DcBGBeADVMeDtWL5icHgIhPl4LaKZqpvKp0IZn4ysQp4i8S2clyu7n7bkJBAIUINY9FkouycihtJ7mMDj1ubt8wDepK%2BkIHps7ccug%2BOyUoKIMM0nUfCRIEgiu3T%2FGER2Fv0byOxXC%2FYEfZUFEGPKOqrHwxxL8nuAr6RQvVR%2FJBFNmD7vkRpNHkaZiM7%2Fh2Y7JwbF8m6CORQHoQVYuNPgIF8HK3aXoG3MxIKoaGwD5qM50rCRrLXpxuPffyYlXXfDMi4wJAGyIM1qa7GuSRZwufMRApOifroEGhOfovzqHRHnrLh9iLnovCKgbSLoUaNt6n%2BrkLKUROWxr1tBs20UbuLs2K8SKTj3YMLPMct%2B9kNt8G8UQZKvj7w8diZHkIhqeRCgZg%2B9sci%2F7ppOg2DIlpnr521jXht7FLRwm%2FKCO0m8J6MJHBsZ0GOqQBWRh%2FfvqXbImRHmcrnMdEhUIb8ZAglenUlkQDgi0wsNQOPE1ZL6YfA5hO3SEFWCe7pmLxvZRiKlOnUBPlEy4gFDWfNlyAQMFf93yDOtsV1yrFbCTqHvP5sJmwqoN6RWa1nOwd7jARYIsBlZD1hMD0fF7MUaVa3qXJdqrcR708HK8eMcL8lJUY763ytWnw1oh%2FNLDgm7fhw%2FPpoxs9kuaz5R%2BHuFI%3D"
+        },
+        "meta": {
+          "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-SemiBold",
+        "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+        "description": null,
+        "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+      },
+      "fontSize": {
+        "value": {
+          "unit": "px",
+          "measure": 12
+        }
+      },
+      "textAlign": {
+        "vertical": "top",
+        "horizontal": "left"
+      },
+      "lineHeight": {
+        "value": {
+          "unit": "px",
+          "measure": 20
+        }
+      },
+      "letterSpacing": {
+        "value": {
+          "unit": "px",
+          "measure": 0.5
+        }
+      },
+      "textTransform": "uppercase"
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "textStyle",
+    "originId": "4:854",
+    "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "20de0f96-bd2b-40db-8dd8-c617c7adfe23",
+    "createdAt": "2022-10-12T09:39:31.469Z",
+    "updatedAt": "2022-10-12T09:39:31.469Z",
+    "name": "Shadow/2xl",
+    "value": [
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 50
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.25,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "spread": {
+          "value": {
+            "unit": "px",
+            "measure": -12
+          }
+        },
+        "isInner": false,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 25
+          }
+        }
+      }
+    ],
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "shadow",
+    "originId": "16:440",
+    "sourceId": "9b759121-29d8-486b-86e3-5f89fdb3b63e",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c88d7eb1-e484-4457-92b4-dc4be3153f21",
+    "createdAt": "2022-10-12T09:39:31.451Z",
+    "updatedAt": "2022-10-12T09:39:31.451Z",
+    "name": "Shadow/inner",
+    "value": [
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 4
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.05,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "isInner": true,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 2
+          }
+        }
+      }
+    ],
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "shadow",
+    "originId": "16:434",
+    "sourceId": "9b759121-29d8-486b-86e3-5f89fdb3b63e",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c4ede585-256a-4304-9f21-7fd854608148",
+    "createdAt": "2022-10-12T09:39:31.467Z",
+    "updatedAt": "2022-10-12T09:39:31.467Z",
+    "name": "Shadow/lg",
+    "value": [
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 6
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "spread": {
+          "value": {
+            "unit": "px",
+            "measure": -4
+          }
+        },
+        "isInner": false,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 4
+          }
+        }
+      },
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 15
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "spread": {
+          "value": {
+            "unit": "px",
+            "measure": -3
+          }
+        },
+        "isInner": false,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 10
+          }
+        }
+      }
+    ],
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "shadow",
+    "originId": "16:438",
+    "sourceId": "9b759121-29d8-486b-86e3-5f89fdb3b63e",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "d63676a3-3ba6-4402-b07b-09b89861a78b",
+    "createdAt": "2022-10-12T09:39:31.445Z",
+    "updatedAt": "2022-10-12T09:39:31.445Z",
+    "name": "Shadow/md",
+    "value": [
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 4
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "spread": {
+          "value": {
+            "unit": "px",
+            "measure": -2
+          }
+        },
+        "isInner": false,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 2
+          }
+        }
+      },
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 6
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "spread": {
+          "value": {
+            "unit": "px",
+            "measure": -1
+          }
+        },
+        "isInner": false,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 4
+          }
+        }
+      }
+    ],
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "shadow",
+    "originId": "16:437",
+    "sourceId": "9b759121-29d8-486b-86e3-5f89fdb3b63e",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "03bcc0ce-1b94-4c46-8137-cacbfae155f0",
+    "createdAt": "2022-10-12T09:39:31.460Z",
+    "updatedAt": "2022-10-12T09:39:31.460Z",
+    "name": "Shadow/sm",
+    "value": [
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 2
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "spread": {
+          "value": {
+            "unit": "px",
+            "measure": -1
+          }
+        },
+        "isInner": false,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 1
+          }
+        }
+      },
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 3
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "isInner": false,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 1
+          }
+        }
+      }
+    ],
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "shadow",
+    "originId": "16:436",
+    "sourceId": "9b759121-29d8-486b-86e3-5f89fdb3b63e",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "480ac64a-0d3b-4588-b2ff-60e090cd2e75",
+    "createdAt": "2022-10-12T09:39:31.431Z",
+    "updatedAt": "2022-10-12T09:39:31.431Z",
+    "name": "Shadow/xl",
+    "value": [
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 10
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "spread": {
+          "value": {
+            "unit": "px",
+            "measure": -6
+          }
+        },
+        "isInner": false,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 8
+          }
+        }
+      },
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 25
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "spread": {
+          "value": {
+            "unit": "px",
+            "measure": -5
+          }
+        },
+        "isInner": false,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 20
+          }
+        }
+      }
+    ],
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "shadow",
+    "originId": "16:439",
+    "sourceId": "9b759121-29d8-486b-86e3-5f89fdb3b63e",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "0fdc60c4-6782-4731-8e92-5844e5aaa3f3",
+    "createdAt": "2022-10-12T09:39:31.457Z",
+    "updatedAt": "2022-10-12T09:39:31.457Z",
+    "name": "Shadow/xs",
+    "value": [
+      {
+        "blur": {
+          "value": {
+            "unit": "px",
+            "measure": 2
+          }
+        },
+        "color": {
+          "value": {
+            "a": 0.05,
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        "isInner": false,
+        "offsetX": {
+          "value": {
+            "unit": "px",
+            "measure": 0
+          }
+        },
+        "offsetY": {
+          "value": {
+            "unit": "px",
+            "measure": 1
+          }
+        }
+      }
+    ],
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "shadow",
+    "originId": "16:435",
+    "sourceId": "9b759121-29d8-486b-86e3-5f89fdb3b63e",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "b656ae6e-4ff0-4f3b-9f94-6d7e68f1a1f4",
+    "createdAt": "2022-10-12T09:24:55.004Z",
+    "updatedAt": "2022-12-20T14:50:48.981Z",
+    "name": "share",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b6748919-bf69-4891-bdfd-ee23d79a96f4",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "share",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:684-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "575aa3dc-836a-4cee-a8dc-17a73f7b3454",
+    "createdAt": "2022-10-12T09:24:55.007Z",
+    "updatedAt": "2022-12-20T14:50:48.995Z",
+    "name": "shield-check",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/001d7d06-d721-41f3-85df-6401c1727048",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "shield-check",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:706-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "1000b056-a7d4-4461-93e0-79f01e7f6df9",
+    "createdAt": "2022-10-12T09:24:55.024Z",
+    "updatedAt": "2022-12-20T14:50:49.007Z",
+    "name": "shield-exclamation",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8d280b85-4d5a-4c63-b53e-7c9bdeb51163",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "shield-exclamation",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:728-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e2907a3b-932d-4c1d-890b-6d7eba1a4747",
+    "createdAt": "2022-10-12T09:40:58.125Z",
+    "updatedAt": "2022-11-15T15:39:23.267Z",
+    "name": "Subtitle",
+    "value": {
+      "font": {
+        "id": "82cb1a85-fbbe-4bc9-90d2-e097a5667083",
+        "createdAt": "2022-10-12T09:40:58.142Z",
+        "updatedAt": "2022-11-18T16:16:03.150Z",
+        "name": "Inter-Medium",
+        "value": {
+          "format": "ttf",
+          "isItalic": false,
+          "provider": "Google Fonts",
+          "fontFamily": "Inter",
+          "fontWeight": 500,
+          "fontFileMissing": false,
+          "fontPostScriptName": "Inter-Medium",
+          "url": "https://ddp-assets-prod.s3.eu-west-1.amazonaws.com/1cecfde5-6b70-4a8e-9e51-e435b975fa4b/font/Inter-Medium/Inter-Medium.ttf?AWSAccessKeyId=ASIAYLKZPEWOKQOLRVU6&Expires=1672252891&Signature=87R2GMOKi8k03z%2BRMjhmWvDCyzk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAAaCWV1LXdlc3QtMSJIMEYCIQCqDGFqxvOJ4XtjYSutTNJxicwjhaZEg6SwWkyS8jVWngIhAPyVpr8%2BEyyH%2Bt6%2FJ3LCKp0tTD2NMaNrZfXpFrhXDgpfKu8DCEkQAxoMNTc0MTAyNjQ0MTI0IgwV3TuO9Dsnj6VqlQEqzAOf11fB0sWUwlY0UK3z7pEwZYHut8CU8OYe%2FtzVmwsI7%2FRLkcJGf%2BgpRzAyaoEKPiShHj%2BuseNJQYbM%2BfYpgcU1N9GZ2xvZ%2FYS6pD1YqUcv%2BxPcF%2BeKAkBAneL1ycQR6WpkuwnFxNigXwOtvTSad99D71PUxIAL31f14Ifgj70ytcpsv1DhEP4Y0DcBGBeADVMeDtWL5icHgIhPl4LaKZqpvKp0IZn4ysQp4i8S2clyu7n7bkJBAIUINY9FkouycihtJ7mMDj1ubt8wDepK%2BkIHps7ccug%2BOyUoKIMM0nUfCRIEgiu3T%2FGER2Fv0byOxXC%2FYEfZUFEGPKOqrHwxxL8nuAr6RQvVR%2FJBFNmD7vkRpNHkaZiM7%2Fh2Y7JwbF8m6CORQHoQVYuNPgIF8HK3aXoG3MxIKoaGwD5qM50rCRrLXpxuPffyYlXXfDMi4wJAGyIM1qa7GuSRZwufMRApOifroEGhOfovzqHRHnrLh9iLnovCKgbSLoUaNt6n%2BrkLKUROWxr1tBs20UbuLs2K8SKTj3YMLPMct%2B9kNt8G8UQZKvj7w8diZHkIhqeRCgZg%2B9sci%2F7ppOg2DIlpnr521jXht7FLRwm%2FKCO0m8J6MJHBsZ0GOqQBWRh%2FfvqXbImRHmcrnMdEhUIb8ZAglenUlkQDgi0wsNQOPE1ZL6YfA5hO3SEFWCe7pmLxvZRiKlOnUBPlEy4gFDWfNlyAQMFf93yDOtsV1yrFbCTqHvP5sJmwqoN6RWa1nOwd7jARYIsBlZD1hMD0fF7MUaVa3qXJdqrcR708HK8eMcL8lJUY763ytWnw1oh%2FNLDgm7fhw%2FPpoxs9kuaz5R%2BHuFI%3D"
+        },
+        "meta": {
+          "source": "localStyles"
+        },
+        "type": "font",
+        "originId": "Inter-Medium",
+        "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+        "description": null,
+        "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+      },
+      "fontSize": {
+        "value": {
+          "unit": "px",
+          "measure": 18
+        }
+      },
+      "textAlign": {
+        "vertical": "top",
+        "horizontal": "left"
+      },
+      "lineHeight": {
+        "value": {
+          "unit": "px",
+          "measure": 32
+        }
+      }
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "textStyle",
+    "originId": "5:310",
+    "sourceId": "a6652889-f21f-429e-8b02-a8afc38692ec",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "44113d12-512d-48e6-90c6-037d36bbd8c4",
+    "createdAt": "2022-10-12T09:35:42.615Z",
+    "updatedAt": "2022-11-15T15:39:22.979Z",
+    "name": "Success/100",
+    "value": {
+      "a": 1,
+      "b": 231,
+      "g": 252,
+      "r": 220
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:321",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "2b68e2e8-85ae-43a2-a43b-911b7a9a6539",
+    "createdAt": "2022-10-12T09:35:42.613Z",
+    "updatedAt": "2022-11-15T15:39:22.976Z",
+    "name": "Success/200",
+    "value": {
+      "a": 1,
+      "b": 208,
+      "g": 247,
+      "r": 187
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:322",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "b6274693-59b0-428a-990e-5b4585a15daf",
+    "createdAt": "2022-10-12T09:35:42.610Z",
+    "updatedAt": "2022-11-15T15:39:22.971Z",
+    "name": "Success/300",
+    "value": {
+      "a": 1,
+      "b": 172,
+      "g": 239,
+      "r": 134
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:323",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "9678ed64-f600-4903-80c9-508519417191",
+    "createdAt": "2022-10-12T09:35:42.612Z",
+    "updatedAt": "2022-11-15T15:39:22.966Z",
+    "name": "Success/400",
+    "value": {
+      "a": 1,
+      "b": 128,
+      "g": 222,
+      "r": 74
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:324",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "282a4e2d-f5ba-4722-ac66-467721f97d31",
+    "createdAt": "2022-10-12T09:35:42.614Z",
+    "updatedAt": "2022-11-15T15:39:22.977Z",
+    "name": "Success/50",
+    "value": {
+      "a": 1,
+      "b": 244,
+      "g": 253,
+      "r": 240
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:320",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e05f1309-23d5-48f1-9423-3397ed967841",
+    "createdAt": "2022-10-12T09:35:42.608Z",
+    "updatedAt": "2022-11-15T15:39:22.963Z",
+    "name": "Success/500",
+    "value": {
+      "a": 1,
+      "b": 94,
+      "g": 197,
+      "r": 34
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:325",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "47a15dfa-d825-473b-852c-a1bc9fc2521c",
+    "createdAt": "2022-10-12T09:35:42.693Z",
+    "updatedAt": "2022-11-15T15:39:23.052Z",
+    "name": "Success/600",
+    "value": {
+      "a": 1,
+      "b": 74,
+      "g": 163,
+      "r": 22
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:326",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "1e546ec0-f372-4b8e-b9c9-b7cb7e778edb",
+    "createdAt": "2022-10-12T09:35:42.604Z",
+    "updatedAt": "2022-11-15T15:39:22.963Z",
+    "name": "Success/700",
+    "value": {
+      "a": 1,
+      "b": 61,
+      "g": 128,
+      "r": 21
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:327",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "74210c9a-552c-467d-ae89-8fda30c81653",
+    "createdAt": "2022-10-12T09:35:42.597Z",
+    "updatedAt": "2022-11-15T15:39:22.960Z",
+    "name": "Success/800",
+    "value": {
+      "a": 1,
+      "b": 52,
+      "g": 101,
+      "r": 22
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:328",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "74815a3f-ac88-49b8-8e12-82455ce774a0",
+    "createdAt": "2022-10-12T09:35:42.597Z",
+    "updatedAt": "2022-11-15T15:39:22.959Z",
+    "name": "Success/900",
+    "value": {
+      "a": 1,
+      "b": 45,
+      "g": 83,
+      "r": 20
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:329",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "912f6235-f28a-4b4c-a88f-85dd0329ef9f",
+    "createdAt": "2022-10-12T09:24:55.030Z",
+    "updatedAt": "2022-12-20T14:50:49.053Z",
+    "name": "switch-horizontal",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0d225352-9dd4-4b43-9594-edc97924c87b",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "switch-horizontal",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:692-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "198c8970-1d75-42f6-9a38-897f3a867caf",
+    "createdAt": "2022-10-12T09:24:55.024Z",
+    "updatedAt": "2022-12-20T14:50:49.012Z",
+    "name": "switch-vertical",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d204d669-47c6-4b6f-988a-092d6e1b539f",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "switch-vertical",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:654-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "3cca1242-3f93-455c-91f7-5df6c0dbcb0c",
+    "createdAt": "2022-10-12T09:24:55.026Z",
+    "updatedAt": "2022-12-20T14:50:49.051Z",
+    "name": "tag",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d1dabeaf-9bb6-4029-9ed8-64e73e5cb84a",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "tag",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:686-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "edaf4b5b-e14a-4dc7-b474-ee5d8d96ec9a",
+    "createdAt": "2022-10-12T09:41:29.061Z",
+    "updatedAt": "2022-12-15T07:29:52.380Z",
+    "name": "_thumbnail",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5ecf452a-3d07-47e2-aa57-3aa0e6052340",
+      "format": "jpg",
+      "dimension": 2
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "_thumbnail",
+      "format": "jpg",
+      "dimension": 2,
+      "parentFrame": "Thumbnail"
+    },
+    "type": "bitmap",
+    "originId": "1:139-jpg-2",
+    "sourceId": "fa5bed23-71f2-4f91-ab81-c7cbbe65c0cb",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "2b70b528-c3e6-4920-8a97-c3ce3e36ffa2",
+    "createdAt": "2022-10-12T09:24:55.042Z",
+    "updatedAt": "2022-12-20T14:50:49.074Z",
+    "name": "translate",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/11608577-470c-4680-a6e1-17c6e4b58a27",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "translate",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:656-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c3ae8f97-903a-4fe3-9ecd-02f90dd60ead",
+    "createdAt": "2022-10-12T09:24:54.983Z",
+    "updatedAt": "2022-12-20T14:50:48.948Z",
+    "name": "user",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/56e83aba-3207-4c3b-8db4-41e1c1e3d2db",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "user",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:670-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c0f1438b-806c-4b9c-84fd-8f3fbb6ee394",
+    "createdAt": "2022-10-12T09:24:54.998Z",
+    "updatedAt": "2022-12-20T14:50:48.971Z",
+    "name": "user-group",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3404a0ac-2a09-45b6-8b41-b396af4c5a46",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "user-group",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:690-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "a41d8646-cc64-4a48-8c8a-f989022ce4df",
+    "createdAt": "2022-10-12T09:24:54.993Z",
+    "updatedAt": "2022-12-20T14:50:48.956Z",
+    "name": "users",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3366ed1c-9721-4527-8f04-406f16782efd",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "users",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:688-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "b590139d-0ec6-461e-8097-00a86fc6dfb9",
+    "createdAt": "2022-10-12T09:24:55.042Z",
+    "updatedAt": "2022-12-20T14:50:49.076Z",
+    "name": "volume-off",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5d706872-bf65-4d58-958b-ce0ebb6e375a",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "volume-off",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:722-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "81429be1-dc49-4307-872e-dcd2ae3b9808",
+    "createdAt": "2022-10-12T09:24:55.035Z",
+    "updatedAt": "2022-12-20T14:50:49.058Z",
+    "name": "volume-up",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0c89746a-fe66-4a96-a611-82c481400821",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "volume-up",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:700-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "016af2eb-00c8-402a-863c-08f8bdd58042",
+    "createdAt": "2022-10-12T09:35:42.577Z",
+    "updatedAt": "2022-11-15T15:39:22.937Z",
+    "name": "Warning/100",
+    "value": {
+      "a": 1,
+      "b": 199,
+      "g": 243,
+      "r": 254
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:331",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "456582db-2d90-4e49-afb8-96fb262c9164",
+    "createdAt": "2022-10-12T09:35:42.597Z",
+    "updatedAt": "2022-11-15T15:39:22.957Z",
+    "name": "Warning/200",
+    "value": {
+      "a": 1,
+      "b": 138,
+      "g": 230,
+      "r": 253
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:332",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "89f51bbf-78e6-4bf0-baec-9625269a121f",
+    "createdAt": "2022-10-12T09:35:42.595Z",
+    "updatedAt": "2022-11-15T15:39:22.945Z",
+    "name": "Warning/300",
+    "value": {
+      "a": 1,
+      "b": 77,
+      "g": 211,
+      "r": 252
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:333",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "8392f447-acc3-4767-803a-7b186b88df13",
+    "createdAt": "2022-10-12T09:35:42.596Z",
+    "updatedAt": "2022-11-15T15:39:22.949Z",
+    "name": "Warning/400",
+    "value": {
+      "a": 1,
+      "b": 36,
+      "g": 191,
+      "r": 251
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:334",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c4952a99-be25-4ba9-93a5-384f8a0b8138",
+    "createdAt": "2022-10-12T09:35:42.556Z",
+    "updatedAt": "2022-11-15T15:39:22.915Z",
+    "name": "Warning/50",
+    "value": {
+      "a": 1,
+      "b": 235,
+      "g": 251,
+      "r": 255
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:330",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "2d200df7-cd49-4a7b-8137-1dde2692f86b",
+    "createdAt": "2022-10-12T09:35:42.595Z",
+    "updatedAt": "2022-11-15T15:39:22.944Z",
+    "name": "Warning/500",
+    "value": {
+      "a": 1,
+      "b": 11,
+      "g": 158,
+      "r": 245
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:335",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "c989bbdd-759e-463d-8037-7eaa23852fbf",
+    "createdAt": "2022-10-12T09:35:42.590Z",
+    "updatedAt": "2022-11-15T15:39:22.936Z",
+    "name": "Warning/600",
+    "value": {
+      "a": 1,
+      "b": 6,
+      "g": 119,
+      "r": 217
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:336",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "e67174e9-036c-4593-a356-216f90f96c9b",
+    "createdAt": "2022-10-12T09:35:42.521Z",
+    "updatedAt": "2022-11-15T15:39:22.903Z",
+    "name": "Warning/700",
+    "value": {
+      "a": 1,
+      "b": 9,
+      "g": 83,
+      "r": 180
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:337",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "67b7a96c-86cd-493d-9142-126139910ce8",
+    "createdAt": "2022-10-12T09:35:42.554Z",
+    "updatedAt": "2022-11-15T15:39:22.946Z",
+    "name": "Warning/800",
+    "value": {
+      "a": 1,
+      "b": 14,
+      "g": 64,
+      "r": 146
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:338",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "9743766a-2a65-41f7-8134-e58f5f0e0992",
+    "createdAt": "2022-10-12T09:35:42.590Z",
+    "updatedAt": "2022-11-15T15:39:22.935Z",
+    "name": "Warning/900",
+    "value": {
+      "a": 1,
+      "b": 15,
+      "g": 53,
+      "r": 120
+    },
+    "meta": {
+      "source": "localStyles"
+    },
+    "type": "color",
+    "originId": "4:339",
+    "sourceId": "0f8f0f70-3d47-4f63-9aec-5c6ba30b43c1",
+    "description": "",
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "5c3c768a-0f1e-422e-a6db-8a57efd7e8cc",
+    "createdAt": "2022-10-12T09:24:55.038Z",
+    "updatedAt": "2022-12-20T14:50:49.065Z",
+    "name": "x",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/14f86510-f117-46a6-afca-f6302572023a",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "x",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "Vectors"
+    },
+    "type": "vector",
+    "originId": "29:652-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "3c70506c-2d43-47cd-8973-334ab4ce7642",
+    "createdAt": "2022-10-12T09:24:54.931Z",
+    "updatedAt": "2022-12-20T14:50:48.884Z",
+    "name": "x-circle / Outline",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/86f1320a-e314-4304-bc5e-790a12807caf",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "x-circle / Outline",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "x-circle"
+    },
+    "type": "vector",
+    "originId": "31:1115-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  },
+  {
+    "id": "4d1626ca-30fa-4397-8340-4f5db1ae9338",
+    "createdAt": "2022-10-12T09:24:54.939Z",
+    "updatedAt": "2022-12-20T14:50:48.926Z",
+    "name": "x-circle / Solid",
+    "value": {
+      "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/05f3ec5c-317b-4293-8320-10c792a7eeb4",
+      "format": "svg"
+    },
+    "meta": {
+      "file": "Octo Primitives",
+      "page": "Thumbnail",
+      "frame": "x-circle / Solid",
+      "format": "svg",
+      "dimension": 1,
+      "parentFrame": "x-circle"
+    },
+    "type": "vector",
+    "originId": "31:1135-svg-1",
+    "sourceId": "ffceff6e-d752-4042-bbc8-f35caddea633",
+    "description": null,
+    "repositoryId": "1cecfde5-6b70-4a8e-9e51-e435b975fa4b"
+  }
+]
