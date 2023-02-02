@@ -21,6 +21,7 @@
 * [Overview](apps-and-tools/overview.md)
 * [GitHub](apps-and-tools/github.md)
 * [GitLab](https://specifyapp.com/blog/specify-to-gitlab)
+* [Azure DevOps](https://specifyapp.com/blog/specify-to-azure)
 * [REST API](apps-and-tools/rest-api.md)
 * [CLI](apps-and-tools/cli.md)
 * [Notion](apps-and-tools/notion.md)
