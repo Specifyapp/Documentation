@@ -130,12 +130,11 @@ interface Parser {
 }
 ```
 
-| Name      | Type                                                                                                  | Required                                                                                                                    | Description                                                                                    |
-| --------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| `name`    | `string`                                                                                              | <mark style="color:yellow;">`true`</mark>                                                                                   | The name of the parser. Choose from [all available parsers](parsers.md#all-parsers-available). |
+| Name      | Type                                                                                                  | Required                                  | Description                                                                                                                 |
+| --------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| `name`    | `string`                                                                                              | <mark style="color:yellow;">`true`</mark> | The name of the parser. Choose from [all available parsers](parsers.md#all-parsers-available).                              |
 | `options` | <pre class="language-typescript"><code class="lang-typescript">Record&#x3C;string, any>
-</code></pre> |                                                                                                                             |                                                                                                |
-|           | <mark style="color:red;">`false`</mark>                                                               | The options relative to the parser you apply. Each parser has its own options you can find in their respective README file. |                                                                                                |
+</code></pre> | <mark style="color:red;">`false`</mark>   | The options relative to the parser you apply. Each parser has its own options you can find in their respective README file. |
 
 #### Example
 
