@@ -30,7 +30,7 @@ Want to connect a Notion page from your Notion workspace? Please make sure you h
 
 ## Supported Token types
 
-You can sync the following [Token types](../usage/token-types.md) in Notion:
+You can sync the following [Token types](../concepts/token-types.md) in Notion:
 
 * color
 * measurement
@@ -41,27 +41,27 @@ You can sync the following [Token types](../usage/token-types.md) in Notion:
 
 <div>
 
-<figure><img src="../.gitbook/assets/colors-in-notion.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/colors-in-notion.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/measurements-in-notion.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/measurements-in-notion.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/textstyles-in-notion.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/textstyles-in-notion.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/bitmaps-in-notion.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/bitmaps-in-notion.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/fonts-in-notion.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/fonts-in-notion.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/vectors-in-notion.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/vectors-in-notion.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 

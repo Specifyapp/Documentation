@@ -8,7 +8,7 @@ description: >-
 
 ## Why you need parsers
 
-<figure><img src="../.gitbook/assets/where-parsers-happen-dark.jpg" alt=""><figcaption><p>Parsers help you transform raw design tokens and assets returned by Specify to match your company standards</p></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/where-parsers-happen-dark.jpg" alt=""><figcaption><p>Parsers help you transform raw design tokens and assets returned by Specify to match your company standards</p></figcaption></figure>
 
 By default, without any parsers, Specify will return your design data as raw data:
 
@@ -21,7 +21,7 @@ There are high chances you need to transform those design data to fit your needs
 
 Parsers are functions allowing you to transform design tokens and assets coming from Specify to fit your needs and company standards.
 
-<figure><img src="../.gitbook/assets/how-parsers-work.jpg" alt=""><figcaption><p>An example output pipeline that pulls colors from Specify, sorts them alphabetically and transforms them as CSS Custom Properties</p></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/how-parsers-work.jpg" alt=""><figcaption><p>An example output pipeline that pulls colors from Specify, sorts them alphabetically and transforms them as CSS Custom Properties</p></figcaption></figure>
 
 A parser does the following job:
 

@@ -4,7 +4,7 @@ description: >-
   parsers. This page will help you understand all of them.
 ---
 
-# Concepts
+# Glossary
 
 <figure><img src="../.gitbook/assets/concepts-cover.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ A repository is like a folder containing your design tokens and assets in Specif
 
 ### Token type
 
-A Token type is a type of design token or asset supported by Specify like a colors, a text style or an icon. [See all token types](../usage/token-types.md).
+A Token type is a type of design token or asset supported by Specify like a colors, a text style or an icon. [See all token types](../../../concepts/token-types.md).
 
 ### Configuration
 
@@ -42,4 +42,4 @@ A rule is a part of your configuration that helps you transform one or several T
 
 ### Parser
 
-Parsers are functions allowing you to transform design tokens and assets coming from Specify to fit your needs and company standards. [See all parsers](../usage/parsers.md#all-parsers-available).
+Parsers are functions allowing you to transform design tokens and assets coming from Specify to fit your needs and company standards. [See all parsers](../../../concepts/parsers.md#all-parsers-available).

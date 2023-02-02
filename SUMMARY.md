@@ -4,29 +4,27 @@
 
 ## Getting started
 
-* [What is Specify](<getting-started/what-is-specify.md>)
-* [Concepts](getting-started/concepts.md)
+* [What is Specify](getting-started/what-is-specify.md)
 * [Getting started](getting-started/getting-started.md)
+* [Glossary](front/documentation/getting-started/concepts.md)
 
-## Apps
+## Concepts
 
-* [GitHub](apps/github.md)
-* [GitLab](https://specifyapp.com/blog/specify-to-gitlab)
-* [Notion](apps/notion.md)
-* [Raycast](apps/raycast.md)
-
-## Ecosystem
-
-* [Token types](usage/token-types.md)
-* [Configuration](usage/configuration.md)
-* [Parsers](usage/parsers.md)
+* [Token types](concepts/token-types.md)
+* [Configuration](concepts/configuration.md)
+* [Parsers](concepts/parsers.md)
 * [Templates](https://specifyapp.com/templates)
+* [Best practices](concepts/best-practices.md)
 
-## For developers
+## Apps & Tools
 
-* [CLI](usage/cli.md)
-* [REST API](usage/rest-api.md)
-* [Best practices](for-developers/best-practices.md)
+* [Overview](apps-and-tools/overview.md)
+* [GitHub](apps-and-tools/github.md)
+* [GitLab](https://specifyapp.com/blog/specify-to-gitlab)
+* [REST API](apps-and-tools/rest-api.md)
+* [CLI](apps-and-tools/cli.md)
+* [Notion](apps-and-tools/notion.md)
+* [Raycast](apps-and-tools/raycast.md)
 
 ## Useful links
 

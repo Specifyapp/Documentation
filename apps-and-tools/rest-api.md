@@ -12,7 +12,7 @@ The Specify API is based on REST structure. We support authentication via access
 
 ## What you can do with the REST API
 
-<figure><img src="../.gitbook/assets/specify-api.jpg" alt=""><figcaption><p>Overview of the possibilities offered by the Specify API</p></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/specify-api.jpg" alt=""><figcaption><p>Overview of the possibilities offered by the Specify API</p></figcaption></figure>
 
 Specify's REST API is useful if you want to use design data coming from Specify through custom scripts like a Figma plugin or a [Raycast script](https://www.raycast.com/).
 
@@ -50,7 +50,7 @@ For instance, in this URL `https://specifyapp.com/@specifyapp/Seeds/color` the r
 {% swagger-parameter in="body" name="filter" type="Object" required="false" %}
 An object containing all the
 
-[Token types](token-types.md)
+[Token types](../concepts/token-types.md)
 
 you want to target.
 {% endswagger-parameter %}
@@ -58,7 +58,7 @@ you want to target.
 {% swagger-parameter in="body" name="parsers" type="Object or Array" required="false" %}
 Can contain an object or an array of objects. Each object corresponds to a specific
 
-[parser](parsers.md#all-parsers-available)
+[parser](../concepts/parsers.md#all-parsers-available)
 
 .
 {% endswagger-parameter %}
@@ -115,7 +115,7 @@ curl -X POST 'https://api.specifyapp.com/repository/{workspace}/{name}/design-to
 
 ## Errors
 
-Specify uses standard HTTP response codes for success and failure notifications. Our errors are further classified by type. In general: Codes in the 2xx range indicate success. Codes in the 4xx range indicate an error that failed given the information provided (e.g., a required parameter was omitted). Codes in the 5xx range indicate an error with Specify's servers.
+Specify uses standard HTTP response codes for success and failure notifications. Our errors are further classified by type. In general: Codes in the 2xx range indicate success. Codes in the 4xx range indicate an error that failed given the information provided (e.g., a required parameter was omitted). Codes in the 5xx range indicate an error with Specify servers.
 
 Some 4xx errors that could be handled programmatically include an error code that briefly explains the error reported.
 

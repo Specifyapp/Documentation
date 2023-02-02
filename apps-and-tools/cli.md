@@ -6,7 +6,7 @@ description: >-
 
 # CLI
 
-<figure><img src="../.gitbook/assets/cli.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/cli.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
