@@ -1,5 +1,5 @@
 ---
-description: Learn to get and use your design tokens and assets right from Raycast.
+description: Learn how Specify and Raycast work together
 ---
 
 # Raycast
