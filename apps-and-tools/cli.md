@@ -38,14 +38,6 @@ yarn global add @specifyapp/cli
 
 ## Commands
 
-### Sync
-
-Sync a Specify repository to update its design tokens and assets.
-
-```bash
-specify sync [flags]
-```
-
 ### Init
 
 Initialize a Specify configuration tailored for a specific output format. [See all configuration templates](broken-reference).
@@ -60,6 +52,14 @@ Pull design tokens and assets from your Specify repository.
 
 ```bash
 specify pull [flags]
+```
+
+### Sync
+
+Sync a Specify repository to update its design tokens and assets.
+
+```bash
+specify sync [flags]
 ```
 
 ## Flags
