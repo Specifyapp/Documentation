@@ -28,9 +28,9 @@ A configuration is composed of 3 main properties:
 * `personalAccessToken`
 * `rules`
 
-### `repository`
+### Repository
 
-The name of the Specify repository you want to pull your design tokens and assets from.
+The name of the Specify `repository` you want to pull your design tokens and assets from.
 
 Let's say we have the following repository in Specify called "all-design-data" located in the "@acme-inc" organization.
 
@@ -62,7 +62,7 @@ We target it like this:
 You can only target one repository per configuration file. Want to pull design tokens from several Specify repositories? Create a several configuration files and run them with the Specify CLI.
 {% endhint %}
 
-### `personalAccessToken`
+### Personal Access Token
 
 The Specify `personalAccessToken` used to authenticate your actions.
 
@@ -90,11 +90,11 @@ Need a personal access token? [Generate one ↗](https://specifyapp.com/user/per
 {% endtab %}
 {% endtabs %}
 
-### `rules`
+### Rules
 
 Rules help you transform your design tokens and assets the way you want.
 
-You can have as many rules as you want and you can have rules that transform several [Token types](token-types.md) at once.
+You can have as many `rules` as you want and you can have rules that transform several [Token types](token-types.md) at once.
 
 A rule is composed of the following properties:
 
