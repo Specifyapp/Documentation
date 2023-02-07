@@ -219,24 +219,6 @@ Run all examples by copying the code and running the `specify pull` command.
 Here's a basic configuration file that targets a Specify repository called `all-design-data` from the `@acme-inc` organization:
 
 {% tabs %}
-{% tab title="JavaScript (CommonJS)" %}
-{% code title=".specifyrc.js" lineNumbers="true" %}
-```javascript
-module.exports = {
-  repository: '@acme-inc/all-design-data',
-  personalAccessToken: '<your-personal-access-token>',
-  rules: [
-    {
-      name: 'All design tokens in JSON',
-      path: 'design-tokens.json',
-      parsers: [],
-    },    
-  ],
-};
-```
-{% endcode %}
-{% endtab %}
-
 {% tab title="JSON" %}
 {% code title=".specifyrc.json" lineNumbers="true" %}
 ```json
@@ -254,13 +236,45 @@ module.exports = {
 ```
 {% endcode %}
 {% endtab %}
+
+{% tab title="JavaScript (CommonJS)" %}
+{% code title=".specifyrc.js" lineNumbers="true" %}
+```javascript
+module.exports = {
+  repository: '@acme-inc/all-design-data',
+  personalAccessToken: '<your-personal-access-token>',
+  rules: [
+    {
+      name: 'All design tokens in JSON',
+      path: 'design-tokens.json',
+      parsers: [],
+    },    
+  ],
+};
+```
+{% endcode %}
+{% endtab %}
 {% endtabs %}
 
-The generated `design-tokens.json` has the following content:
+This example config file will return a `design-tokens.json` file containing all design tokens and assets stored in the `all-design-data` repository.
 
-{% file src="../front/documentation/.gitbook/assets/design-tokens.json" %}
-An example file containing all possible token types pulled from a Specify repository
-{% endfile %}
+Here's an example of a token value returned by Specify:
+
+```json
+{
+  "id": String,
+  "createdAt": String,
+  "updatedAt": String,
+  "name": String,
+  "value": Object,
+  "meta": Object,
+  "type": String,
+  "originId": String,
+  "sourceId": String,
+  "description": String,
+  "repositoryId": String
+}
+```
 
 ### Pull colors as CSS Custom Properties
 
