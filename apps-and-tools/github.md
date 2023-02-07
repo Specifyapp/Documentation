@@ -8,6 +8,10 @@ description: >-
 
 {% embed url="https://www.loom.com/share/771e1001bfe84c418e8afcf07455c02e" %}
 
+{% hint style="info" %}
+By default, Specify can only syncs your GitHub repository if you have a config file `.specifyrc.json` at the root of your GitHub repository. If you want to sync design tokens from several Specify repositories you need to run the Specify CLI inside a GitHub Action.
+{% endhint %}
+
 ## Prerequisites
 
 Please make sure you have:
