@@ -6,7 +6,7 @@ description: >-
 
 # Notion
 
-<figure><img src="../.gitbook/assets/notion-documentation.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../front/documentation/.gitbook/assets/notion-documentation.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 

@@ -6,7 +6,7 @@
 
 * [What is Specify](getting-started/what-is-specify.md)
 * [Getting started](getting-started/getting-started.md)
-* [Glossary](front/documentation/getting-started/concepts.md)
+* [Glossary](getting-started/glossary.md)
 
 ## Concepts
 

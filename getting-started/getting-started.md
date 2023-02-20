@@ -17,7 +17,7 @@ In this guide you’ll learn how to pull your first design tokens and assets for
 To get the most out of this guide, you’ll need:
 
 * A Specify account
-* A Specify repository containing some design tokens and assets ([Learn more ↗](../front/documentation/getting-started/concepts.md#repository))
+* A Specify repository containing some design tokens and assets ([Learn more ↗](glossary.md#repository))
 
 ### 1. Install the CLI
 
