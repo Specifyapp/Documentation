@@ -48,19 +48,21 @@ For instance, in this URL `https://specifyapp.com/@specifyapp/Seeds/color` the r
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="filter" type="Object" required="false" %}
-An object containing all the
+Set all the
 
 [Token types](../concepts/token-types.md)
 
 you want to target.
+
+
+
+`"filter": { "types": [ "color", "font", "textStyle" ] }`
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="parsers" type="Object or Array" required="false" %}
 Can contain an object or an array of objects. Each object corresponds to a specific
 
-[parser](../concepts/parsers.md#all-parsers-available)
-
-.
+[parser](../concepts/parsers.md#all-parsers-available).
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="Everything worked as expected." %}
