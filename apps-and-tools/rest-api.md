@@ -108,11 +108,15 @@ Can contain an object or an array of objects. Each object corresponds to a speci
 
 Once you have your personal access token, you can pass it within the `Authorization` header of your request.
 
+### Example
+
+Here's a simple example to get colors in CSS variables from a repository called `all-design-data`in the `@acme-inc` workspace:
+
 ```bash
-curl -X POST 'https://api.specifyapp.com/repository/{workspace}/{name}/design-tokens' \
+curl -X POST 'https://api.specifyapp.com/repository/@acme-inc/all-design-data/design-tokens' \
   -H 'Authorization: <your-personal-access-token>' \
   -H 'Content-Type: application/json' \
-  -d '{"filter": { "types": ["color", "font", "textStyle"]}, "parsers": []}'
+  -d '{"filter": { "types": ["color"]}, "parsers": [{"name": "to-css-custom-properties"}]}'
 ```
 
 ## Errors
