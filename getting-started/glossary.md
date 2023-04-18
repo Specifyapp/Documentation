@@ -10,7 +10,7 @@ description: >-
 
 ### Design API
 
-A Design API is an API designed to help you synchronize information within your design system such as design tokens, assets, components and even documentation.
+A Design API is an API designed to synchronize information in your design system. This includes design tokens, assets, components and documentation.
 
 ### Source
 
