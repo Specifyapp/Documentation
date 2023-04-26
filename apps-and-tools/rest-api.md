@@ -36,23 +36,19 @@ Get design tokens and assets from a Specify repository.
 {% endswagger-description %}
 
 {% swagger-parameter in="path" name="workspace" required="true" %}
-The name of your organization in Specify.\\
+The name of your organization in Specify.
 
 For instance, in this URL `https://specifyapp.com/@specifyapp/Seeds/color` the workspace is "@specifyapp".
 {% endswagger-parameter %}
 
 {% swagger-parameter in="path" name="name" required="true" %}
-The name of the Specify repository containing the design data you're requesting.\\
+The name of the Specify repository containing the design data you're requesting.
 
 For instance, in this URL `https://specifyapp.com/@specifyapp/Seeds/color` the repository is "Seeds".
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="filter" type="Object" required="false" %}
-Set all the
-
-[Token types](../concepts/token-types.md)
-
-you want to target.
+Set all the [Token types](../concepts/token-types.md) you want to target.
 
 
 
@@ -60,9 +56,11 @@ you want to target.
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="parsers" type="Object or Array" required="false" %}
-Can contain an object or an array of objects. Each object corresponds to a specific
+Can contain an object or an array of objects. Each object corresponds to a specific 
 
-[parser](../concepts/parsers.md#all-parsers-available).
+[parser](../concepts/parsers.md#all-parsers-available)
+
+.
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="Everything worked as expected." %}
