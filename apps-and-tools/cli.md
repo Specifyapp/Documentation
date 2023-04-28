@@ -40,7 +40,7 @@ yarn global add @specifyapp/cli
 
 ### Init
 
-Initialize a Specify configuration tailored for a specific output format. [See all configuration templates](broken-reference).
+Initialize a Specify configuration tailored for a specific output format. [See all configuration templates](https://specifyapp.com/templates).
 
 ```bash
 specify init
