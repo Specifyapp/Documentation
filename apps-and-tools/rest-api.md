@@ -125,9 +125,4 @@ Some 4xx errors that could be handled programmatically include an error code tha
 
 ### Attributes
 
-| Property     | Type     | Description                                                                                                                                           |
-| ------------ | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `type`       | `string` | The type of error returned. One of `api_connection_error`, `api_error`, `authentication_error`, `invalid_request_error`, or `rate_limit_error`.       |
-| `statusCode` | `string` | For some errors that could be handled programmatically, a short string indicating the error code reported.                                            |
-| `message`    | `string` | A human-readable message providing more details about the error.                                                                                      |
-| `validation` | `string` | All invalid query / payload parameters. All invalid query / payload parameters. This property will be displayed on specific endpoints error response. |
+<table><thead><tr><th width="175.33333333333331">Property</th><th width="113">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>type</code></td><td><code>string</code></td><td>The type of error returned. One of <code>api_connection_error</code>, <code>api_error</code>, <code>authentication_error</code>, <code>invalid_request_error</code>, or <code>rate_limit_error</code>.</td></tr><tr><td><code>statusCode</code></td><td><code>string</code></td><td>For some errors that could be handled programmatically, a short string indicating the error code reported.</td></tr><tr><td><code>message</code></td><td><code>string</code></td><td>A human-readable message providing more details about the error.</td></tr><tr><td><code>validation</code></td><td><code>string</code></td><td>All invalid query / payload parameters. All invalid query / payload parameters. This property will be displayed on specific endpoints error response.</td></tr></tbody></table>

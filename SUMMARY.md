@@ -20,6 +20,7 @@
 
 * [Overview](apps-and-tools/overview.md)
 * [GitHub](apps-and-tools/github.md)
+* [npm](apps-and-tools/npm.md)
 * [GitLab](https://specifyapp.com/blog/specify-to-gitlab)
 * [Bitbucket](https://specifyapp.com/blog/specify-to-bitbucket)
 * [Azure DevOps](https://specifyapp.com/blog/specify-to-azure)
