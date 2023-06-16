@@ -41,11 +41,11 @@ Please make sure you have:
 ## Installation
 
 1. Go to your Specify repository you want to distribute your design tokens from
-2. [Go to the "Destinations" page](#user-content-fn-1)[^1]
+2. Go to the "Destinations" page
 3. Select "npm packages"
 4. Select your existing npm app, or create a new one by setting your [npm](https://docs.npmjs.com/creating-and-viewing-access-tokens) or [GitHub](https://github.com/settings/tokens) personal access token, then set your registry
 5. Configure your package name, access type (public / private), and module type (Common JS / ES Modules)
-6. Set your Specify configuration file
+6. Set your Specify configuration file. If you host your config file on an external service like JSONBIN make sure to make your BIN public ([See example](https://api.jsonbin.io/v3/b/6475e9868e4aa6225ea69ba8)). Also, your config only needs the [rules](../concepts/configuration.md#rules) property.
 
 
 
@@ -53,5 +53,3 @@ Please make sure you have:
 
 * [GitHub Packages Documentation](https://docs.github.com/en/packages)
 * [npm Docs](https://docs.npmjs.com/)
-
-[^1]: 
