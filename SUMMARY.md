@@ -32,8 +32,8 @@
 ## SDTF - beta
 
 * [Getting started](sdtf-beta/getting-started.md)
-* [Figma Variables](sdtf-beta/getting-started-1.md)
-* [CLI, Config & Parsers](sdtf-beta/getting-started-2.md)
+* [Figma Variables](sdtf-beta/figma-variables.md)
+* [CLI, Config & Parsers](sdtf-beta/cli.md)
 
 ## Useful links
 

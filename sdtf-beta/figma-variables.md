@@ -60,7 +60,7 @@ Make sure to understand that only repositories that can sync Figma Variables are
 
 ### 5. Sync updated variables on-the-fly
 
-Use the `Sync` button to update your variables with Specify. Now you are ready to [export your design tokens](getting-started-2.md)! 🎉&#x20;
+Use the `Sync` button to update your variables with Specify. Now you are ready to [export your design tokens](cli.md)! 🎉&#x20;
 
 {% hint style="info" %}
 At this moment in the beta you are only able to sync your Figma Variables through the Specify Widget in your Figma file. We do not offer a token table yet, so within Specify **you will only see the categories of tokens that are synced**. If there are updates on this topic we will inform you.
