@@ -1,0 +1,19 @@
+{
+  "version": "2",
+  "repository": "@company/repository",
+    "personalAccessToken": "youraccesstoken",
+    "rules": [
+      {
+        "name": "Figma Variables",
+        "parsers": [
+          {
+            "name": "to-css-custom-properties",
+            "output": {
+              "type": "file",
+              "filePath": "specify_output/tokens.css"
+            }
+          }
+        ]
+      }
+    ]
+}

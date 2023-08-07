@@ -29,6 +29,12 @@
 * [Notion](apps-and-tools/notion.md)
 * [Raycast](apps-and-tools/raycast.md)
 
+## SDTF - beta
+
+* [Getting started](sdtf-beta/getting-started.md)
+* [Figma Variables](sdtf-beta/getting-started-1.md)
+* [CLI, Config & Parsers](sdtf-beta/getting-started-2.md)
+
 ## Useful links
 
 * [Discord](https://discord.com/invite/vMkDk4CbG4)

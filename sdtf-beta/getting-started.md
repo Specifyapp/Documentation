@@ -1,0 +1,22 @@
+---
+description: >-
+  Welcome to our Specify Design Token Format beta program. Here’s a 5 minute
+  guide on how to use different features within the beta.
+---
+
+# Getting started
+
+### Introducing the Specify Design Token Format (beta)
+
+Specify is building an entirely new Design Token Format (SDTF) to base our platform on a new design token graph. In short, this means that we are developing a format which enables more possibilities to add code-type sources and destinations than before. The new graph will facilitate managing a large number of design token types and assets. Next to this, it opens doors to more advanced features such as **Aliases**, **Modes**, and **Collections**.
+
+In a more practical sense, the SDTF opens up compatibility with [**Figma Variables**](getting-started-1.md) and **Tokens Studio** as a source. It also creates opportunities to create code output that includes aliases, modes and collections.
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Figma Variables</strong></td><td>A short guide on collecting Figma Variables to your Specify repository.</td><td></td><td><a href="../.gitbook/assets/Figma Variables.jpg">Figma Variables.jpg</a></td><td><a href="getting-started-1.md">getting-started-1.md</a></td></tr><tr><td><strong>Tokens Studio (soon)</strong></td><td>Specify will be compatible with Tokens Studio in beta soon. </td><td></td><td><a href="../.gitbook/assets/Tokens Studio.jpg">Tokens Studio.jpg</a></td><td></td></tr><tr><td><strong>CLI, Config &#x26; Parsers</strong></td><td>Learn more about how to transform and distribute tokens whithin the beta.</td><td></td><td><a href="../.gitbook/assets/CLI.jpg">CLI.jpg</a></td><td><a href="getting-started-2.md">getting-started-2.md</a></td></tr></tbody></table>
+
+### Useful links
+
+* [Download the widget ↗ ](https://www.figma.com/community/widget/1182723580740552626)
+* [Figma Example File ↗ ](https://www.figma.com/community/file/1078015059752018461/Design-Tokens-from-Figma-to-code-with-Specify)
