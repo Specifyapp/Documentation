@@ -68,7 +68,7 @@ Since the feature is in beta we do not have a command yet to create a config fil
 
 {% file src="../.gitbook/assets/specifyrc.json" %}
 
-### Properties to update in the configuration file before using it:
+### 3. Properties to update in the configuration file before using it:
 
 * A property `version` is shown which refers to the new repository in beta from which we are extracting tokens. Use the `version: "2"` for the beta.
 * Add your organization and repository name under the `repository` property.
@@ -79,7 +79,7 @@ Since the feature is in beta we do not have a command yet to create a config fil
 When an error occurs, please make sure to check your collection, group and variable names in the Figma file. Generating CSS variables with the CLI is not possible when spaces are included in the names.
 {% endhint %}
 
-### 3. CSS output example
+### 4. CSS output example
 
 Specify exports your Figma Variables Modes as CSS data-attributes:
 
