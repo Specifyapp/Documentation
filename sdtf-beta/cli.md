@@ -79,7 +79,7 @@ Since the feature is in beta we do not have a command yet to create a config fil
 When an error occurs, please make sure to check your collection, group and variable names in the Figma file. Generating CSS variables with the CLI is not possible when spaces are included in the names.
 {% endhint %}
 
-### 4. CSS output example
+### 3. CSS output example
 
 Specify exports your Figma Variables Modes as CSS data-attributes:
 
