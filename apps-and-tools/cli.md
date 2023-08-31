@@ -18,7 +18,7 @@ You can use the Specify CLI to:
 * Test your configuration before using it in a GitHub repository
 * Sync a Specify repository
 
-### Installation
+## Installation
 
 Install `@specifyapp/cli` via npm or Yarn.
 
