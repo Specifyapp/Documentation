@@ -18,5 +18,5 @@ In a more practical sense, the SDTF opens up compatibility with [**Figma Variabl
 
 ### Useful links
 
-* [Download the widget ↗ ](https://www.figma.com/community/widget/1182723580740552626)
+* [Download the Specify Figma Widget ↗ ](https://www.figma.com/community/widget/1182723580740552626)
 * [Figma Example File ↗ ](https://www.figma.com/community/file/1078015059752018461/Design-Tokens-from-Figma-to-code-with-Specify)

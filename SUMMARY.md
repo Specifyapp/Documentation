@@ -34,7 +34,12 @@
 * [Getting started](sdtf-beta/getting-started.md)
 * [Figma Variables](sdtf-beta/figma-variables.md)
 * [Tokens Studio](sdtf-beta/tokens-studio.md)
-* [CLI, Config & Parsers](sdtf-beta/cli.md)
+* [CLI & Config](sdtf-beta/cli.md)
+* [Parsers](sdtf-beta/parsers/README.md)
+  * [to-sdtf](sdtf-beta/parsers/to-sdtf.md)
+  * [to-css-custom-properties](sdtf-beta/parsers/to-css-custom-properties.md)
+  * [to-style-dictionary](sdtf-beta/parsers/to-style-dictionary.md)
+* [REST API](sdtf-beta/rest-api.md)
 
 ## Useful links
 
