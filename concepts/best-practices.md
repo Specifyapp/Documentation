@@ -33,5 +33,5 @@ specify pull -p $SPECIFY_TOKEN
 ```
 
 {% hint style="info" %}
-You can use this method to sync Specify with git repositories in [GitLab](https://specifyapp.com/blog/specify-to-gitlab#creating-the-merge-request) or [GitHub](https://specifyapp.com/blog/how-to-pull-design-tokens-from-several-specify-repositories-on-github#how-to-use-this-workflow-in-github).
+You can use this method to sync Specify with git repositories in [GitLab](https://specifyapp.com/blog/specify-to-gitlab#creating-the-merge-request), [GitHub](https://specifyapp.com/blog/how-to-pull-design-tokens-from-several-specify-repositories-on-github#how-to-use-this-workflow-in-github), [Azure Devops](https://specifyapp.com/blog/specify-to-azure) or Bitbucket.
 {% endhint %}

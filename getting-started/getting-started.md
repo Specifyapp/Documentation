@@ -6,7 +6,7 @@ description: >-
 
 # Getting started
 
-### Introduction
+## Introduction
 
 In this guide you’ll learn how to pull your first design tokens and assets to CSS Custom Properties using the Specify CLI.
 
@@ -16,14 +16,14 @@ This guide helps you to sync tokens from Figma local styles and frames to Specif
 
 {% embed url="https://www.youtube.com/watch?v=iFa-MEjFbmE" %}
 
-### Before getting started
+## Before getting started
 
 To get the most out of this guide, you’ll need:
 
 * A Specify account
 * A Specify repository containing some design tokens and assets ([Learn more ↗](glossary.md#repository))
 
-### 1. Install the CLI
+## 1. Install the CLI
 
 Install `@specifyapp/cli` via npm or Yarn.
 
@@ -41,7 +41,7 @@ yarn global add @specifyapp/cli
 {% endtab %}
 {% endtabs %}
 
-### 2. Create your Specify config file
+## 2. Create your Specify config file
 
 Create a configuration file for your desired output format using one of our templates ↗️
 
@@ -49,7 +49,7 @@ Create a configuration file for your desired output format using one of our temp
 specify init
 ```
 
-### 3. Add your Specify repository
+## 3. Add your Specify repository
 
 Add your Specify `repository` from which you want to pull your design tokens and assets. [Learn more ↗](https://specify.gitbook.io/specify-documentation/usage/cli#commands).
 
@@ -73,7 +73,7 @@ Add your Specify `repository` from which you want to pull your design tokens and
 {% endtab %}
 {% endtabs %}
 
-### 4. Add your personal access token
+## 4. Add your personal access token
 
 Generate a `personalAccessToken` for the CLI and add it in your configuration.
 
@@ -97,7 +97,7 @@ Generate a `personalAccessToken` for the CLI and add it in your configuration.
 {% endtab %}
 {% endtabs %}
 
-### 5. Pull your design tokens and assets
+## 5. Pull your design tokens and assets
 
 Our configuration is ready and we can now pull our design tokens and assets using the `pull` command.
 
