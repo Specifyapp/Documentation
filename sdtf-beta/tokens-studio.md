@@ -22,8 +22,8 @@ Specify automatically fetches Tokens Studio design tokens through the JSON file 
 ## 1. Sync your design tokens from Tokens Studio to a provider
 
 1. Head to your Tokens Studio plugin in Figma
-2. Within the settings tab, add a new sync provider.
-3. Commit your Tokens Studio JSON file to your repository.
+2. Within the settings tab, add a new sync provider
+3. Commit your Tokens Studio JSON file to your repository
 
 {% hint style="info" %}
 You can also manually export your file from Tokens Studio and upload it manually to your code repository. Click on **Tools** on the bottom left of the plugin and **Export to file/folder**. Be careful to tick all the boxes before exporting. We are not supporting multiple files at the moment.
