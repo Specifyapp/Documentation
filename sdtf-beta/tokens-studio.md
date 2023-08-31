@@ -6,15 +6,7 @@ description: >-
 
 # Tokens Studio
 
-[Before getting started](tokens-studio.md#before-getting-started)\
-[1. Sync your design tokens from Tokens Studio to a provider](tokens-studio.md#1.-sync-your-design-tokens-from-tokens-studio-to-github)\
-[2. Add your JSON file from a provider to your Specify Repository](tokens-studio.md#2.-add-your-json-file-from-a-provider-to-your-specify-repository)\
-&#x20;   [From a public URL](tokens-studio.md#from-a-public-url)\
-&#x20;   [From a private URL](tokens-studio.md#from-a-private-url)\
-[3. How to update your JSON File](tokens-studio.md#3.-how-to-update-your-json-file)\
-[4. Non-supported design token types](tokens-studio.md#4.-non-supported-design-token-types)
-
-### Before getting started
+## Before getting started
 
 To get the most out of this guide, you will need:
 
@@ -27,7 +19,7 @@ Specify automatically fetches Tokens Studio design tokens through the JSON file 
 
 
 
-### 1. Sync your design tokens from Tokens Studio to a provider
+## 1. Sync your design tokens from Tokens Studio to a provider
 
 1. Head to your Tokens Studio plugin in Figma
 2. Within the settings tab, add a new sync provider.
@@ -39,7 +31,7 @@ You can also manually export your file from Tokens Studio and upload it manually
 
 ###
 
-### 2. Add your JSON file from a provider to your Specify Repository
+## 2. Add your JSON file from a provider to your Specify Repository
 
 1. Go to your Specify workspace
 2. Click on `Create repository`
@@ -51,7 +43,7 @@ You can also manually export your file from Tokens Studio and upload it manually
 
 At this point, you have two ways to sync your JSON file. Either with a public hosting link or a private one. We will go through both options below.
 
-#### **From a public URL**
+### **From a public URL**
 
 1. In the `Source` tab, click on `Create a source`
 2. Select `Remote URL`
@@ -64,7 +56,7 @@ At this point, you have two ways to sync your JSON file. Either with a public ho
 
 Your JSON file is now detected as a source and your design tokens appear within your repository.
 
-#### **From a private URL**
+### **From a private URL**
 
 On the opposite of the public URL, Specify will ask you for some additional information so its system is able to fetch your file. Let’s see how to proceed with the main versioning tools:
 
@@ -166,7 +158,7 @@ To add a private URL source from JSONBin to Specify:
 
 
 
-### 3. How to update your JSON File
+## 3. How to update your JSON File
 
 After adding your source. All you have to do is to:
 
@@ -176,7 +168,7 @@ After adding your source. All you have to do is to:
 
 Your source is now updated!
 
-### 4. Non-supported design token types
+## 4. Non-supported design token types
 
 Specify is yet not compatible with the following options of Tokens Studio:
 
