@@ -29,8 +29,6 @@ Specify automatically fetches Tokens Studio design tokens through the JSON file 
 You can also manually export your file from Tokens Studio and upload it manually to your code repository. Click on **Tools** on the bottom left of the plugin and **Export to file/folder**. Be careful to tick all the boxes before exporting. We are not supporting multiple files at the moment.
 {% endhint %}
 
-###
-
 ## 2. Add your JSON file from a provider to your Specify Repository
 
 1. Go to your Specify workspace
