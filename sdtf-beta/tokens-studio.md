@@ -34,25 +34,25 @@ You can also manually export your file from Tokens Studio and upload it manually
 ## 2. Add your JSON file from a provider to your Specify Repository
 
 1. Go to your Specify workspace
-2. Click on `Create repository`
-3. Choose a name
-4. Select `Sync from Figma Variables & Tokens Studio` ([Learn more ↗︎](https://help.specifyapp.com/en/articles/7983267-what-type-of-repository-do-i-need))
-5. Click on `Create repository`
-6. In the `Source` tab, click on `Create a source`
-7. Select `Remote URL`
+2. Click on "Create repository"
+3. Name your repository
+4. Select "Sync from Figma Variables & Tokens Studio" ([Learn more ↗︎](https://help.specifyapp.com/en/articles/7983267-what-type-of-repository-do-i-need))
+5. Click on "Create repository"
+6. In the "Source" tab, click on "Create a source"
+7. Select "Remote URL"
 
 At this point, you have two ways to sync your JSON file. Either with a public hosting link or a private one. We will go through both options below.
 
 ### **From a public URL**
 
-1. In the `Source` tab, click on `Create a source`
-2. Select `Remote URL`
-3. Select `Public`
-4. Give a `name` to your source
+1. In the "Source" tab, click on "Create a source"
+2. Select "Remote URL"
+3. Select "Public"
+4. Name your source
 5. Paste your public URL
-6. Select the format `Tokens Studio`
+6. Select the format "Tokens Studio"
 7. Let Specify check the connection
-8. And _voila!_
+8. And voila!
 
 Your JSON file is now detected as a source and your design tokens appear within your repository.
 
@@ -75,16 +75,16 @@ Requirements:
 
 To add a private URL source from GitHub to Specify:
 
-1. In the `Source` tab of your Specify repository, click on `Create a source`
-2. Select `Remote URL`
-3. Select `Private`
-4. Give a name to your source
+1. In the "Source" tab of your Specify repository, click on "Create a source"
+2. Select "Remote URL"
+3. Select "Private"
+4. Name your source
 5. Paste your GitHub file URL such as `https://api.github.com/repo/{owner}/{repo}/contents/{file_path}`\
    [Learn more in the GitHub documentation](https://docs.github.com/en/rest/repos/contents?apiVersion=2022-11-28)
-6. Select `Bearer Token` as auth system & paste your `personal access token` from GitHub (Create an [access token here ↗︎](https://github.com/settings/tokens) and be sure to enable **Repo Access**)
-7. Select `Tokens Studio Format`
+6. Select "Bearer Token" as auth system & paste your personal access token from GitHub (Create an [access token here ↗︎](https://github.com/settings/tokens) and be sure to enable **Repo Access**)
+7. Select "Tokens Studio Format"
 8. Specify will test your JSON
-9. And _voila!_
+9. And voila!
 
 #### **Azure DevOps**
 
@@ -96,16 +96,16 @@ Requirements:
 
 To add a private URL source from Azure DevOps to Specify:
 
-1. In the `Source` tab of your Specify repository, click on `Create a source`
-2. Select `Remote URL`
-3. Select `Private`
-4. Give a `name` to your source
+1. In the "Source" tab of your Specify repository, click on "Create a source"
+2. Select "Remote URL"
+3. Select "Private"
+4. Name to your source
 5. Paste your Azure DevOps file URL such as `https://dev.azure.com/{OrgName}/{ProjectName}/_apis/git/repositories/{RepositoryName}/items?path={FilePath}&api-version=7.0&includeContent=true`
    1. [Learn more in the Azure DevOps documentation](https://learn.microsoft.com/en-us/rest/api/azure/devops/git/items/get?view=azure-devops-rest-7.0\&tabs=HTTP)
-6. Select `Basic Auth` as auth system & fill in your credentials
-7. Select `Tokens Studio Format`
+6. Select "Basic Auth" as auth system & fill in your credentials
+7. Select "Tokens Studio Format"
 8. Specify will test your JSON
-9. And _voila!_
+9. And voila!
 
 #### **GitLab**
 
@@ -117,18 +117,19 @@ Requirements:
 
 To add a private URL source from GitLab to Specify:
 
-1. In the `Source` tab of your Specify repository, click on `Create a source`
-2. Select `Remote URL`
-3. Select `Private`
+1. In the "Source" tab of your Specify repository, click on "Create a source"
+2. Select "Remote URL"
+3. Select "Private"
 4. Give a `name` to your source
-5. Paste your GitLab file URL such as `https://gitlab.com/api/v4/projects/{OrgName}%2F{RopositoryName}/repository/files/{FilePath}?ref={branch}`
-   1. [Learn more on the GitLab documentation](https://docs.gitlab.com/ee/api/rest/index.html#personalprojectgroup-access-tokens)
+5.  Paste your GitLab file URL such as `https://gitlab.com/api/v4/projects/{OrgName}%2F{RopositoryName}/repository/files/{FilePath}?ref={branch}`
+
+    [Learn more on the GitLab documentation](https://docs.gitlab.com/ee/api/rest/index.html#personalprojectgroup-access-tokens)
 6. Select `Header` as auth system
    1. Fill `PRIVATE-TOKEN` in the `key` field
    2. Paste your GitLab personal access token
-7. Select `Tokens Studio Format`
+7. Select "Tokens Studio Format"
 8. Specify will test your JSON
-9. And _voila!_
+9. And voila!
 
 #### **JSONBin**
 
@@ -143,18 +144,18 @@ Requirements:
 
 To add a private URL source from JSONBin to Specify:
 
-1. In the `Source` tab of your Specify repository, click on `Create a source`
-2. Select `Remote URL`
-3. Select `Private`
-4. Give a `name` to your source
+1. In the "Source" tab of your Specify repository, click on "Create a source"
+2. Select "Remote URL"
+3. Select "Private"
+4. Name your source
 5. Paste your BIN private URL such as `https://api.jsonbin.io/v3/b/{bin_id}`
 6. Select `Header` as auth system
 7. Depending on your choice, you can use your `master key` or an `access key`. [Head toward this page](https://jsonbin.io/app/app/api-keys) on JSONBin.
    1. Following your choice, fill in the `key` field either with `X-MASTER-KEY` or `X-ACCESS-KEY`
    2. Paste your key in the `value` field
-8. Select `Tokens Studio Format`
+8. Select "Tokens Studio Format"
 9. Specify will test your JSON
-10. And _voila!_
+10. And voila!
 
 
 
@@ -162,9 +163,9 @@ To add a private URL source from JSONBin to Specify:
 
 After adding your source. All you have to do is to:
 
-1. Go in the `Source` tab of your Specify repository
+1. Go in the "Source" tab of your Specify repository
 2. Click on the context menu next to your source
-3. Click on `sync`
+3. Click on "sync"
 
 Your source is now updated!
 
