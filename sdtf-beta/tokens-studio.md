@@ -98,8 +98,9 @@ To add a private URL source from Azure DevOps to Specify:
 2. Select "Remote URL"
 3. Select "Private"
 4. Name to your source
-5. Paste your Azure DevOps file URL such as `https://dev.azure.com/{OrgName}/{ProjectName}/_apis/git/repositories/{RepositoryName}/items?path={FilePath}&api-version=7.0&includeContent=true`
-   1. [Learn more in the Azure DevOps documentation](https://learn.microsoft.com/en-us/rest/api/azure/devops/git/items/get?view=azure-devops-rest-7.0\&tabs=HTTP)
+5.  Paste your Azure DevOps file URL such as `https://dev.azure.com/{OrgName}/{ProjectName}/_apis/git/repositories/{RepositoryName}/items?path={FilePath}&api-version=7.0&includeContent=true`
+
+    [Learn more in the Azure DevOps documentation](https://learn.microsoft.com/en-us/rest/api/azure/devops/git/items/get?view=azure-devops-rest-7.0\&tabs=HTTP)
 6. Select "Basic Auth" as auth system & fill in your credentials
 7. Select "Tokens Studio Format"
 8. Specify will test your JSON
