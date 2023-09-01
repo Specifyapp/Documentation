@@ -47,7 +47,7 @@ At this point, you have two ways to sync your JSON file. Either with a public ho
 2. Select "Remote URL"
 3. Select "Public"
 4. Name your source
-5. Paste your public URL
+5. Paste your raw public URL of your JSON file
 6. Select the format "Tokens Studio"
 7. Let Specify check the connection
 8. And voila!
@@ -77,7 +77,7 @@ To add a private URL source from GitHub to Specify:
 2. Select "Remote URL"
 3. Select "Private"
 4. Name your source
-5. Paste your GitHub file URL such as `https://api.github.com/repo/{owner}/{repo}/contents/{file_path}`\
+5. Create and Paste this GitHub file URL such as: `https://api.github.com/repo/{owner}/{repo}/contents/{file_path}`\
    [Learn more in the GitHub documentation](https://docs.github.com/en/rest/repos/contents?apiVersion=2022-11-28)
 6. Select "Bearer Token" as auth system & paste your personal access token from GitHub (Create an [access token here ↗︎](https://github.com/settings/tokens) and be sure to enable **Repo Access**)
 7. Select "Tokens Studio Format"
