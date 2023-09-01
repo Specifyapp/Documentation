@@ -132,10 +132,6 @@ To add a private URL source from GitLab to Specify:
 
 #### **JSONBin**
 
-{% hint style="warning" %}
-JSONBin only works if you import the JSON manually in JSONBin. If you are using the direct connection to the provider from Tokens Studio settings, it cannot work today.
-{% endhint %}
-
 Requirements:
 
 * Have a JSONBin account
