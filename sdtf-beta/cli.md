@@ -51,7 +51,7 @@ Since the feature is in beta we do not have a command yet to create a config fil
       "name": "Raw SDTF",
       "parsers": [
         {
-          "name": "as-is",
+          "name": "to-sdtf",
           "output": {
             "type":"file",
             "filePath": "raw.json"
@@ -75,10 +75,6 @@ Since the feature is in beta we do not have a command yet to create a config fil
 * Get a personal access token [here ↗︎](https://specifyapp.com/user/personal-access-tokens).
 * Run the command `specify pull` to fetch your design tokens.
 
-{% hint style="info" %}
-When an error occurs, please make sure to check your collection, group and variable names in the Figma file. Generating CSS variables with the CLI is not possible when spaces are included in the names.
-{% endhint %}
-
 ## 4. CSS output example
 
 Specify exports your Figma Variables Modes as CSS data-attributes:
@@ -87,50 +83,50 @@ Specify exports your Figma Variables Modes as CSS data-attributes:
 {% tab title="CSS" %}
 ```css
 :root[data-Colors="Dark"] {
-  --Colors-Core-Label-blue-base: rgb(96, 168, 250);
-  --Colors-Aliases-Icon-info: var(--Colors-Core-Label-blue-base);
-  --Colors-Core-Label-red-base: rgb(221, 72, 64);
-  --Colors-Aliases-Icon-error: var(--Colors-Core-Label-red-base);
-  --Colors-Core-Neutral-neutral-6: rgb(174, 178, 183);
-  --Colors-Aliases-Icon-default: var(--Colors-Core-Neutral-neutral-6);
-  --Colors-Core-Label-green-base: rgb(125, 216, 121);
-  --Colors-Aliases-Icon-success: var(--Colors-Core-Label-green-base);
-  --Colors-Core-Label-orange-base: rgb(255, 158, 41);
-  --Colors-Aliases-Icon-warning: var(--Colors-Core-Label-orange-base);
-  --Colors-Core-Neutral-neutral-3: rgb(68, 71, 75);
-  --Colors-Aliases-Icon-disabled: var(--Colors-Core-Neutral-neutral-3);
-  --Colors-Core-Primary-app-base: rgb(98, 77, 227);
-  --Colors-Aliases-Icon-selected: var(--Colors-Core-Primary-app-base);
+  --Core-Label-blue-base: rgb(96, 168, 250);
+  --Aliases-Icon-info: var(--Core-Label-blue-base);
+  --Core-Label-red-base: rgb(221, 72, 64);
+  --Aliases-Icon-error: var(--Core-Label-red-base);
+  --Core-Neutral-neutral-6: rgb(174, 178, 183);
+  --Aliases-Icon-default: var(--Core-Neutral-neutral-6);
+  --Core-Label-green-base: rgb(125, 216, 121);
+  --Aliases-Icon-success: var(--Core-Label-green-base);
+  --Core-Label-orange-base: rgb(255, 158, 41);
+  --Aliases-Icon-warning: var(--Core-Label-orange-base);
+  --Core-Neutral-neutral-3: rgb(68, 71, 75);
+  --Aliases-Icon-disabled: var(--Core-Neutral-neutral-3);
+  --Core-Primary-app-base: rgb(98, 77, 227);
+  --Aliases-Icon-selected: var(--Core-Primary-app-base);
 }
 :root[data-Dimensions="Mobile"] {
-  --Dimensions-Base-dimension-02: 2px;
-  --Dimensions-Radii-radius-01: var(--Dimensions-Base-dimension-02);
-  --Dimensions-Base-dimension-08: 8px;
-  --Dimensions-Radii-radius-02: var(--Dimensions-Base-dimension-08);
-  --Dimensions-Base-dimension-04: 4px;
-  --Dimensions-Base-dimension-12: 12px;
-  --Dimensions-Base-dimension-16: 16px;
-  --Dimensions-Base-dimension-24: 24px;
-  --Dimensions-Base-dimension-32: 32px;
-  --Dimensions-Spacings-spacing-01: var(--Dimensions-Base-dimension-02);
-  --Dimensions-Spacings-spacing-02: var(--Dimensions-Base-dimension-04);
-  --Dimensions-Spacings-spacing-03: var(--Dimensions-Base-dimension-12);
-  --Dimensions-Spacings-spacing-04: var(--Dimensions-Base-dimension-16);
+  --Base-dimension-02: 2px;
+  --Radii-radius-01: var(--Base-dimension-02);
+  --Base-dimension-08: 8px;
+  --Radii-radius-02: var(--Base-dimension-08);
+  --Base-dimension-04: 4px;
+  --Base-dimension-12: 12px;
+  --Base-dimension-16: 16px;
+  --Base-dimension-24: 24px;
+  --Base-dimension-32: 32px;
+  --Spacings-spacing-01: var(--Base-dimension-02);
+  --Spacings-spacing-02: var(--Base-dimension-04);
+  --Spacings-spacing-03: var(--Base-dimension-12);
+  --Spacings-spacing-04: var(--Base-dimension-16);
 }
 :root[data-Dimensions="Desktop"] {
-  --Dimensions-Base-dimension-02: 2px;
-  --Dimensions-Radii-radius-01: var(--Dimensions-Base-dimension-02);
-  --Dimensions-Base-dimension-08: 8px;
-  --Dimensions-Radii-radius-02: var(--Dimensions-Base-dimension-08);
-  --Dimensions-Base-dimension-04: 4px;
-  --Dimensions-Base-dimension-12: 12px;
-  --Dimensions-Base-dimension-16: 16px;
-  --Dimensions-Base-dimension-24: 24px;
-  --Dimensions-Base-dimension-32: 32px;
-  --Dimensions-Spacings-spacing-01: var(--Dimensions-Base-dimension-04);
-  --Dimensions-Spacings-spacing-02: var(--Dimensions-Base-dimension-08);
-  --Dimensions-Spacings-spacing-03: var(--Dimensions-Base-dimension-12);
-  --Dimensions-Spacings-spacing-04: var(--Dimensions-Base-dimension-16);
+  --Base-dimension-02: 2px;
+  --Radii-radius-01: var(--Base-dimension-02);
+  --Base-dimension-08: 8px;
+  --Radii-radius-02: var(--Base-dimension-08);
+  --Base-dimension-04: 4px;
+  --Base-dimension-12: 12px;
+  --Base-dimension-16: 16px;
+  --Base-dimension-24: 24px;
+  --Base-dimension-32: 32px;
+  --Spacings-spacing-01: var(--Base-dimension-04);
+  --Spacings-spacing-02: var(--Base-dimension-08);
+  --Spacings-spacing-03: var(--Base-dimension-12);
+  --Spacings-spacing-04: var(--Base-dimension-16);
 }
 ```
 {% endtab %}
@@ -152,7 +148,7 @@ We would like to improve this output according to your needs as much as we can. 
 * There’s no template yet.
 * There are 2 parsers available:
   * `to-css-custom-properties` that can only return [Figma Variables available types](https://help.figma.com/hc/en-us/articles/14506821864087/) (only Colors and Dimensions for now).
-  * `as-is` that returns your design token graph in JSON\
+  * `to-sdtf` that returns your design token graph in JSON\
 
 {% endhint %}
 
