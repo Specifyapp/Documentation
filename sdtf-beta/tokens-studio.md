@@ -77,9 +77,9 @@ To add a private URL source from GitHub to Specify:
 2. Select "Remote URL"
 3. Select "Private"
 4. Name your source
-5. Create and Paste this GitHub file URL such as: `https://api.github.com/repos/`[`{owner}`](#user-content-fn-1)[^1]`/{`[`repo`](#user-content-fn-2)[^2]`}/contents/{`[`file_path`](#user-content-fn-3)[^3]`}`\
+5. Create and Paste this GitHub file URL such as: `https://api.github.com/repos/`[`{owner}`](#user-content-fn-1)[^1]`/{`[`repo`](#user-content-fn-2)[^2]`}/contents/`[`{file_path}`](#user-content-fn-3)[^3]`\
    [Learn more in the GitHub documentation](https://docs.github.com/en/rest/repos/contents?apiVersion=2022-11-28)
-6. Select "Bearer Token" as auth system & paste your personal access token from GitHub (Create an [access token here ↗︎](https://github.com/settings/tokens) and be sure to enable **Repo Access**)
+6. Select "Bearer Token" as auth system & paste your personal access token from GitHub ([Create an access token ↗︎](https://github.com/settings/tokens) and be sure to **check the repo section**)
 7. Select "Tokens Studio Format"
 8. Specify will test your JSON
 9. And voila!
