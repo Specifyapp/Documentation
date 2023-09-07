@@ -87,9 +87,9 @@ To add a private URL source from GitHub to Specify:
 2. Select "Remote URL"
 3. Select "Private"
 4. Name your source
-5. Create and Paste this GitHub file URL such as: `https://api.github.com/repos/`[`{owner}`](#user-content-fn-1)[^1]`/{repo}/contents/`[`{file_path}`](#user-content-fn-2)[^2]\`\
+5. Create and Paste this GitHub file URL such as: `https://api.github.com/repos/`[`{owner}`](#user-content-fn-1)[^1]`/{repo}/contents/`[`{file_path}`](#user-content-fn-2)[^2]\
    [Learn more in the GitHub documentation](https://docs.github.com/en/rest/repos/contents?apiVersion=2022-11-28)
-6. Select "Bearer Token" as auth system & paste your personal access token from GitHub ([Create an access token ↗︎](https://github.com/settings/tokens) and be sure to **check the repo section**)
+6. Select "Bearer Token" as the auth system & paste your personal access token from GitHub ([Create an access token ↗︎](https://github.com/settings/tokens) and be sure to **check the repo section**)
 7. Select "Tokens Studio Format"
 8. Specify will test your JSON
 9. And voila!
@@ -130,7 +130,7 @@ To add a private URL source from GitLab to Specify:
 2. Select "Remote URL"
 3. Select "Private"
 4. Give a `name` to your source
-5.  Paste your GitLab file URL such as `https://gitlab.com/api/v4/projects/{OrgName}%2F{RopositoryName}/repository/files/{FilePath}?ref={branch}`
+5.  Paste your GitLab file URL such as `https://gitlab.com/api/v4/projects/{OrgName}%2F{RepositoryName}/repository/files/{FilePath}?ref={branch}`
 
     [Learn more on the GitLab documentation](https://docs.gitlab.com/ee/api/rest/index.html#personalprojectgroup-access-tokens)
 6. Select `Header` as auth system
