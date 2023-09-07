@@ -176,7 +176,7 @@ Your source is now updated!
 
 Specify is yet not compatible with the following options of Tokens Studio:
 
-* Math
+* Maths
 * Composition
 * Assets (bitmap & vectors)
 * Color manipulation (alpha, darken, lighten & mix)
