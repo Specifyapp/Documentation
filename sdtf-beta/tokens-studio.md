@@ -20,11 +20,11 @@ Specify automatically fetches Tokens Studio design tokens through the JSON file 
 {% hint style="warning" %}
 **Good to know**
 
-* Specify is compatible with tokens that are in a theme within a group
+* Specify is compatible with tokens in Tokens Studio that are in a theme within a group
 * Specify is not yet compatible with:
   * tokens whose values are based on maths
   * gradient and shadow tokens
-* All aliases are currently resolved in Specify. We're currently working on syncing your aliases so you can get alias tokens in code from Specify. This will be available soon
+* All aliases are currently resolved in Specify. We're currently working on syncing your aliases so you can get alias tokens in code from Specify. This will be available soon.
 {% endhint %}
 
 
