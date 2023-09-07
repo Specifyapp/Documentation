@@ -87,7 +87,7 @@ To add a private URL source from GitHub to Specify:
 2. Select "Remote URL"
 3. Select "Private"
 4. Name your source
-5. Create and Paste this GitHub file URL such as: `https://api.github.com/repos/`[`{owner}`](#user-content-fn-1)[^1]`/{repo}/contents/`[`{file_path}`](#user-content-fn-2)[^2]\
+5. Create and Paste this GitHub file URL such as: `https://api.github.com/repos/`[`{owner}`](#user-content-fn-1)[^1]`/`[`{repo}`](#user-content-fn-2)[^2]`/contents/`[`{file_path}`](#user-content-fn-3)[^3]\
    [Learn more in the GitHub documentation](https://docs.github.com/en/rest/repos/contents?apiVersion=2022-11-28)
 6. Select "Bearer Token" as the auth system & paste your personal access token from GitHub ([Create an access token ↗︎](https://github.com/settings/tokens) and be sure to **check the repo section**)
 7. Select "Tokens Studio Format"
@@ -183,8 +183,8 @@ Specify is yet not compatible with the following options of Tokens Studio:
 
 They will be released in future updates. However, if you have urgent needs for Specify to be compatible with one of them, [feel free to send us feedback](https://feedback.specifyapp.com/beta-program).
 
-1. The name of the repository without the `.git` extension. The name is not case sensitive.
-
 [^1]: The account owner of the repository. The name is not case sensitive.
 
-[^2]: The path of your file from the root of your repository.
+[^2]: The name of the repository without the `.git` extension. The name is not case sensitive.
+
+[^3]: The path of your file from the root of your repository.
