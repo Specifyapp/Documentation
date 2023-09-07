@@ -17,6 +17,18 @@ To get the most out of this guide, you will need:
 
 Specify automatically fetches Tokens Studio design tokens through the JSON file provided by the latter. The best way to keep your design tokens in sync with both tools is to host your JSON file in a repository like GitHub.
 
+{% hint style="warning" %}
+**Good to know**
+
+* Specify is compatible with tokens that are in a theme within a group
+* Specify is not yet compatible with:
+  * tokens whose values are based on maths
+  * gradient and shadow tokens
+* All aliases are currently resolved in Specify. We're currently working on syncing your aliases so you can get alias tokens in code from Specify. This will be available soon
+{% endhint %}
+
+
+
 ## 1. Sync your design tokens from Tokens Studio to a provider
 
 1. Head to your Tokens Studio plugin in Figma
