@@ -106,7 +106,7 @@ To add a private URL source from Azure DevOps to Specify:
 1. In the "Source" tab of your Specify repository, click on "Create a source"
 2. Select "Remote URL"
 3. Select "Private"
-4. Name to your source
+4. Name your source
 5.  Paste your Azure DevOps file URL such as `https://dev.azure.com/{OrgName}/{ProjectName}/_apis/git/repositories/{RepositoryName}/items?path={FilePath}&api-version=7.0&includeContent=true`
 
     [Learn more in the Azure DevOps documentation](https://learn.microsoft.com/en-us/rest/api/azure/devops/git/items/get?view=azure-devops-rest-7.0\&tabs=HTTP)
@@ -129,15 +129,16 @@ To add a private URL source from GitLab to Specify:
 2. Select "Remote URL"
 3. Select "Private"
 4. Give a `name` to your source
-5.  Paste your GitLab file URL such as `https://gitlab.com/api/v4/projects/{OrgName}%2F{RepositoryName}/repository/files/{FilePath}?ref={branch}`
+5.  Paste your GitLab file URL such as: `https://gitlab.com/api/v4/projects/{OrgName}%2F{RepositoryName}/repository/files/{FilePath}?ref={branch}`
 
     [Learn more on the GitLab documentation](https://docs.gitlab.com/ee/api/rest/index.html#personalprojectgroup-access-tokens)
-6. Select `Header` as auth system
+6. Create an access token in GitLab: "Settings > Access Tokens**".** Select a role as **Developer** or **Owner** and select the scopes of **read\_api** and **read\_repository.**
+7. In Specify, select `Header` as auth system
    1. Fill `PRIVATE-TOKEN` in the `key` field
-   2. Paste your GitLab personal access token
-7. Select "Tokens Studio Format"
-8. Specify will test your JSON
-9. And voila!
+   2. Paste your GitLab project access token
+8. Select "Tokens Studio Format"
+9. Specify will test your JSON
+10. And voila!
 
 #### **JSONBin**
 
@@ -165,7 +166,7 @@ To add a private URL source from JSONBin to Specify:
 
 After adding your source. All you have to do is to:
 
-1. Go in the "Source" tab of your Specify repository
+1. Go to the "Source" tab of your Specify repository
 2. Click on the context menu next to your source
 3. Click on "sync"
 
@@ -178,7 +179,7 @@ Specify is yet not compatible with the following options of Tokens Studio:
 * Maths
 * Composition
 * Assets (bitmap & vectors)
-* Color manipulation (alpha, darken, lighten & mix)
+* Color manipulation (gradients, alpha, darken, lighten & mix)
 
 They will be released in future updates. However, if you have urgent needs for Specify to be compatible with one of them, [feel free to send us feedback](https://feedback.specifyapp.com/beta-program).
 
