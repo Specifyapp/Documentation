@@ -110,7 +110,7 @@ interface parser {
 {% tab title="Config" %}
 ```json
 {
-    "name": "css",
+    "name": "Style Dictionary",
     "parsers": [
         {
             "name": "to-style-dictionary",
