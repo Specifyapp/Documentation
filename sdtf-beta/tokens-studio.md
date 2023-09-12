@@ -6,6 +6,10 @@ description: >-
 
 # Tokens Studio
 
+{% embed url="https://youtu.be/5LmU2UnkA38" %}
+Video tutorial (7min) to help you sync tokens from Tokens Studio to your local git repo as CSS variables&#x20;
+{% endembed %}
+
 ## Before getting started
 
 To get the most out of this guide, you will need:
@@ -25,8 +29,6 @@ Specify automatically fetches Tokens Studio design tokens through the JSON file 
   * gradient tokens
 * If your tokens are inside themes you must set all your themes in a group so Specify can sync your tokens. Tokens aliases inside themes are not yet available and are coming soon.
 {% endhint %}
-
-
 
 ## 1. Sync your design tokens from Tokens Studio to a provider
 
