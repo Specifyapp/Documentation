@@ -38,8 +38,8 @@ Example with the `to-css-custom-properties` parser:
 
 
 
-| Parser                                                  | Description                                                                                                                                                   | Usage example |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| [to-sdtf](to-sdtf.md)                                   | This parser helps you get your design tokens as a SDTF graph in JSON.                                                                                         | Example       |
-| [to-css-custom-properties](to-css-custom-properties.md) | This parser helps you transform design tokens in CSS Custom Properties.                                                                                       | Example       |
-| [to-style-dictionary](to-style-dictionary.md)           | This parser helps you generate [Style Dictionary](https://amzn.github.io/style-dictionary/#/) raw token files for all your design tokens coming from Specify. | Example       |
+| Parser                                                  | Description                                                                                                                                                   | Usage example                                      |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| [to-sdtf](to-sdtf.md)                                   | This parser helps you get your design tokens as a SDTF graph in JSON.                                                                                         | [Example](to-sdtf.md#basic-usage)                  |
+| [to-css-custom-properties](to-css-custom-properties.md) | This parser helps you transform design tokens in CSS Custom Properties.                                                                                       | [Example](to-css-custom-properties.md#basic-usage) |
+| [to-style-dictionary](to-style-dictionary.md)           | This parser helps you generate [Style Dictionary](https://amzn.github.io/style-dictionary/#/) raw token files for all your design tokens coming from Specify. | [Example](to-style-dictionary.md#basic-usage)      |
