@@ -12,7 +12,7 @@ How to sync Figma Variables to code through Specify (2min)
 
 ## Before getting started
 
-To get most out of this guide, you will need:
+To get the most out of this guide, you will need:
 
 * A Specify Account
 * Access to the [Specify SDTF Beta ↗](https://specify.typeform.com/to/sKM7DAqW?typeform-source=specifyapp.com#source=docs)
@@ -21,11 +21,11 @@ To get most out of this guide, you will need:
 ## 1. Sync your Figma Variables with a Specify Repository
 
 * Access your Figma file which includes the Variables you would like to sync to Specify
-* [Download ↗](https://www.figma.com/community/widget/1182723580740552626/Specify---Sync-Tokens-and-Assets) the Specify Widget in the Figma file which includes your Variables. Or update the widget if you already have it. To update the Specify Widget you have to disconnect it, remove the entire frame in all of your Figma files and reopen the latest version of the Widget.
+* [Download ↗](https://www.figma.com/community/widget/1182723580740552626/Specify---Sync-Tokens-and-Assets) the Specify Widget in the Figma file which includes your Variables. Or update the widget if you already have it. To update the Specify Widget you have to disconnect it, remove the entire frame in all of your Figma files, and reopen the latest version of the Widget.
 
 ## 2. Connect your Specify account
 
-1. Follow the steps in the widget to connect your account. You will need to create a personal access token and you will need to add the link to the Figma file in which the widget is added. [Watch tutorial ↗](https://help.specifyapp.com/en/articles/6837203-how-to-use-the-figma-widget)
+1. Follow the steps in the widget to connect your account. You will need to create a personal access token and you will need to add the link to the Figma file to which the widget is added. [Watch tutorial ↗](https://help.specifyapp.com/en/articles/6837203-how-to-use-the-figma-widget)
 2. Click "Connect"
 3. Choose Local Variables
 
@@ -58,12 +58,12 @@ Make sure to understand that only repositories that can sync Figma Variables are
 
 <figure><img src="../.gitbook/assets/Create source.png" alt=""><figcaption><p>Create a source in your Specify Widget in your Figma file</p></figcaption></figure>
 
-## 5. Sync updated variables on-the-fly
+## 5. Sync updated variables on the fly
 
 Use the `Sync` button to update your variables with Specify. Now you are ready to [export your design tokens](cli.md)! 🎉&#x20;
 
 {% hint style="info" %}
-At this moment in the beta you are only able to sync your Figma Variables through the Specify Widget in your Figma file. We do not offer a token table yet, so within Specify **you will only see the categories of tokens that are synced**. If there are updates on this topic we will inform you.
+At this moment in the beta, you are only able to sync your Figma Variables through the Specify Widget in your Figma file. We do not offer a token table yet, so within Specify, **you will only see the categories of tokens that are synced**. If there are updates on this topic we will inform you.
 {% endhint %}
 
 
@@ -74,5 +74,5 @@ At this moment in the beta you are only able to sync your Figma Variables throug
 
 ## 6. Check your source inside the Specify interface
 
-* You will see the category of design tokens that are synced on the left hand side
-* In the `Sources` section (left hand menu), you will see your connection(s) and when the last sync between your Figma file and Specify repository has occurred.\
+* You will see the category of design tokens that are synced on the left-hand side
+* In the `Sources` section (left-hand menu), you will see your connection(s) and when the last sync between your Figma file and Specify repository has occurred.\
