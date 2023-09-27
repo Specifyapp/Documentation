@@ -13,10 +13,10 @@ Unlike [the existing to-style-dictionary parser](https://github.com/Specifyapp/p
 ```typescript
 interface parser {
   name: 'to-style-dictionary';
-  output: Partial<{
-    type: string;
+  output: {
+    type: 'directory';
     directoryPath: string;
-  }>;
+  };
 }
 ```
 
@@ -33,11 +33,12 @@ interface parser {
 
 {% tabs %}
 {% tab title="Input" %}
+{% code lineNumbers="true" %}
 ```json
 {
   "colors": {
     "$collection": { "$modes": ["light", "dark"] },
-    "Core": {
+    "core": {
       "blue-100": {
         "$type": "color",
         "$description": "token 1 aliased with n modes within collection within n groups",
@@ -89,11 +90,11 @@ interface parser {
               "$value": {
                 "dark": {
                   "$mode": "dark",
-                  "$alias": "colorszszszs.Core.blue-100"
+                  "$alias": "colors.core.blue-100"
                 },
                 "light": {
                   "$mode": "light",
-                  "$alias": "colorszszszs.Core.blue-700"
+                  "$alias": "colors.core.blue-700"
                 }
               }
             }
@@ -105,9 +106,11 @@ interface parser {
 }
 
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Config" %}
+{% code title=".specifyrc.json" lineNumbers="true" %}
 ```json
 {
     "name": "Style Dictionary",
@@ -122,16 +125,17 @@ interface parser {
     ]
 }
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Output" %}
+{% code title="color/light/core.json" lineNumbers="true" %}
 ```javascript
-// color/light/Core.json
 {
   "colors": {
     "color": {
       "light": {
-        "Core": {
+        "core": {
           "blue-100": {
             "value": "rgb(255, 255, 255)",
             "type": "color",
@@ -147,13 +151,16 @@ interface parser {
     }
   }
 }
+```
+{% endcode %}
 
-// color/dark/core.json
+{% code title="color/dark/core.json" lineNumbers="true" %}
+```json
 {
   "colors": {
     "color": {
       "dark": {
-        "Core": {
+        "core": {
           "blue-100": {
             "value": "rgb(229, 29, 29)",
             "type": "color",
@@ -169,8 +176,11 @@ interface parser {
     }
   }
 }
+```
+{% endcode %}
 
-//color/light/semantic.json
+{% code title="color/light/semantic.json" lineNumbers="true" %}
+```json
 {
   "colors": {
     "color": {
@@ -180,30 +190,7 @@ interface parser {
             "button": {
               "primary": {
                 "hover": {
-                  "value": "{colors.color.light.Core.blue-700}",
-                  "type": "color",
-                  "description": "alias token with n modes within collection within n groups"
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-}
-
-//color/dark/semantic.json
-{
-  "colors": {
-    "color": {
-      "dark": {
-        "semantic": {
-          "background": {
-            "button": {
-              "primary": {
-                "hover": {
-                  "value": "{colors.color.dark.Core.blue-100}",
+                  "value": "{colors.color.light.core.blue-700}",
                   "type": "color",
                   "description": "alias token with n modes within collection within n groups"
                 }
@@ -216,5 +203,32 @@ interface parser {
   }
 }
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
+
+{% code title="color/dark/semantic.json" lineNumbers="true" %}
+```json
+{
+  "colors": {
+    "color": {
+      "dark": {
+        "semantic": {
+          "background": {
+            "button": {
+              "primary": {
+                "hover": {
+                  "value": "{colors.color.dark.core.blue-100}",
+                  "type": "color",
+                  "description": "alias token with n modes within collection within n groups"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```
+{% endcode %}

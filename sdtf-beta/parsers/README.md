@@ -17,7 +17,33 @@ We're currently working on making [our existing parsers](../../concepts/parsers.
 You must set a name and your desired output for each parser:
 
 1. The `name` is the name of the parser
-2. The `output` property is composed of a `type` and a `filePath` or a `directoryPath`.
+2. The `output` property indicates which type of output you want the parser to produce
+
+### Output types
+
+Parsers support none, some or more output types, please refer to dedicated parser pages for details.
+
+#### File
+
+Use case: the parser is expected to produce exactly one file.
+
+```typescript
+type FileOutput = {
+  type: 'file';
+  filePath: string;
+}
+```
+
+**Directory**
+
+Use case: the parser is expected to produce 0 to N files, all placed in the given `directoryPath`.
+
+```typescript
+type DirectoryOutput = {
+  type: 'directory';
+  directoryPath: string;
+}
+```
 
 Example with the `to-css-custom-properties` parser:
 

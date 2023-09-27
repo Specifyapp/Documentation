@@ -9,10 +9,12 @@ description: This parser helps you get your design tokens as a SDTF graph in JSO
 ```typescript
 interface parser {
   name: 'to-sdtf';
-  output: Partial<{
-    type: string;
-    filePath: string;
-  }>;
+  output:
+    | { type: 'directory'; directoryPath: string }
+    | { type: 'file'; filePath: string }
+    | { type: 'SDTF' }
+    | { type: 'text' }
+    | { type: 'JSON'; filePath: string };
 }
 ```
 
@@ -22,6 +24,7 @@ interface parser {
 
 {% tabs %}
 {% tab title="Input" %}
+{% code lineNumbers="true" %}
 ```json
 {
   "colors": {
@@ -98,9 +101,11 @@ interface parser {
   }
 }
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Config" %}
+{% code title=".specifyrc.json" lineNumbers="true" %}
 ```json
 {
     "name": "SDTF",
@@ -115,9 +120,11 @@ interface parser {
     ]
 }
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Output" %}
+{% code title="tokens.json" lineNumbers="true" %}
 ```json
 {
   "colors": {
@@ -194,5 +201,6 @@ interface parser {
   }
 }
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}

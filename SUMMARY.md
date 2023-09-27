@@ -36,9 +36,12 @@
 * [Tokens Studio](sdtf-beta/tokens-studio.md)
 * [CLI & Config](sdtf-beta/cli.md)
 * [Parsers](sdtf-beta/parsers/README.md)
+  * [change-case](sdtf-beta/parsers/change-case.md)
+  * [filter](sdtf-beta/parsers/filter.md)
   * [to-sdtf](sdtf-beta/parsers/to-sdtf.md)
   * [to-css-custom-properties](sdtf-beta/parsers/to-css-custom-properties.md)
   * [to-style-dictionary](sdtf-beta/parsers/to-style-dictionary.md)
+  * [to-tailwind](sdtf-beta/parsers/to-tailwind.md)
 * [REST API](sdtf-beta/rest-api.md)
 
 ## Useful links

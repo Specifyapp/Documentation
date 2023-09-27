@@ -9,14 +9,14 @@ description: This parser helps you transform design tokens in CSS Custom Propert
 ```typescript
 interface parser {
   name: 'to-css-custom-properties';
-  output: Partial<{
-    type: string;
+  output: {
+    type: 'file';
     filePath: string;
-  }>;
-  options?: Partial<{
+  };
+  options?: {
     tokenNameTemplate?: string;
     selectorTemplate?: string;
-  }>;
+  };
 }
 ```
 
@@ -30,11 +30,12 @@ A design token can have modes, be nested in groups and be part of a collection. 
 
 {% tabs %}
 {% tab title="Input" %}
+{% code lineNumbers="true" %}
 ```json
 {
   "colors": {
     "$collection": { "$modes": ["light", "dark"] },
-    "Core": {
+    "core": {
       "blue-100": {
         "$type": "color",
         "$description": "token 1 aliased with n modes within collection within n groups",
@@ -86,11 +87,11 @@ A design token can have modes, be nested in groups and be part of a collection. 
               "$value": {
                 "dark": {
                   "$mode": "dark",
-                  "$alias": "colorszszszs.Core.blue-100"
+                  "$alias": "colors.core.blue-100"
                 },
                 "light": {
                   "$mode": "light",
-                  "$alias": "colorszszszs.Core.blue-700"
+                  "$alias": "colors.core.blue-700"
                 }
               }
             }
@@ -101,9 +102,11 @@ A design token can have modes, be nested in groups and be part of a collection. 
   }
 }
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Config" %}
+{% code title=".specifyrc.json" lineNumbers="true" %}
 ```json
 {
     "name": "css",
@@ -122,21 +125,23 @@ A design token can have modes, be nested in groups and be part of a collection. 
     ]
 }
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Output" %}
+{% code title="tokens.css" lineNumbers="true" %}
 ```css
-/* tokens.css */
 [data-theme="dark"] {
-  --Core-blue-100: rgb(229, 29, 29);
-  --Core-blue-700: rgb(229, 0, 0);
-  --semantic-background-button-primary-hover: var(--Core-blue-100);
+  --core-blue-100: rgb(229, 29, 29);
+  --core-blue-700: rgb(229, 0, 0);
+  --semantic-background-button-primary-hover: var(--core-blue-100);
 }
 [data-theme="light"] {
-  --Core-blue-100: rgb(255, 255, 255);
-  --Core-blue-700: rgb(255, 200, 255);
-  --semantic-background-button-primary-hover: var(--Core-blue-700);
+  --core-blue-100: rgb(255, 255, 255);
+  --core-blue-700: rgb(255, 200, 255);
+  --semantic-background-button-primary-hover: var(--core-blue-700);
 }
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
