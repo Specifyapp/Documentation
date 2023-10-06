@@ -156,7 +156,7 @@ We eventually generate our transformed SDTF graph in a JSON file thanks to the t
             "change": "names",
             "toCase": "kebabCase",
             "applyTo": {
-              "collection": true,
+              "collection": true
             }
           }
         },
@@ -166,7 +166,7 @@ We eventually generate our transformed SDTF graph in a JSON file thanks to the t
             "change": "modes",
             "toCase": "kebabCase",
             "applyTo": {
-              "collection": true,
+              "collection": true
             }
           }
         },
