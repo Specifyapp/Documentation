@@ -16,13 +16,13 @@ interface parser {
       | 'capitalCase'
       | 'constantCase'
       | 'kebabCase'
-      | 'headerCase'
       | 'noCase'
-      | 'paramCase'
       | 'pascalCase'
+      | 'pascalSnakeCase'
       | 'pathCase'
       | 'sentenceCase'
-      | 'snakeCase';
+      | 'snakeCase'
+      | 'trainCase';
     applyTo:
       | { collection: string | true }
       | { group: string | true }
@@ -35,18 +35,18 @@ interface parser {
 ## Options
 
 <table><thead><tr><th width="151">Parameter</th><th width="127.33333333333331">Required</th><th width="341">Type</th><th width="136">Default</th><th width="237">Description</th></tr></thead><tbody><tr><td><code>change</code></td><td>optional</td><td><pre><code>'names' | 'modes'
-</code></pre></td><td><code>'names'</code></td><td>Change the names or the modes of the selected items.</td></tr><tr><td><code>toCase</code></td><td>required</td><td><pre class="language-typescript"><code class="lang-typescript">| 'camelCase' 
+</code></pre></td><td><code>'names'</code></td><td>Change the names or the modes of the selected items.</td></tr><tr><td><code>toCase</code></td><td>required</td><td><pre class="language-typescript"><code class="lang-typescript">| 'camelCase'
 | 'capitalCase'
 | 'constantCase'
 | 'kebabCase'
-| 'headerCase'
 | 'noCase'
-| 'paramCase'
 | 'pascalCase'
+| 'pascalSnakeCase'
 | 'pathCase'
 | 'sentenceCase'
 | 'snakeCase'
-</code></pre></td><td></td><td>The case transformation to apply.</td></tr><tr><td><code>applyTo</code></td><td>required</td><td><pre class="language-typescript"><code class="lang-typescript">| { collection: string | true }
+| 'trainCase'
+</code></pre></td><td></td><td>The case transformation to apply. Actual transform is done by the <a href="https://www.npmjs.com/package/change-case">change-case</a> package.</td></tr><tr><td><code>applyTo</code></td><td>required</td><td><pre class="language-typescript"><code class="lang-typescript">| { collection: string | true }
 | { group: string | true }
 | { token: string | true }
 | SDTFQuery
@@ -138,7 +138,7 @@ We change the case of the token `names` and the `modes` to `kebabCase`. We apply
 * the token names
 * the mode names
 
-We eventually generate our transformed SDTF graph in a JSON file thanks to the to-sdtf parser.
+We eventually generate our transformed SDTF graph in a JSON file thanks to the [to-sdtf](to-sdtf.md) parser.
 
 {% code title=".specifyrc.json" lineNumbers="true" %}
 ```json5
