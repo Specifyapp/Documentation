@@ -40,18 +40,18 @@ A design token can have modes, be nested in groups and be part of a collection. 
         "$type": "color",
         "$description": "token 1 aliased with n modes within collection within n groups",
         "$value": {
-          "light": {
-            "red": 255,
-            "blue": 255,
+          "Light": {
+            "red": 219,
+            "blue": 254,
             "alpha": 1,
-            "green": 255,
+            "green": 236,
             "model": "rgb"
           },
-          "dark": {
-            "red": 229,
-            "blue": 29,
+          "Dark": {
+            "red": 41,
+            "blue": 67,
             "alpha": 1,
-            "green": 29,
+            "green": 52,
             "model": "rgb"
           }
         }
@@ -60,18 +60,18 @@ A design token can have modes, be nested in groups and be part of a collection. 
         "$type": "color",
         "$description": "token 2 aliased with n modes within collection within n groups",
         "$value": {
-          "light": {
-            "red": 255,
-            "blue": 255,
+          "Light": {
+            "red": 17,
+            "blue": 249,
             "alpha": 1,
-            "green": 200,
+            "green": 125,
             "model": "rgb"
           },
-          "dark": {
-            "red": 229,
-            "blue": 0,
+          "Dark": {
+            "red": 96,
+            "blue": 250,
             "alpha": 1,
-            "green": 0,
+            "green": 168,
             "model": "rgb"
           }
         }
@@ -132,13 +132,13 @@ A design token can have modes, be nested in groups and be part of a collection. 
 {% code title="tokens.css" lineNumbers="true" %}
 ```css
 [data-theme="dark"] {
-  --core-blue-100: rgb(229, 29, 29);
-  --core-blue-700: rgb(229, 0, 0);
+  --core-blue-100: rgb(41, 52, 67);
+  --core-blue-700: rgb(96, 168, 250);
   --semantic-background-button-primary-hover: var(--core-blue-100);
 }
 [data-theme="light"] {
-  --core-blue-100: rgb(255, 255, 255);
-  --core-blue-700: rgb(255, 200, 255);
+  --core-blue-100: rgb(219, 236, 254);
+  --core-blue-700: rgb(17, 125, 249);
   --semantic-background-button-primary-hover: var(--core-blue-700);
 }
 ```

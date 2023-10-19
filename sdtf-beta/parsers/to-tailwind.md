@@ -6,7 +6,7 @@ description: >-
 
 # to-tailwind
 
-Unlike the existing to-style-dictionary parser, this one doesn't have any options yet.
+Unlike the existing to-tailwind parser, this one doesn't have any options yet.
 
 ## Interface
 
