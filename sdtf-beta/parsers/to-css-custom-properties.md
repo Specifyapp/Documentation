@@ -16,13 +16,14 @@ interface parser {
   options?: {
     tokenNameTemplate?: string;
     selectorTemplate?: string;
+    includeCoreTokensInScopes?: boolean;
   };
 }
 ```
 
 ## Options
 
-<table data-full-width="true"><thead><tr><th width="224">Parameter</th><th width="101">Required</th><th width="105">Type</th><th>Default</th><th>Description</th></tr></thead><tbody><tr><td><code>selectorTemplate</code></td><td>optional</td><td><code>string</code></td><td></td><td>The pattern used to generate the CSS selector name(s). It must match <a href="https://github.com/janl/mustache.js#templates">mustache</a> template syntax.<br><br>You can use <code>collection</code>, <code>mode</code> and <code>groups</code> names.</td></tr><tr><td><code>tokenNameTemplate</code></td><td>optional</td><td><code>string</code></td><td></td><td>The pattern used to generate token names. It must match <a href="https://github.com/janl/mustache.js#templates">mustache</a> template syntax.<br><br>You can use <code>collection</code>, <code>mode</code>,<code>groups</code> and <code>token</code> names.</td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="243">Parameter</th><th width="101">Required</th><th width="118">Type</th><th width="119">Default</th><th>Description</th></tr></thead><tbody><tr><td><code>selectorTemplate</code></td><td>optional</td><td><code>string</code></td><td></td><td>The pattern used to generate the CSS selector name(s). It must match <a href="https://github.com/janl/mustache.js#templates">mustache</a> template syntax.<br><br>You can use <code>collection</code>, <code>mode</code> and <code>groups</code> names.</td></tr><tr><td><code>tokenNameTemplate</code></td><td>optional</td><td><code>string</code></td><td></td><td>The pattern used to generate token names. It must match <a href="https://github.com/janl/mustache.js#templates">mustache</a> template syntax.<br><br>You can use <code>collection</code>, <code>mode</code>,<code>groups</code> and <code>token</code> names.</td></tr><tr><td><code>includeCoreTokensInScopes</code></td><td>optional</td><td><code>boolean</code></td><td><code>false</code></td><td>When set to <code>true</code>, this option will duplicate the raw base value of an alias in its selector to ensure the alias to be resolvable.</td></tr></tbody></table>
 
 ## Basic usage
 
@@ -34,7 +35,7 @@ A design token can have modes, be nested in groups and be part of a collection. 
 ```json
 {
   "colors": {
-    "$collection": { "$modes": ["light", "dark"] },
+    "$collection": { "$modes": ["Light", "Dark"] },
     "core": {
       "blue-100": {
         "$type": "color",
@@ -85,11 +86,11 @@ A design token can have modes, be nested in groups and be part of a collection. 
               "$type": "color",
               "$description": "alias token with n modes within collection within n groups",
               "$value": {
-                "dark": {
+                "Dark": {
                   "$mode": "dark",
                   "$alias": "colors.core.blue-100"
                 },
-                "light": {
+                "Light": {
                   "$mode": "light",
                   "$alias": "colors.core.blue-700"
                 }
@@ -119,7 +120,8 @@ A design token can have modes, be nested in groups and be part of a collection. 
             },
             "options": {
                 "tokenNameTemplate": "--{{groups}}-{{token}}",
-                "selectorTemplate": "[data-theme=\"{{mode}}\"]"
+                "selectorTemplate": "[data-theme=\"{{mode}}\"]",
+                "includeCoreTokensInScopes": true
             }
         }
     ]
