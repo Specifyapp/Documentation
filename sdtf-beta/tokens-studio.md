@@ -25,7 +25,6 @@ Specify automatically fetches Tokens Studio design tokens through the JSON file 
 **Good to know**
 
 * Specify is not yet compatible with:
-  * typography (we encountered an issue and are working on it)
   * tokens whose values are based on maths
   * gradient tokens
 * If your tokens are inside themes you must set all your themes in a group so Specify can sync your tokens. Tokens aliases inside themes are not yet available and are coming soon.
