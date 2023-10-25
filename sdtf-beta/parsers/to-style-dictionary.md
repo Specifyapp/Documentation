@@ -206,29 +206,3 @@ interface parser {
 {% endcode %}
 {% endtab %}
 {% endtabs %}
-
-{% code title="color/dark/semantic.json" lineNumbers="true" %}
-```json
-{
-  "colors": {
-    "color": {
-      "dark": {
-        "semantic": {
-          "background": {
-            "button": {
-              "primary": {
-                "hover": {
-                  "value": "{colors.color.dark.core.blue-100}",
-                  "type": "color",
-                  "description": "alias token with n modes within collection within n groups"
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-}
-```
-{% endcode %}
