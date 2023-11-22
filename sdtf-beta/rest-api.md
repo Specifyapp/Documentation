@@ -24,19 +24,11 @@ Get design tokens and assets from a Specify repository. You can only execute a s
 {% endswagger-description %}
 
 {% swagger-parameter in="path" name="workspace" required="true" %}
-The name of your organization in Specify. For instance, in this URL 
-
-`https://specifyapp.com/ @specifyapp/Seeds`
-
- the workspace is "@specifyapp".
+The name of your organization in Specify. For instance, in this URL `https://specifyapp.com/ @specifyapp/Seeds` the workspace is "@specifyapp".
 {% endswagger-parameter %}
 
 {% swagger-parameter in="path" name="name" %}
-The name of the Specify repository containing the design data you're requesting. For instance, in this URL 
-
-`https://specifyapp.com / @specifyapp/Seeds`
-
- the repository is "Seeds".
+The name of the Specify repository containing the design data you're requesting. For instance, in this URL `https://specifyapp.com / @specifyapp/Seeds` the repository is "Seeds".
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="name" type="" required="true" %}

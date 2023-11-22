@@ -56,11 +56,7 @@ Set all the [Token types](../concepts/token-types.md) you want to target.
 {% endswagger-parameter %}
 
 {% swagger-parameter in="body" name="parsers" type="Object or Array" required="false" %}
-Can contain an object or an array of objects. Each object corresponds to a specific 
-
-[parser](../concepts/parsers.md#all-parsers-available)
-
-.
+Can contain an object or an array of objects. Each object corresponds to a specific [parser](../concepts/parsers.md#all-parsers-available).
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="Everything worked as expected." %}
