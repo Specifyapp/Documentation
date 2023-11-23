@@ -17,18 +17,9 @@ To get the most out of this guide, you will need:
 * A [Specify](http://specifyapp.com/) account
 * Access to the [Specify SDTF Beta](https://specifyapp.com/design-token-format)
 * The [Tokens Studio](https://tokens.studio/) plugin installed in your Figma
-* A [GitHub](https://github.com/), [JSONBin](https://jsonbin.io/), [GitLab](https://gitlab.com/), or [Azure DevOps](https://dev.azure.com/) account
+* A [GitHub](https://github.com/), [GitLab](https://gitlab.com/), [Azure DevOps](https://dev.azure.com/), or [JSONBin](https://jsonbin.io/) account
 
-Specify automatically fetches Tokens Studio design tokens through the JSON file provided by the latter. The best way to keep your design tokens in sync with both tools is to host your JSON file in a repository like GitHub.
-
-{% hint style="warning" %}
-**Good to know**
-
-* Specify is not yet compatible with:
-  * tokens whose values are based on maths
-  * gradient tokens
-* If your tokens are inside themes you must set all your themes in a group so Specify can sync your tokens. Tokens aliases inside themes are not yet available and are coming soon.
-{% endhint %}
+Specify automatically fetches design tokens through the JSON file created by Tokens Studio. The best way to keep your design tokens in sync with both tools is to host your JSON file in a repository like GitHub.
 
 ## 1. Sync your design tokens from Tokens Studio to a provider
 
@@ -177,9 +168,8 @@ Your source is now updated!
 
 ## 4. Non-supported design token types
 
-Specify is yet not compatible with the following options of Tokens Studio:
+Please keep in mind Specify is yet not compatible with the following data coming from Tokens Studio:
 
-* Maths
 * Composition
 * Assets (bitmap & vectors)
 * Color manipulation (gradients, alpha, darken, lighten & mix)
