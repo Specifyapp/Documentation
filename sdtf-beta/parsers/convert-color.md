@@ -125,14 +125,14 @@ We convert all colors from our SDTF graph in `hsl`.
 We then generate our transformed SDTF graph in a JSON file thanks to the [to-sdtf](to-sdtf.md) parser.
 
 {% code title=".specifyrc.json" lineNumbers="true" %}
-```json5
+```json
 {
   "version": "2",
-  "repository": "@owner/repository",
+  "repository": "@organization/repository",
   "personalAccessToken": "<your-personal-access-token>",
   "rules": [
     {
-      "name": "SDTF",
+      "name": "Convert colors in HSL and generate tokens in JSON",
       "parsers": [
         {
           "name": "convert-color",

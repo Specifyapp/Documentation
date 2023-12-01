@@ -140,11 +140,11 @@ interface parser {
 ```json
 {
   "version": "2",
-  "repository": "@owner/repository",
+  "repository": "@organization/repository",
   "personalAccessToken": "<your-personal-access-token>",
   "rules": [
     {
-      "name": "Tailwind theme",
+      "name": "Generate tokens as a Tailwind theme",
       "parsers": [
         {
           "name": "to-tailwind",
@@ -205,3 +205,7 @@ module.exports = {
 {% endcode %}
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+Heads toward our [templates section](https://app.gitbook.com/o/4xLRT3v2YVTuAxbYok2F/s/9mLpgMKJql1OpDNVdcbF/\~/changes/159/sdtf-beta/templates) to learn more on how to implement the to-tailwind parser within your config file.
+{% endhint %}

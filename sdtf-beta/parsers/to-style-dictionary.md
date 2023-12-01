@@ -113,16 +113,23 @@ interface parser {
 {% code title=".specifyrc.json" lineNumbers="true" %}
 ```json
 {
-    "name": "Style Dictionary",
-    "parsers": [
+  "version": "2",
+  "repository": "@organization/repository",
+  "personalAccessToken": "<your-personal-access-token>",
+  "rules": [
+    {
+      "name": "Generate Style Dictionary raw token files",
+      "parsers": [
         {
-            "name": "to-style-dictionary",
-            "output": {
-                "type": "directory",
-                "directoryPath": "output"
-            }
+          "name": "to-style-dictionary",
+          "output": {
+            "type": "directory",
+            "directoryPath": "output/tokens/"
+          }
         }
-    ]
+      ]
+    }
+  ]
 }
 ```
 {% endcode %}
@@ -206,3 +213,7 @@ interface parser {
 {% endcode %}
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+Heads toward our [templates section](https://app.gitbook.com/o/4xLRT3v2YVTuAxbYok2F/s/9mLpgMKJql1OpDNVdcbF/\~/changes/159/sdtf-beta/templates) to learn more on how to implement the to-style-dictionary parser within your config file.
+{% endhint %}

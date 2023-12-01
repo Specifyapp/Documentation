@@ -83,35 +83,43 @@ interface parser {
 3. ... and all `children` tokens within the "info" group(s)
 4. We eventually generate our transformed SDTF graph in a JSON file thanks to the `to-sdtf` parser.
 
-<pre class="language-json" data-title=".specifyrc.json" data-line-numbers><code class="lang-json">{
+{% code title=".specifyrc.json" lineNumbers="true" %}
+```json
+{
   "version": "2",
-  "repository": "@owner/repository",
-  "personalAccessToken": "&#x3C;your-personal-access-token>",
+  "repository": "@organization/repository",
+  "personalAccessToken": "<your-personal-access-token>",
   "rules": [
     {
-      "name": "filter",
-      "options": {
-        "query": {
-          "where": {
-<strong>            "group": "info",
-</strong>            "select": {
-<strong>              "parents": true,
-</strong><strong>              "children": true
-</strong>            }
+      "name": "Only get tokens from a group named 'info' and gererate tokens in JSON",
+      "parsers": [
+        {
+          "name": "filter",
+          "options": {
+            "query": {
+              "where": {
+                "group": "info",
+                "select": {
+                  "parents": true,
+                  "children": true
+                }
+              }
+            }
+          }
+        },
+        {
+          "name": "to-sdtf",
+          "output": {
+            "type": "file",
+            "filePath": "tokens.json"
           }
         }
-      }
-    },
-    {
-      "name": "to-sdtf",
-      "output": {
-        "type": "file",
-        "filePath": "tokens.json"
-      }
+      ]
     }
   ]
 }
-</code></pre>
+```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Output" %}

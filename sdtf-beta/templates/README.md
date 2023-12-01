@@ -1,0 +1,19 @@
+---
+description: >-
+  Automatically distribute your design tokens and assets according to your
+  organization's standards with our ready-to-use configuration templates.
+---
+
+# Templates
+
+## Ready-to-use configuration templates for your next project
+
+This section will help you get started with ready-to-use configuration template. Each configuration file will be filled by one or several rules, called parsers.&#x20;
+
+Parsers are functions allowing you to transform design tokens and assets coming from Specify to fit your needs and company standards.
+
+{% hint style="info" %}
+Make sure to read the [Configuration section](../cli.md) to better understand how configuration file works with Specify.
+{% endhint %}
+
+<table><thead><tr><th width="232">Template</th><th>Description </th></tr></thead><tbody><tr><td><a href="https://app.gitbook.com/o/4xLRT3v2YVTuAxbYok2F/s/9mLpgMKJql1OpDNVdcbF/~/changes/159/sdtf-beta/templates/css-custom-properties">CSS Custom Properties</a></td><td>This template will help you generate all types of design tokens as CSS Custom Properties in their respective CSS file.</td></tr><tr><td><a href="https://app.gitbook.com/o/4xLRT3v2YVTuAxbYok2F/s/9mLpgMKJql1OpDNVdcbF/~/changes/159/sdtf-beta/templates/tailwind">Tailwind</a></td><td>This template will help you generate a theme containing design tokens compatible with Tailwind.</td></tr><tr><td><a href="https://app.gitbook.com/o/4xLRT3v2YVTuAxbYok2F/s/9mLpgMKJql1OpDNVdcbF/~/changes/159/sdtf-beta/templates/style-dictionary">Style Dictionary </a></td><td></td></tr></tbody></table>

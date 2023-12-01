@@ -110,21 +110,28 @@ A design token can have modes, be nested in groups and be part of a collection. 
 {% code title=".specifyrc.json" lineNumbers="true" %}
 ```json
 {
-    "name": "css",
-    "parsers": [
+  "version": "2",
+  "repository": "@organization/repository",
+  "personalAccessToken": "<your-personal-access-token>",
+  "rules": [
+    {
+      "name": "Generate tokens as CSS Custom Properties",
+      "parsers": [
         {
-            "name": "to-css-custom-properties",
-            "output": {
-                "type": "file",
-                "filePath": "tokens.css"
-            },
-            "options": {
-                "tokenNameTemplate": "--{{groups}}-{{token}}",
-                "selectorTemplate": "[data-theme=\"{{mode}}\"]",
-                "includeCoreTokensInScopes": true
-            }
+          "name": "to-css-custom-properties",
+          "output": {
+            "type": "file",
+            "filePath": "tokens.css"
+          },
+          "options": {
+            "tokenNameTemplate": "--{{groups}}-{{token}}",
+            "selectorTemplate": "[data-theme=\"{{mode}}\"]",
+            "includeCoreTokensInScopes": true
+          }
         }
-    ]
+      ]
+    }
+  ]
 }
 ```
 {% endcode %}
@@ -147,3 +154,7 @@ A design token can have modes, be nested in groups and be part of a collection. 
 {% endcode %}
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+Heads toward our [templates section](https://app.gitbook.com/o/4xLRT3v2YVTuAxbYok2F/s/9mLpgMKJql1OpDNVdcbF/\~/changes/159/sdtf-beta/templates) to learn more on how to implement the to-css-custom-properties parser within your config file.
+{% endhint %}

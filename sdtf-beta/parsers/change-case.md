@@ -144,11 +144,11 @@ We eventually generate our transformed SDTF graph in a JSON file thanks to the [
 ```json5
 {
   "version": "2",
-  "repository": "@owner/repository",
+  "repository": "@organization/repository",
   "personalAccessToken": "<your-personal-access-token>",
   "rules": [
     {
-      "name": "SDTF",
+      "name": "Format all token names and modes to kebabCase and generate tokens in JSON",
       "parsers": [
         {
           "name": "change-case",

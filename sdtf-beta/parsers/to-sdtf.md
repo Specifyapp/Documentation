@@ -108,16 +108,16 @@ interface parser {
 {% code title=".specifyrc.json" lineNumbers="true" %}
 ```json
 {
-    "name": "SDTF",
-    "parsers": [
-        {
-            "name": "to-sdtf",
-            "output": {
-                "type": "file",
-                "filePath": "tokens.json"
-            }
-        }
-    ]
+  "name": "Generate tokens in JSON",
+  "parsers": [
+    {
+      "name": "to-sdtf",
+      "output": {
+        "type": "file",
+        "filePath": "output/tokens.json"
+      }
+    }
+  ]
 }
 ```
 {% endcode %}
@@ -204,3 +204,7 @@ interface parser {
 {% endcode %}
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+Heads toward our [templates section](https://app.gitbook.com/o/4xLRT3v2YVTuAxbYok2F/s/9mLpgMKJql1OpDNVdcbF/\~/changes/159/sdtf-beta/templates) to learn more on how to implement the to-sdtf parser within your config file.
+{% endhint %}
