@@ -97,7 +97,7 @@ If you use the GitHub, you need to fill two properties:
 * `rules` are where you provide parsers and compatible options
 
 {% hint style="info" %}
-Make sure you have connected your GitHub account with your Specify account. Head toward this article to learn more.
+Make sure you have connected your GitHub account with your Specify account. Head toward [this article](https://help.specifyapp.com/en/articles/4722440-add-github-as-a-destination) to learn more.
 {% endhint %}
 
 ```json

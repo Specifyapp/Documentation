@@ -111,10 +111,11 @@ interface parser {
 
 {% tab title="Config" %}
 {% code title=".specifyrc.json" lineNumbers="true" %}
-```json
+```json5
 {
   "version": "2",
   "repository": "@organization/repository",
+  // Only use the personalAccessToken when working with the CLI
   "personalAccessToken": "<your-personal-access-token>",
   "rules": [
     {
@@ -213,7 +214,3 @@ interface parser {
 {% endcode %}
 {% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-Heads toward our [templates section](https://app.gitbook.com/o/4xLRT3v2YVTuAxbYok2F/s/9mLpgMKJql1OpDNVdcbF/\~/changes/159/sdtf-beta/templates) to learn more on how to implement the to-style-dictionary parser within your config file.
-{% endhint %}

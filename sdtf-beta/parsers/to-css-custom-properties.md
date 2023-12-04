@@ -108,10 +108,11 @@ A design token can have modes, be nested in groups and be part of a collection. 
 
 {% tab title="Config" %}
 {% code title=".specifyrc.json" lineNumbers="true" %}
-```json
+```json5
 {
   "version": "2",
   "repository": "@organization/repository",
+  // Only use the personalAccessToken when working with the CLI
   "personalAccessToken": "<your-personal-access-token>",
   "rules": [
     {
@@ -156,5 +157,5 @@ A design token can have modes, be nested in groups and be part of a collection. 
 {% endtabs %}
 
 {% hint style="info" %}
-Heads toward our [templates section](https://app.gitbook.com/o/4xLRT3v2YVTuAxbYok2F/s/9mLpgMKJql1OpDNVdcbF/\~/changes/159/sdtf-beta/templates) to learn more on how to implement the to-css-custom-properties parser within your config file.
+Head toward our [templates section](../templates/css-custom-properties.md) to see how you can use this parser with others to suit a common use case when working with CSS.
 {% endhint %}

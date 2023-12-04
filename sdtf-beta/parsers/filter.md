@@ -84,10 +84,11 @@ interface parser {
 4. We eventually generate our transformed SDTF graph in a JSON file thanks to the `to-sdtf` parser.
 
 {% code title=".specifyrc.json" lineNumbers="true" %}
-```json
+```json5
 {
   "version": "2",
   "repository": "@organization/repository",
+  // Only use the personalAccessToken when working with the CLI
   "personalAccessToken": "<your-personal-access-token>",
   "rules": [
     {

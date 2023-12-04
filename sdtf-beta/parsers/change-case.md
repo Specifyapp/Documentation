@@ -145,6 +145,7 @@ We eventually generate our transformed SDTF graph in a JSON file thanks to the [
 {
   "version": "2",
   "repository": "@organization/repository",
+  // Only use the personalAccessToken when working with the CLI
   "personalAccessToken": "<your-personal-access-token>",
   "rules": [
     {
