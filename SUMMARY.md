@@ -32,7 +32,7 @@
 ## SDTF - beta
 
 * [Getting started](sdtf-beta/getting-started.md)
-* [Figma Variables](sdtf-beta/figma-variables.md)
+* [Figma Variables & Styles](sdtf-beta/figma-variables.md)
 * [Tokens Studio](sdtf-beta/tokens-studio.md)
 * [CLI & Config](sdtf-beta/cli.md)
 * [Parsers](sdtf-beta/parsers/README.md)

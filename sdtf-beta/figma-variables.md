@@ -1,10 +1,10 @@
 ---
 description: >-
-  In this guide you’ll learn how to sync your Figma Variables to a Specify
-  Repository and how to keep them updated.
+  In this guide, you’ll learn how to sync your Figma Variables or Styles to a
+  Specify Repository and how to keep them updated.
 ---
 
-# Figma Variables
+# Figma Variables & Styles
 
 {% embed url="https://www.youtube.com/watch?v=D6vqVdsFdc4" %}
 How to sync Figma Variables to code through Specify (2min)
@@ -16,7 +16,7 @@ To get the most out of this guide, you will need:
 
 * A Specify Account
 * Access to the [Specify SDTF Beta ↗](https://specify.typeform.com/to/sKM7DAqW?typeform-source=specifyapp.com#source=docs)
-* A Figma file containing Variables
+* A Figma file containing Variables or Styles
 
 ## 1. Sync your Figma Variables with a Specify Repository
 
@@ -27,10 +27,10 @@ To get the most out of this guide, you will need:
 
 1. Follow the steps in the widget to connect your account. You will need to create a personal access token and you will need to add the link to the Figma file to which the widget is added. [Watch tutorial ↗](https://help.specifyapp.com/en/articles/6837203-how-to-use-the-figma-widget)
 2. Click "Connect"
-3. Choose Local Variables
+3. Choose **SDTF Beta**
 
 {% hint style="info" %}
-Note: the widget can be used for syncing Figma Local Styles as well, you are able to switch between the two by clicking "Switch to".
+Note: the widget can be used for syncing Local Styles from the **Classic** repositories as well, you can switch between the two by clicking "Switch to".
 {% endhint %}
 
 ## 3. Create a repository in Specify
@@ -38,7 +38,7 @@ Note: the widget can be used for syncing Figma Local Styles as well, you are abl
 1. Go to your Specify workspace
 2. Click on "Create repository"
 3. Choose a name
-4. Select "Sync from Figma Variables" ([Learn more ↗︎](https://help.specifyapp.com/en/articles/7983267-what-type-of-repository-do-i-need))
+4. Select "**SDTF Repository**" ([Learn more ↗︎](https://help.specifyapp.com/en/articles/7983267-what-type-of-repository-do-i-need))
 5. Click "Create repository"
 
 <figure><img src="../.gitbook/assets/Create repository.png" alt=""><figcaption><p>Create a repository in Specify</p></figcaption></figure>
@@ -47,10 +47,11 @@ Note: the widget can be used for syncing Figma Local Styles as well, you are abl
 
 1. Go back to your Figma file that includes the Variables
 2. Click on "Create Source" in the Specify Widget
-3. It will show you the collections that are detected
-4. Select the Specify repository you want to sync with. You should be able to see the Repository you have just created in Specify (if not, reload the list).
-5. Click "Save to Specify"
-6. You will immediately see the repository listed with the latest syncing time
+3. It will show you the local collections and styles that are detected
+4. Select the design tokens format you want to collect from your Figma file. [Learn More ↗︎](https://help.specifyapp.com/en/articles/7947471-when-to-use-figma-styles-frames-or-variables#h\_1e8bde9199)
+5. Select the Specify repository you want to sync with. You should be able to see the Repository you have just created in Specify (if not, reload the list).
+6. Click "Save to Specify"
+7. You will immediately see the repository listed with the latest syncing time
 
 {% hint style="info" %}
 Make sure to understand that only repositories that can sync Figma Variables are listed here.
@@ -66,7 +67,8 @@ Use the `Sync` button to update your variables with Specify. Now you are ready t
 
 
 
-## 6. Check your source inside the Specify interface
+## 6. Check or delete your source inside the Specify interface
 
 * You will see the category of design tokens that are synced on the left-hand side
-* In the `Sources` section (left-hand menu), you will see your connection(s) and when the last sync between your Figma file and Specify repository has occurred.\
+* In the `Sources` section (left-hand menu), you will see your connection(s) and when the last sync between your Figma file and Specify repository has occurred.
+* Delete your source by clicking on the 3 dots option menu in the source card.\
