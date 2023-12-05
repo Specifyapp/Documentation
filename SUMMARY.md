@@ -41,6 +41,7 @@
   * [to-tailwind](sdtf-beta/parsers/to-tailwind.md)
   * [to-sdtf](sdtf-beta/parsers/to-sdtf.md)
   * [filter](sdtf-beta/parsers/filter.md)
+  * [select-modes](sdtf-beta/parsers/select-modes.md)
   * [change-case](sdtf-beta/parsers/change-case.md)
   * [convert-color](sdtf-beta/parsers/convert-color.md)
 * [Templates](sdtf-beta/templates/README.md)
