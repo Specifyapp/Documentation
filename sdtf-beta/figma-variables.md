@@ -1,7 +1,7 @@
 ---
 description: >-
-  In this guide, you’ll learn how to sync your Figma Variables or Styles to a
-  Specify Repository and how to keep them updated.
+  In this guide you’ll learn how to sync your Figma Variables to a Specify
+  Repository and how to keep them updated.
 ---
 
 # Figma Variables & Styles

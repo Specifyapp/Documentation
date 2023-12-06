@@ -35,6 +35,7 @@
 * [Figma Variables & Styles](sdtf-beta/figma-variables.md)
 * [Tokens Studio](sdtf-beta/tokens-studio.md)
 * [CLI & Config](sdtf-beta/cli.md)
+* [GitHub](sdtf-beta/github.md)
 * [Parsers](sdtf-beta/parsers/README.md)
   * [to-css-custom-properties](sdtf-beta/parsers/to-css-custom-properties.md)
   * [to-style-dictionary](sdtf-beta/parsers/to-style-dictionary.md)

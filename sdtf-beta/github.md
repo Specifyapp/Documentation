@@ -6,10 +6,8 @@ description: >-
 
 # GitHub
 
-{% embed url="https://www.loom.com/share/771e1001bfe84c418e8afcf07455c02e" %}
-
 {% hint style="info" %}
-By default, Specify can only syncs your GitHub repository if you have a config file `.specifyrc.json` at the root of your GitHub repository. If you want to sync design tokens from several Specify repositories you need to run the Specify CLI inside a GitHub Action.
+By default, Specify can only sync your GitHub repository if you have a config file `.specifyrc.json` at the root of your GitHub repository.
 {% endhint %}
 
 ## Prerequisites
@@ -18,7 +16,7 @@ Please make sure you have:
 
 * A GitHub account
 * A Specify account
-* A Specify repository containing some design tokens and/or assets
+* One or multiple new **SDTF Beta** Specify repositories containing some design tokens.
 
 {% hint style="info" %}
 Want to connect a GitHub repository from your GitHub organization? Please make sure you have the correct access rights. Otherwise, you'll need an owner to approve your installation request.
@@ -36,22 +34,20 @@ Want to connect a GitHub repository from your GitHub organization? Please make s
 
 Once you've connected your GitHub account, Specify has to know what design tokens to synchronize and how.
 
-1. Go to the Specify repository page you want to distribute design data from
+1. Go to the Specify **SDTF Beta** repository you want to distribute design data from
 2. Go to its "Destinations" page
 3. Click on "Create Pipeline"
 4. Select "GitHub application"
 5. Select your GitHub account
 6. Select the GitHub repository you want to distribute your design data to
-7. Select your configuration template ([Learn more](../apps/broken-reference/))
+7. Name for your configuration file ([Learn More ↗︎](https://help.specifyapp.com/en/articles/8672436-how-to-sync-design-tokens-in-a-github-monorepo))
 8. Create the Pull Request containing your configuration file
 9. Merge the PR created by Specify containing your configuration file
 10. Specify will now automatically sync design data to your GitHub repository 🎉
 
-## Fixing sync issues
 
-Have trouble getting Pull Requests in your GitHub repository? Learn more about [how to fix the most common issues](https://help.specifyapp.com/en/articles/4722450-how-to-use-github-as-a-destination).
 
 ## Useful resources
 
-* [How to pull design tokens from several Specify repositories in GitHub](https://specifyapp.com/blog/how-to-pull-design-tokens-from-several-specify-repositories-on-github)
+* [How to sync design tokens in a GitHub monorepo](https://help.specifyapp.com/en/articles/8672436-how-to-sync-design-tokens-in-a-github-monorepo)
 * [How to run Style Dictionary with a GitHub Action](https://specifyapp.com/blog/github-actions-style-dictionary)
