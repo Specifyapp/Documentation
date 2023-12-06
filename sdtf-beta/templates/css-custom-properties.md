@@ -22,7 +22,7 @@ If you use the CLI, you need to fill three properties:
 
 * `repository`  is `@organization/repository`
 * `personalAccessToken` which you can generate [in your account settings](https://specifyapp.com/user/personal-access-tokens)&#x20;
-* `rules` are where you provide parsers and compatible options
+* `rules` lets you transform tokens by chaining parsers
 
 ```json
 {
@@ -93,8 +93,8 @@ If you use the CLI, you need to fill three properties:
 {% tab title="config.json (GitHub)" %}
 If you use the GitHub, you need to fill two properties:
 
-* `repository`  is `@yourOrganizationName/yourRepositoryName`
-* `rules` are where you provide parsers and compatible options
+* `repository`  is `@organization/repository`
+* `rules` lets you transform tokens by chaining parsers
 
 {% hint style="info" %}
 Make sure you have connected your GitHub account with your Specify account. Head toward [this article](https://help.specifyapp.com/en/articles/4722440-add-github-as-a-destination) to learn more.

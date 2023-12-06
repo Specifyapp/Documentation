@@ -47,6 +47,7 @@
 * [Templates](sdtf-beta/templates/README.md)
   * [CSS Custom Properties](sdtf-beta/templates/css-custom-properties.md)
   * [JSON](sdtf-beta/templates/json.md)
+  * [Tailwind](sdtf-beta/templates/tailwind.md)
 * [REST API](sdtf-beta/rest-api.md)
 
 ## Useful links
