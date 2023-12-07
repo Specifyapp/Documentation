@@ -1,12 +1,12 @@
 ---
-description: This template helps you pull your design tokens in JSON.
+description: This template helps you generate your design tokens as a Tailwind theme.
 ---
 
-# JSON
+# Tailwind
 
-This example uses three different parsers:
+This example uses the following parser:
 
-* [to-sdtf](../parsers/to-sdtf.md) to generate your design tokens in JSON
+* [to-tailwind](../parsers/to-tailwind.md) to generate your design tokens as a Tailwind theme
 
 {% tabs %}
 {% tab title="config.json (CLI)" %}
@@ -24,13 +24,13 @@ If you use the CLI, you need to fill three properties:
   "personalAccessToken": "<your-personal-access-token>",
   "rules": [
     {
-      "name": "Generate tokens in JSON",
+      "name": "Generate tokens as a Tailwind theme",
       "parsers": [
         {
-          "name": "to-sdtf",
+          "name": "to-tailwind",
           "output": {
             "type": "file",
-            "filePath": "output/tokens.json"
+            "filePath": "theme.js"
           }
         }
       ]
@@ -56,13 +56,13 @@ Make sure you have connected your GitHub account with your Specify account. Head
   "repository": "@organization/repository",
   "rules": [
     {
-      "name": "Generate tokens in JSON",
+      "name": "Generate tokens as a Tailwind theme",
       "parsers": [
         {
-          "name": "to-sdtf",
+          "name": "to-tailwind",
           "output": {
             "type": "file",
-            "filePath": "output/tokens.json"
+            "filePath": "theme.js"
           }
         }
       ]

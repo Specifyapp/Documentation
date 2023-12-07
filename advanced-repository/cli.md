@@ -1,27 +1,27 @@
 ---
 description: >-
   In this guide you’ll learn how to transform design data coming from Figma
-  Variables and/or Tokens Studio into CSS Custom Properties using the Specify
-  CLI.
+  Variables, Figma Styles and/or Tokens Studio into CSS Custom Properties using
+  the Specify CLI.
 ---
 
 # CLI & Config
 
-## 1. Install the @beta CLI
+## 1. Install the CLI
 
-Install the `@specifyapp/cli@beta` via npm.
+Install the `@specifyapp/cli` via npm.
 
 {% tabs %}
 {% tab title="NPM" %}
 ```bash
-npm install @specifyapp/cli@beta 
+npm install @specifyapp/cli 
 ```
 {% endtab %}
 {% endtabs %}
 
 ## 2. Create your Specify configuration file
 
-Since the feature is in beta we do not have a command yet to create a config file - as we do on the base Specify platform. Therefore, for now, you need to follow these steps:
+&#x20;To create your Specify config file, you need to follow these steps:
 
 * Create an empty file named `.specifyrc.json`
 * Add the following content
@@ -70,7 +70,7 @@ Since the feature is in beta we do not have a command yet to create a config fil
 
 ## 3. Properties to update in the configuration file before using it:
 
-* A property `version` is shown which refers to the new repository in beta from which we are extracting tokens. Use the `version: "2"` for the beta.
+* A property `version` is shown which refers to the new Advanced Repository from which we are extracting tokens. Use the `version: "2"`.
 * Add your organization and repository name under the `repository` property.
 * Get a personal access token [here ↗︎](https://specifyapp.com/user/personal-access-tokens).
 * Run the command `specify pull` to fetch your design tokens.
@@ -138,17 +138,10 @@ We would like to improve this output according to your needs as much as we can. 
 * The in-app chat
 
 {% hint style="info" %}
-**Things to take into account when using the beta CLI**\
+**Things to take into account when using the CLI**\
 
 
 * The configuration file can handle MJS, CJS, and JSON.
-* You can no longer specify token types inside the Configuration File (`filter.types` property).
-* You can’t synchronize design tokens from the CLI (with the `sync` command) when using the version `“2"`.
 * There is no more `path` property in the parser settings, it is now replaced by an `output` key inside every parser.
-* There’s no template yet.
-* There are 2 parsers available:
-  * `to-css-custom-properties` that can only return [Figma Variables available types](https://help.figma.com/hc/en-us/articles/14506821864087/) (only Colors and Dimensions for now).
-  * `to-sdtf` that returns your design token graph in JSON\
-
 {% endhint %}
 

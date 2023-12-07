@@ -15,7 +15,6 @@ Video tutorial (7min) to help you sync tokens from Tokens Studio to your local g
 To get the most out of this guide, you will need:
 
 * A [Specify](http://specifyapp.com/) account
-* Access to the [Specify SDTF Beta](https://specifyapp.com/design-token-format)
 * The [Tokens Studio](https://tokens.studio/) plugin installed in your Figma
 * A [GitHub](https://github.com/), [GitLab](https://gitlab.com/), [Azure DevOps](https://dev.azure.com/), or [JSONBin](https://jsonbin.io/) account
 
@@ -35,11 +34,12 @@ You can also manually export your file from Tokens Studio and upload it manually
 
 1. Go to your Specify workspace
 2. Click on "Create repository"
-3. Name your repository
-4. Select "Sync from Figma Variables & Tokens Studio" ([Learn more ↗︎](https://help.specifyapp.com/en/articles/7983267-what-type-of-repository-do-i-need))
-5. Click on "Create repository"
-6. In the "Source" tab, click on "Create a source"
-7. Select "Remote URL"
+3. Choose "Advanced Repository"
+4. Name your repository
+5. Select "Sync from Figma Variables & Tokens Studio" ([Learn more ↗︎](https://help.specifyapp.com/en/articles/7983267-what-type-of-repository-do-i-need))
+6. Click on "Create repository"
+7. In the "Source" tab, click on "Create a source"
+8. Select "Remote URL"
 
 At this point, you have two ways to sync your JSON file. Either with a public hosting link or a private one. We will go through both options below.
 
@@ -70,7 +70,7 @@ On the opposite of the public URL, Specify will ask you for some additional info
 Requirements:
 
 * Have a GitHub account
-* Have a repository created
+* Have an Advanced Repository created
 * Have a JSON file containing design tokens from Tokens Studio
 
 To add a private URL source from GitHub to Specify:
@@ -114,7 +114,7 @@ To add a private URL source from Azure DevOps to Specify:
 Requirements:
 
 * Have a GitLab account
-* Have a repository created
+* Have an Advanced Repository created
 * Have a JSON file containing design tokens from Tokens Studio
 
 To add a private URL source from GitLab to Specify:
@@ -139,6 +139,7 @@ To add a private URL source from GitLab to Specify:
 Requirements:
 
 * Have a JSONBin account
+* Have an Advanced Repository created
 * Have a bin with a JSON file containing design tokens from Tokens Studio
 
 To add a private URL source from JSONBin to Specify:

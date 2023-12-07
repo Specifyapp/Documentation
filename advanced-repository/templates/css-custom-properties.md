@@ -7,7 +7,7 @@ description: >-
 
 # CSS Custom Properties
 
-This example uses three different parsers:
+This example uses four different parsers:
 
 * [filter](https://docs.specifyapp.com/sdtf-beta/parsers/filter) to target on a specific collection named "Colors" that contains our colors
 * [convert-color](https://docs.specifyapp.com/sdtf-beta/parsers/convert-color) to convert our colors in HSL

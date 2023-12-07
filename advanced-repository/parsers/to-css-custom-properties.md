@@ -1,5 +1,5 @@
 ---
-description: This parser helps you transform design tokens in CSS Custom Properties.
+description: This parser helps you transform design tokens into CSS Custom Properties.
 ---
 
 # to-css-custom-properties
@@ -157,5 +157,5 @@ A design token can have modes, be nested in groups and be part of a collection. 
 {% endtabs %}
 
 {% hint style="info" %}
-Head toward our [templates section](../templates/css-custom-properties.md) to see how you can use this parser with others to suit a common use case when working with CSS.
+Head towards our [templates section](../templates/css-custom-properties.md) to see how you can use this parser with others to suit a common use case when working with CSS.
 {% endhint %}

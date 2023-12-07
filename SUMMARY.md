@@ -1,12 +1,33 @@
 # Table of contents
 
-* [Introduction](introduction.md)
-
 ## Getting started
 
+* [Introduction](introduction.md)
 * [What is Specify](getting-started/what-is-specify.md)
 * [Getting started](getting-started/getting-started.md)
 * [Glossary](getting-started/glossary.md)
+
+## Advanced Repository
+
+* [Getting started](advanced-repository/getting-started.md)
+* [Figma Variables & Styles](advanced-repository/figma-variables.md)
+* [Tokens Studio](advanced-repository/tokens-studio.md)
+* [CLI & Config](advanced-repository/cli.md)
+* [GitHub](advanced-repository/github.md)
+* [Parsers](advanced-repository/parsers/README.md)
+  * [to-css-custom-properties](advanced-repository/parsers/to-css-custom-properties.md)
+  * [to-style-dictionary](advanced-repository/parsers/to-style-dictionary.md)
+  * [to-tailwind](advanced-repository/parsers/to-tailwind.md)
+  * [to-sdtf](advanced-repository/parsers/to-sdtf.md)
+  * [filter](advanced-repository/parsers/filter.md)
+  * [select-modes](advanced-repository/parsers/select-modes.md)
+  * [change-case](advanced-repository/parsers/change-case.md)
+  * [convert-color](advanced-repository/parsers/convert-color.md)
+* [Templates](advanced-repository/templates/README.md)
+  * [CSS Custom Properties](advanced-repository/templates/css-custom-properties.md)
+  * [JSON](advanced-repository/templates/json.md)
+  * [Tailwind](advanced-repository/templates/tailwind.md)
+* [REST API](advanced-repository/rest-api.md)
 
 ## Concepts
 
@@ -28,28 +49,6 @@
 * [CLI](apps-and-tools/cli.md)
 * [Notion](apps-and-tools/notion.md)
 * [Raycast](apps-and-tools/raycast.md)
-
-## SDTF - beta
-
-* [Getting started](sdtf-beta/getting-started.md)
-* [Figma Variables & Styles](sdtf-beta/figma-variables.md)
-* [Tokens Studio](sdtf-beta/tokens-studio.md)
-* [CLI & Config](sdtf-beta/cli.md)
-* [GitHub](sdtf-beta/github.md)
-* [Parsers](sdtf-beta/parsers/README.md)
-  * [to-css-custom-properties](sdtf-beta/parsers/to-css-custom-properties.md)
-  * [to-style-dictionary](sdtf-beta/parsers/to-style-dictionary.md)
-  * [to-tailwind](sdtf-beta/parsers/to-tailwind.md)
-  * [to-sdtf](sdtf-beta/parsers/to-sdtf.md)
-  * [filter](sdtf-beta/parsers/filter.md)
-  * [select-modes](sdtf-beta/parsers/select-modes.md)
-  * [change-case](sdtf-beta/parsers/change-case.md)
-  * [convert-color](sdtf-beta/parsers/convert-color.md)
-* [Templates](sdtf-beta/templates/README.md)
-  * [CSS Custom Properties](sdtf-beta/templates/css-custom-properties.md)
-  * [JSON](sdtf-beta/templates/json.md)
-  * [Tailwind](sdtf-beta/templates/tailwind.md)
-* [REST API](sdtf-beta/rest-api.md)
 
 ## Useful links
 

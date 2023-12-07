@@ -11,7 +11,7 @@ description: >-
 In this guide you’ll learn how to pull your first design tokens and assets to CSS Custom Properties using the Specify CLI.
 
 {% hint style="info" %}
-This guide helps you to sync tokens from Figma local styles and frames to Specify. Want to sync Figma Variables instead? [Click here](../sdtf-beta/getting-started.md) to learn more.
+This guide helps you to sync tokens from Figma local styles and frames to Specify. Want to sync Figma Variables instead? [Click here](../advanced-repository/getting-started.md) to learn more.
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=iFa-MEjFbmE" %}

@@ -1,13 +1,13 @@
 ---
 description: >-
-  Learn how to distribute your design tokens and assets from Specify to your
-  GitHub repositories via automated Pull Request.
+  Learn how to distribute your design tokens from Specify to your GitHub
+  repositories via automated Pull Requests.
 ---
 
 # GitHub
 
 {% hint style="info" %}
-By default, Specify can only sync your GitHub repository if you have a config file `.specifyrc.json` at the root of your GitHub repository.
+Specify will sync your GitHub repository if you have a config file `.specifyrc.json` saved at the root of your GitHub repository.
 {% endhint %}
 
 ## Prerequisites
@@ -16,7 +16,7 @@ Please make sure you have:
 
 * A GitHub account
 * A Specify account
-* One or multiple new **SDTF Beta** Specify repositories containing some design tokens.
+* One or multiple new **Advanced Repositories** Specify repositories containing some design tokens.
 
 {% hint style="info" %}
 Want to connect a GitHub repository from your GitHub organization? Please make sure you have the correct access rights. Otherwise, you'll need an owner to approve your installation request.
@@ -34,7 +34,7 @@ Want to connect a GitHub repository from your GitHub organization? Please make s
 
 Once you've connected your GitHub account, Specify has to know what design tokens to synchronize and how.
 
-1. Go to the Specify **SDTF Beta** repository you want to distribute design data from
+1. Go to the Specify **Advanced Repository** you want to distribute design data from
 2. Go to its "Destinations" page
 3. Click on "Create Pipeline"
 4. Select "GitHub application"
