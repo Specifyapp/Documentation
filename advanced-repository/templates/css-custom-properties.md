@@ -16,9 +16,11 @@ This example uses four different parsers:
 
 This template is an example among others. Head toward the [to-css-custom-properties](https://docs.specifyapp.com/sdtf-beta/parsers/to-css-custom-properties) page to get all available options.&#x20;
 
-{% tabs %}
-{% tab title="config.json (CLI)" %}
-If you use the CLI, you need to fill three properties:
+
+
+## CLI configuration
+
+When using the CLI, you need to fill three properties:
 
 * `repository`  is `@organization/repository`
 * `personalAccessToken` which you can generate [in your account settings](https://specifyapp.com/user/personal-access-tokens)&#x20;
@@ -88,9 +90,9 @@ If you use the CLI, you need to fill three properties:
   ]
 }
 ```
-{% endtab %}
 
-{% tab title="config.json (GitHub)" %}
+## GitHub configuration
+
 If you use the GitHub, you need to fill two properties:
 
 * `repository`  is `@organization/repository`
@@ -163,5 +165,3 @@ Make sure you have connected your GitHub account with your Specify account. Head
   ]
 }
 ```
-{% endtab %}
-{% endtabs %}
