@@ -11,12 +11,14 @@ description: >-
 ```typescript
 interface parser {
   name: 'to-javascript';
-  output:
-    | { type: 'directory'; directoryPath: string }
-    | { type: 'file'; filePath: string }
-    | { type: 'SDTF' }
-    | { type: 'text' }
-    | { type: 'JSON'; filePath: string };
+  output: {
+    type: 'file';
+    filePath: string;
+  };
+  options?: {
+    typescript?: boolean;
+    moduleExport?: 'es6' | 'commonjs';
+  };
 }
 ```
 
