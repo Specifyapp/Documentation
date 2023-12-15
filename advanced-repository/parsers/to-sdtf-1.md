@@ -1,7 +1,7 @@
 ---
 description: >-
   This parser helps you pull design tokens as JavaScript objects for all token
-  types and their respective getter functions.
+  types and their respective helper functions.
 ---
 
 # to-javascript
