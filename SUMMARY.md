@@ -19,6 +19,7 @@
   * [to-style-dictionary](advanced-repository/parsers/to-style-dictionary.md)
   * [to-tailwind](advanced-repository/parsers/to-tailwind.md)
   * [to-sdtf](advanced-repository/parsers/to-sdtf.md)
+  * [to-javascript](advanced-repository/parsers/to-sdtf-1.md)
   * [filter](advanced-repository/parsers/filter.md)
   * [select-modes](advanced-repository/parsers/select-modes.md)
   * [change-case](advanced-repository/parsers/change-case.md)
