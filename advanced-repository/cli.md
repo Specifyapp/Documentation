@@ -7,14 +7,22 @@ description: >-
 
 # CLI & Config
 
+{% embed url="https://youtu.be/u2w2HE495Po" %}
+
 ## 1. Install the CLI
 
-Install the `@specifyapp/cli` via npm.
+Install the `@specifyapp/cli` via npm or Yarn.
 
 {% tabs %}
 {% tab title="NPM" %}
 ```bash
 npm install @specifyapp/cli 
+```
+{% endtab %}
+
+{% tab title="Yarn" %}
+```bash
+yarn global add @specifyapp/cli
 ```
 {% endtab %}
 {% endtabs %}
