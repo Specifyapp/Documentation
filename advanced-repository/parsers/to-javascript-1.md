@@ -124,9 +124,6 @@ interface parser {
           "output": {
             "type": "file",
             "filePath": "tokens.json"
-          },
-          "options": {
-            "output": "raw"
           }
         }
       ]
