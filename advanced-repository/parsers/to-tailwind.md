@@ -17,7 +17,7 @@ interface parser {
   };
   options?: {
     useCssVariable?: boolean;
-    tokenNameTemplate?: string;
+    cssVariableTemplate?: string;
   };
 }
 ```
