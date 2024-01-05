@@ -28,7 +28,7 @@
   * [convert-color](advanced-repository/parsers/convert-color.md)
 * [Templates](advanced-repository/templates/README.md)
   * [CSS Custom Properties](advanced-repository/templates/css-custom-properties.md)
-  * [JSON](advanced-repository/templates/json.md)
+  * [SDTF](advanced-repository/templates/sdtf.md)
   * [Tailwind](advanced-repository/templates/tailwind.md)
 * [REST API](advanced-repository/rest-api.md)
 

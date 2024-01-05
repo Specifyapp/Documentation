@@ -1,12 +1,14 @@
 ---
-description: This template helps you pull your design tokens in JSON.
+description: >-
+  This template helps you pull your design tokens in the SDTF format in a JSON
+  file.
 ---
 
-# JSON
+# SDTF
 
 This example uses the following parser:
 
-* [to-sdtf](../parsers/to-sdtf.md) to generate your design tokens in JSON
+* [to-sdtf](../parsers/to-sdtf.md) to generate your design tokens in SDTF
 
 {% tabs %}
 {% tab title="config.json (CLI)" %}
@@ -24,7 +26,7 @@ If you use the CLI, you need to fill three properties:
   "personalAccessToken": "<your-personal-access-token>",
   "rules": [
     {
-      "name": "Generate tokens in JSON",
+      "name": "Generate tokens in SDTF",
       "parsers": [
         {
           "name": "to-sdtf",
