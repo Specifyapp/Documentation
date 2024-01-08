@@ -285,3 +285,40 @@ type WhereCollection = {
 }
 ```
 {% endcode %}
+
+### Select tokens from several groups with different names
+
+{% code title=".specifyrc.json" lineNumbers="true" %}
+```typescript
+{
+  "version": "2",
+  "repository": "@organization/repository",
+  "personalAccessToken": "<your-personal-access-token>",
+  "rules": [
+    {
+      "name": "Get tokens from the group named 'Components' and/or from the group named 'Semantic'",
+      "parsers": [
+        {
+          "name": "filter",
+          "options": {
+            "where": {
+              "collection": "^Android$",
+              "andWhere": {
+                "group": "^Components$|^Semantic$",
+                "andWhere": {
+                  "token": ".*",
+                  "select": {
+                    "token": true,
+                    "parents": true
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
+```
+{% endcode %}
