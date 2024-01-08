@@ -13,6 +13,7 @@
 * [Figma Variables & Styles](advanced-repository/figma-variables.md)
 * [Tokens Studio](advanced-repository/tokens-studio.md)
 * [CLI & Config](advanced-repository/cli.md)
+* [Querying a SDTF graph](advanced-repository/querying-a-sdtf-graph.md)
 * [GitHub](advanced-repository/github.md)
 * [Parsers](advanced-repository/parsers/README.md)
   * [to-css-custom-properties](advanced-repository/parsers/to-css-custom-properties.md)

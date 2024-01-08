@@ -50,7 +50,7 @@ interface parser {
 | { group: string | true }
 | { token: string | true }
 | SDTFQuery
-</code></pre></td><td></td><td>The selection where to apply the transformation.<br><br><code>collection</code>, <code>group</code>, <code>token</code> take a Regex string or <code>true</code> to select anything of the kind.<br><br>An <code>SDTFQuery</code> can be used for advance use cases.</td></tr></tbody></table>
+</code></pre></td><td></td><td>The selection where to apply the transformation.<br><br><code>collection</code>, <code>group</code>, <code>token</code> take a Regex string or <code>true</code> to select anything of the kind.<br><br>An <code>SDTFQuery</code> can be used for advance use cases. Learn more about <a href="../querying-a-sdtf-graph.md">how to query your SDTF graph</a>.</td></tr></tbody></table>
 
 ## Basic usage
 

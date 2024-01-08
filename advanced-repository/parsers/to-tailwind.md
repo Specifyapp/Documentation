@@ -17,7 +17,10 @@ interface parser {
   };
   options?: {
     useCssVariable?: boolean;
-    cssVariableTemplate?: string;
+    cssVariableTemplate?: {
+      tokenNameTemplate?: string;
+      tokenNotInCollectionNameTemplate?: string;
+    }
   };
 }
 ```
