@@ -32,6 +32,7 @@
   * [SDTF](advanced-repository/templates/sdtf.md)
   * [Tailwind](advanced-repository/templates/tailwind.md)
 * [REST API](advanced-repository/rest-api.md)
+* [Playground](advanced-repository/playground.md)
 
 ## Concepts
 
