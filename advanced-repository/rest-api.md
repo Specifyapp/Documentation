@@ -14,7 +14,7 @@ New to Specify? Head over to the existing REST API [documentation](https://docs.
 
 Specify provides the following endpoint to help you get design tokens and assets from a Specify repository.
 
-`https://api.specifyapp.com/v2/repository/{workspace}/{repository}/execute-rule`
+`https://api.specifyapp.com/v2/{workspace}/repository/{repository}/execute-rule`
 
 ## Parameters
 
