@@ -18,7 +18,7 @@ Specify provides the following endpoint to help you get design tokens and assets
 
 ## Parameters
 
-{% swagger method="post" path="" baseUrl="https://api.specifyapp.com/v2/repository/{workspace}/{repository}/execute-rule" summary="Get tokens graph" %}
+{% swagger method="post" path="" baseUrl="https://api.specifyapp.com/v2/{workspace}/repository/{repository}/execute-rule" summary="Get tokens graph" %}
 {% swagger-description %}
 Get design tokens and assets from a Specify repository. You can only execute a single rule with this endpoint.
 {% endswagger-description %}
