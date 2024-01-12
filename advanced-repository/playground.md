@@ -17,5 +17,5 @@ The Specify Playground helps you run parsers against a token graph and see the g
 ## Usage
 
 * The left side panel contains the SDTF graph you'll run your rules against. It's editable and you're free to use your own SDTF graph which you can get with the [to-sdtf](parsers/to-sdtf.md) parser.
-* The middle panel contain your rules
+* The middle panel contain your Specify configuration rule.
 * The right side panel displays the generated code
