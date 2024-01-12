@@ -16,6 +16,8 @@ You'll need to query your graph when using the following parsers:
 
 * [filter](parsers/filter.md)
 * [change-case](parsers/change-case.md)
+* [convert-color](parsers/convert-color.md)
+* [convert-dimension](parsers/convert-color-1.md)
 
 ## Query structure
 
