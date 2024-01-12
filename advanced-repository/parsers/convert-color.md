@@ -1,7 +1,6 @@
 ---
 description: >-
-  This parser helps you convert the color formats of color compatible tokens
-  over a SDTF graph.
+  This parser helps you convert color formats of color tokens.
 ---
 
 # convert-color
