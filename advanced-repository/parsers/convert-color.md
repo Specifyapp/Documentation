@@ -1,6 +1,5 @@
 ---
-description: >-
-  This parser helps you convert color formats of color tokens.
+description: This parser helps you convert color formats of color tokens.
 ---
 
 # convert-color
@@ -29,7 +28,7 @@ interface parser {
 
 ## Options
 
-<table><thead><tr><th width="186">Parameter</th><th width="127.33333333333331">Required</th><th width="341">Type</th><th width="136">Default</th><th width="237">Description</th></tr></thead><tbody><tr><td><code>toColorFormat</code></td><td>required</td><td><pre class="language-typescript"><code class="lang-typescript">| 'hex' 
+<table><thead><tr><th width="186">Parameter</th><th width="127.33333333333331">Required</th><th width="341">Type</th><th width="136">Default</th><th width="237">Description</th></tr></thead><tbody><tr><td><code>toFormat</code></td><td>required</td><td><pre class="language-typescript"><code class="lang-typescript">| 'hex' 
 | 'rgb' 
 | 'hsl' 
 | 'hsb' 
@@ -40,7 +39,7 @@ interface parser {
 | { token: string | true }
 | SDTFQuery
 </code></pre></td><td><pre><code>{ token: true }
-</code></pre></td><td>The selection where to apply the transformation.<br><br><code>collection</code>, <code>group</code>, <code>token</code> take a Regex string or <code>true</code> to select anything of the kind.<br><br>An <code>SDTFQuery</code> can be used for advance use cases.</td></tr></tbody></table>
+</code></pre></td><td>The selection where to apply the transformation.<br><br><code>collection</code>, <code>group</code>, <code>token</code> take a Regex string or <code>true</code> to select anything of the kind.<br><br>An <code>SDTFQuery</code> can be used for advance use cases. Learn more about <a href="../querying-a-sdtf-graph.md">how to query your SDTF graph</a>.</td></tr></tbody></table>
 
 ## Basic usage
 

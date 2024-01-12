@@ -27,6 +27,7 @@
   * [select-modes](advanced-repository/parsers/select-modes.md)
   * [change-case](advanced-repository/parsers/change-case.md)
   * [convert-color](advanced-repository/parsers/convert-color.md)
+  * [convert-dimension](advanced-repository/parsers/convert-color-1.md)
 * [Templates](advanced-repository/templates/README.md)
   * [CSS Custom Properties](advanced-repository/templates/css-custom-properties.md)
   * [SDTF](advanced-repository/templates/sdtf.md)
