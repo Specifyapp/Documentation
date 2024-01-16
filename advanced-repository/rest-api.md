@@ -83,13 +83,3 @@ curl -X POST 'https://api.specifyapp.com/v2/@acme-inc/repository/all-design-data
     ]
 }'
 ```
-
-## Commands
-
-### Pull
-
-Pull design tokens and assets from your Specify repository.
-
-```bash
-specify pull
-```
