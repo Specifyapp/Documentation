@@ -87,11 +87,11 @@ A design token can have modes, be nested in groups and be part of a collection. 
               "$description": "alias token with n modes within collection within n groups",
               "$value": {
                 "Dark": {
-                  "$mode": "dark",
+                  "$mode": "Dark",
                   "$alias": "colors.core.blue-100"
                 },
                 "Light": {
-                  "$mode": "light",
+                  "$mode": "Light",
                   "$alias": "colors.core.blue-700"
                 }
               }
