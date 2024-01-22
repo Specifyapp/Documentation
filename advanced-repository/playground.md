@@ -12,7 +12,7 @@ The Specify Playground helps you run parsers against a token graph and see the g
 
 [https://iframe.specifyapp.com/sdtf-playground/index.html](https://iframe.specifyapp.com/sdtf-playground/index.html)
 
-<figure><img src="../.gitbook/assets/specify-playground.gif" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/9e94IoNooxY" %}
 
 ## Usage
 
