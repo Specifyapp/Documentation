@@ -3,7 +3,7 @@
 ## Getting started
 
 * [Introduction](introduction.md)
-* [What is Specify](getting-started/what-is-specify.md)
+* [What is Specify?](getting-started/what-is-specify.md)
 * [Getting started](getting-started/getting-started.md)
 * [Glossary](getting-started/glossary.md)
 
